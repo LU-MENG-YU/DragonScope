@@ -2,7 +2,7 @@ window.WD_INTEL_DATA = {
   "meta": {
     "team_name": "味全龍",
     "version": "0.2.1",
-    "generated_at": "2026-09-23 09:10 +0800",
+    "generated_at": "2026-09-23 09:21 +0800",
     "seasons": [
       "2026"
     ],
@@ -11174,8 +11174,8 @@ window.WD_INTEL_DATA = {
       "status": "ok",
       "auth": "none",
       "mode": "public web / Next.js payload",
-      "last_checked": "2026-09-23T09:09:53+08:00",
-      "last_success": "2026-09-23T09:09:53+08:00",
+      "last_checked": "2026-09-23T09:21:33+08:00",
+      "last_success": "2026-09-23T09:21:33+08:00",
       "records": 82,
       "note": "CPBL Stats 公開球員名單 82 人"
     },
@@ -11185,8 +11185,8 @@ window.WD_INTEL_DATA = {
       "status": "ok",
       "auth": "none",
       "mode": "public web JSON",
-      "last_checked": "2026-09-23T09:10:02+08:00",
-      "last_success": "2026-09-23T09:10:02+08:00",
+      "last_checked": "2026-09-23T09:21:44+08:00",
+      "last_success": "2026-09-23T09:21:44+08:00",
       "records": 576,
       "note": "CPBL 2026: 味全一、二軍 229 場；近期先發 19 場"
     },
@@ -11196,8 +11196,8 @@ window.WD_INTEL_DATA = {
       "status": "ok",
       "auth": "none",
       "mode": "RSS",
-      "last_checked": "2026-09-23T09:10:04+08:00",
-      "last_success": "2026-09-23T09:10:04+08:00",
+      "last_checked": "2026-09-23T09:21:46+08:00",
+      "last_success": "2026-09-23T09:21:46+08:00",
       "records": 23,
       "note": "3/3 feed(s)；23 則"
     }
