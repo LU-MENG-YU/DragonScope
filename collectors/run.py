@@ -9,14 +9,14 @@ Core behavior is already production-oriented even while all live sources are dis
 - write both JSON and JS bundles atomically enough for a static repository workflow.
 """
 from __future__ import annotations
-import argparse, importlib, json, re, sys
+import argparse, importlib, inspect, json, re, sys
 from pathlib import Path
 from datetime import datetime
 
 ROOT=Path(__file__).resolve().parents[1]
 if str(ROOT) not in sys.path: sys.path.insert(0,str(ROOT))
 JS=ROOT/'data'/'public-data.js'; JSON=ROOT/'data'/'public-data.json'; CONF=ROOT/'config'/'sources.json'
-MODULES={'cpbl_stats':'collectors.sources.cpbl_stats','cpbl':'collectors.sources.cpbl','news':'collectors.sources.rss','wdragons':'collectors.sources.rss'}
+MODULES={'cpbl_stats':'collectors.sources.cpbl_stats','cpbl':'collectors.sources.cpbl','news':'collectors.sources.rss','wdragons':'collectors.sources.rss','venues':'collectors.sources.venues','weather':'collectors.sources.weather'}
 COLLECTIONS=('players','venues','games','events','lineups')
 
 def load_js_data():
@@ -41,11 +41,11 @@ def upsert(existing:list[dict], incoming:list[dict]) -> list[dict]:
 
 def status_map(data): return {x.get('id'):x for x in data.get('source_status',[]) if x.get('id')}
 
-def run_source(source_id,cfg,previous_status):
+def run_source(source_id,cfg,previous_status,data):
     module_name=MODULES.get(source_id)
     if not module_name: raise RuntimeError(f'No module registered for source {source_id}')
     module=importlib.import_module(module_name)
-    result=module.collect(cfg)
+    params=inspect.signature(module.collect).parameters\n    result=module.collect(cfg,data=data) if 'data' in params else module.collect(cfg)
     name=cfg.get('name',source_id.upper());auth=cfg.get('auth','none');mode=cfg.get('mode',Path(cfg.get('adapter','')).stem or 'adapter')
     return result, result.status_record(name=name,auth=auth,mode=mode,previous_success=(previous_status or {}).get('last_success'))
 
@@ -60,7 +60,7 @@ def main():
     changed=False
     for sid,cfg in enabled.items():
         try:
-            result,status=run_source(sid,cfg,statuses.get(sid))
+            result,status=run_source(sid,cfg,statuses.get(sid),data)
             statuses[sid]=status
             if result.status in {'ok','warn'}:
                 for col in COLLECTIONS:
