@@ -1,7 +1,7 @@
 import unittest
 from datetime import date
 
-from collectors.sources import cpbl, cpbl_stats
+from collectors.sources import cpbl, cpbl_stats, venues, weather
 
 
 class CPBLNormalizationTests(unittest.TestCase):
@@ -55,6 +55,20 @@ class CPBLStatsTests(unittest.TestCase):
         self.assertEqual(players[0]['position_group'], '內野手')
         self.assertEqual(players[0]['id'], 'cpbl-0000001234')
         self.assertNotIn('level', players[0])
+
+
+class VenueWeatherTests(unittest.TestCase):
+    def test_venue_registry_enriches_tianmu(self):
+        result = venues.collect({})
+        tianmu = next(v for v in result.payload['venues'] if v.get('source_name') == '天母')
+        self.assertEqual(tianmu['city'], '臺北市')
+        self.assertFalse(tianmu['indoor'])
+        self.assertIn('latitude', tianmu)
+
+    def test_weather_nearest_hour(self):
+        times = ['2026-09-24T18:00', '2026-09-24T19:00']
+        self.assertEqual(weather._nearest_hour_index(times, '2026-09-24', '18:35'), 1)
+        self.assertEqual(weather._wmo_text(61), '雨')
 
 
 if __name__ == '__main__':
