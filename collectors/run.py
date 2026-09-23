@@ -45,7 +45,8 @@ def run_source(source_id,cfg,previous_status,data):
     module_name=MODULES.get(source_id)
     if not module_name: raise RuntimeError(f'No module registered for source {source_id}')
     module=importlib.import_module(module_name)
-    params=inspect.signature(module.collect).parameters\n    result=module.collect(cfg,data=data) if 'data' in params else module.collect(cfg)
+    params=inspect.signature(module.collect).parameters
+    result=module.collect(cfg,data=data) if 'data' in params else module.collect(cfg)
     name=cfg.get('name',source_id.upper());auth=cfg.get('auth','none');mode=cfg.get('mode',Path(cfg.get('adapter','')).stem or 'adapter')
     return result, result.status_record(name=name,auth=auth,mode=mode,previous_success=(previous_status or {}).get('last_success'))
 
