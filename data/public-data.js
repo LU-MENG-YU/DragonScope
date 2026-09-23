@@ -2,7 +2,7 @@ window.WD_INTEL_DATA = {
   "meta": {
     "team_name": "味全龍",
     "version": "0.3.0",
-    "generated_at": "2026-09-23 01:40 +0000",
+    "generated_at": "2026-09-23 01:41 +0000",
     "seasons": [
       "2026"
     ],
@@ -10906,10 +10906,10 @@ window.WD_INTEL_DATA = {
       "date": "2026-09-19",
       "time": "09:20",
       "type": "NEWS",
-      "title": "陳冠偉60次中繼成功追平味全龍隊史葉總：還能更恐怖| 運動 - cna.com.tw",
-      "summary": "陳冠偉60次中繼成功追平味全龍隊史葉總：還能更恐怖| 運動 cna.com.tw",
+      "title": "陳冠偉60次中繼成功追平味全龍隊史葉總：還能更恐怖| 運動 - 中央社 CNA",
+      "summary": "陳冠偉60次中繼成功追平味全龍隊史葉總：還能更恐怖| 運動 中央社 CNA",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5PT0V5NHJrcnh6UmZ6aEczMXZqcE92blN1d0FsbkloTEpTdUJvYmxsQnJoeFVlUF9ObHlwdTU4VmtVcGxjRzdsbTZRby0zZkVGZXExX05yeFhUVEJSYkRV?oc=5",
-      "source": "cna.com.tw",
+      "source": "中央社 CNA",
       "tags": [
         "RSS",
         "新聞"
@@ -10948,10 +10948,10 @@ window.WD_INTEL_DATA = {
       "date": "2026-09-22",
       "time": "14:44",
       "type": "NEWS",
-      "title": "龍隊打線發揮12分差搶勝獅隊43歲老將陳鏞基初登板投球| 運動 - cna.com.tw",
-      "summary": "龍隊打線發揮12分差搶勝獅隊43歲老將陳鏞基初登板投球| 運動 cna.com.tw",
+      "title": "龍隊打線發揮12分差搶勝獅隊43歲老將陳鏞基初登板投球| 運動 - 中央社 CNA",
+      "summary": "龍隊打線發揮12分差搶勝獅隊43歲老將陳鏞基初登板投球| 運動 中央社 CNA",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5WMmZlLVlDcl9sank1Zk8ta3JlX1RXOGl0ampQbXE5Y1NnVW5PQnFJY0dzRENhMGRmOFM5bC1GcFNJTUwyRUJJR3NxS3RUTVZYSkFRZ1g1QU9wYmdJUWJN?oc=5",
-      "source": "cna.com.tw",
+      "source": "中央社 CNA",
       "tags": [
         "RSS",
         "新聞"
@@ -10988,7 +10988,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-1bd982976ae6",
       "date": "2026-09-22",
-      "time": "12:39",
+      "time": "03:35",
       "type": "NEWS",
       "title": "上半季墊底、下半季第1！中信兄弟又要演逆襲了？ | 眼鏡哥看體育 - LINE TODAY",
       "summary": "上半季墊底、下半季第1！中信兄弟又要演逆襲了？ | 眼鏡哥看體育 LINE TODAY",
@@ -11438,10 +11438,10 @@ window.WD_INTEL_DATA = {
       "date": "2026-08-29",
       "time": "07:00",
       "type": "NEWS",
-      "title": "味全龍3上3下本季最大異動 葉總看季後賽：關鍵在9月 - cna.com.tw",
-      "summary": "味全龍3上3下本季最大異動 葉總看季後賽：關鍵在9月 cna.com.tw",
+      "title": "味全龍3上3下本季最大異動 葉總看季後賽：關鍵在9月 - 中央社 CNA",
+      "summary": "味全龍3上3下本季最大異動 葉總看季後賽：關鍵在9月 中央社 CNA",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4zR19nTlE5djVIdXQtbldEWnl6SktpdV96THZaMS1pX1lCNXFQMWF3a05oUG00dTNmaGVqbmg0dW1VS0NLRE5zbDh1NWdCOVUtQlFiVTNCczJ1cTZjX2lF?oc=5",
-      "source": "cna.com.tw",
+      "source": "中央社 CNA",
       "tags": [
         "RSS",
         "新聞"
@@ -11494,10 +11494,10 @@ window.WD_INTEL_DATA = {
       "date": "2026-08-28",
       "time": "07:00",
       "type": "NEWS",
-      "title": "味全龍公布新秀簽約結果榜眼廖永詮簽約金570萬元| 運動 - cna.com.tw",
-      "summary": "味全龍公布新秀簽約結果榜眼廖永詮簽約金570萬元| 運動 cna.com.tw",
+      "title": "味全龍公布新秀簽約結果榜眼廖永詮簽約金570萬元| 運動 - 中央社 CNA",
+      "summary": "味全龍公布新秀簽約結果榜眼廖永詮簽約金570萬元| 運動 中央社 CNA",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qdmthckhiU1BHa0FmazNOd1dDV1hVdEhGSDY3X09yNERBVWFGUkNDVVU5OEZlNmVrTGVWS3c2d3RGSzAtNV9Qd0Jjbi1ycDYzWGh2N2thdUdoZ2NSTkpF?oc=5",
-      "source": "cna.com.tw",
+      "source": "中央社 CNA",
       "tags": [
         "RSS",
         "新聞"
@@ -11620,10 +11620,10 @@ window.WD_INTEL_DATA = {
       "date": "2026-08-29",
       "time": "07:00",
       "type": "NEWS",
-      "title": "味全龍公益「龍躍列車」 陪特殊需求者走進球場| 運動 - cna.com.tw",
-      "summary": "味全龍公益「龍躍列車」 陪特殊需求者走進球場| 運動 cna.com.tw",
+      "title": "味全龍公益「龍躍列車」 陪特殊需求者走進球場| 運動 - 中央社 CNA",
+      "summary": "味全龍公益「龍躍列車」 陪特殊需求者走進球場| 運動 中央社 CNA",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Fd3RlbUlxT19iZU4tUk1EZnhzbEdHYk1EQVpyX0ZUMVlYUXRHeFF2QkRMMHZjOS1RR3pLN1hPUWpseTZmYnFaMWlRSGJ6N095MFR0Z0NrVTMtbDRIWGNv?oc=5",
-      "source": "cna.com.tw",
+      "source": "中央社 CNA",
       "tags": [
         "RSS",
         "新聞"
@@ -11690,10 +11690,10 @@ window.WD_INTEL_DATA = {
       "date": "2026-09-11",
       "time": "07:00",
       "type": "NEWS",
-      "title": "味全龍最會打7到9局葉君璋以劉俊緯「預告MVP」為例| 運動 - cna.com.tw",
-      "summary": "味全龍最會打7到9局葉君璋以劉俊緯「預告MVP」為例| 運動 cna.com.tw",
+      "title": "味全龍最會打7到9局葉君璋以劉俊緯「預告MVP」為例| 運動 - 中央社 CNA",
+      "summary": "味全龍最會打7到9局葉君璋以劉俊緯「預告MVP」為例| 運動 中央社 CNA",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4zZXRhTlhTVHR6aHkwU09JMndEcE9yTjBGZ0NnNEtFdUp2WmtRamFMUlJObU43M2labDlud2RObTZKVHQyTXJ0aEQtUnBpQk9zYXNoZFdydjhtZmJoOWpv?oc=5",
-      "source": "cna.com.tw",
+      "source": "中央社 CNA",
       "tags": [
         "RSS",
         "新聞"
@@ -12860,8 +12860,8 @@ window.WD_INTEL_DATA = {
       "status": "ok",
       "auth": "none",
       "mode": "public web / Next.js payload",
-      "last_checked": "2026-09-23T01:39:54+00:00",
-      "last_success": "2026-09-23T01:39:54+00:00",
+      "last_checked": "2026-09-23T01:40:47+00:00",
+      "last_success": "2026-09-23T01:40:47+00:00",
       "records": 82,
       "note": "CPBL Stats 公開球員名單 82 人"
     },
@@ -12871,7 +12871,7 @@ window.WD_INTEL_DATA = {
       "status": "bad",
       "auth": "none",
       "mode": "public web JSON",
-      "last_checked": "2026-09-23T01:39:55+00:00",
+      "last_checked": "2026-09-23T01:40:48+00:00",
       "last_success": "2026-09-23T09:21:44+08:00",
       "records": 0,
       "note": "No WDragons CPBL schedule was collected. | 一軍賽程失敗: 404 Client Error: Not Found for url: https://www.cpbl.com.tw/schedule; 二軍賽程失敗: 404 Client Error: Not Found for url: https://www.cpbl.com.tw/schedule"
@@ -12882,8 +12882,8 @@ window.WD_INTEL_DATA = {
       "status": "ok",
       "auth": "none",
       "mode": "RSS",
-      "last_checked": "2026-09-23T01:39:57+00:00",
-      "last_success": "2026-09-23T01:39:57+00:00",
+      "last_checked": "2026-09-23T01:40:51+00:00",
+      "last_success": "2026-09-23T01:40:51+00:00",
       "records": 23,
       "note": "3/3 feed(s)；23 則"
     },
@@ -12893,8 +12893,8 @@ window.WD_INTEL_DATA = {
       "status": "ok",
       "auth": "none",
       "mode": "RSS",
-      "last_checked": "2026-09-23T01:39:58+00:00",
-      "last_success": "2026-09-23T01:39:58+00:00",
+      "last_checked": "2026-09-23T01:40:51+00:00",
+      "last_success": "2026-09-23T01:40:51+00:00",
       "records": 100,
       "note": "1/1 feed(s)；100 則"
     },
@@ -12904,8 +12904,8 @@ window.WD_INTEL_DATA = {
       "status": "ok",
       "auth": "none",
       "mode": "static public registry",
-      "last_checked": "2026-09-23T01:39:58+00:00",
-      "last_success": "2026-09-23T01:39:58+00:00",
+      "last_checked": "2026-09-23T01:40:51+00:00",
+      "last_success": "2026-09-23T01:40:51+00:00",
       "records": 14,
       "note": "14 個球場"
     },
@@ -12915,10 +12915,10 @@ window.WD_INTEL_DATA = {
       "status": "warn",
       "auth": "none",
       "mode": "Open-Meteo hourly forecast",
-      "last_checked": "2026-09-23T01:40:20+00:00",
-      "last_success": "2026-09-23T01:40:20+00:00",
-      "records": 8,
-      "note": "8 場比賽天氣 | 臺南亞太國際棒球訓練中心成棒主球場: <urlopen error _ssl.c:993: The handshake operation timed out>"
+      "last_checked": "2026-09-23T01:41:33+00:00",
+      "last_success": "2026-09-23T01:41:33+00:00",
+      "records": 5,
+      "note": "5 場比賽天氣 | 臺南亞太國際棒球訓練中心成棒主球場: <urlopen error _ssl.c:993: The handshake operation timed out>; 臺北市立天母棒球場: <urlopen error _ssl.c:993: The handshake operation timed out>"
     }
   ]
 };
