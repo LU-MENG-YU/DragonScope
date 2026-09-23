@@ -41,13 +41,27 @@ jobs:
           python tests/smoke_test.py
       - name: Commit only when data changed
         run: |
-          if git diff --quiet; then
-            echo "No changes."
+          if git diff --quiet -- data/; then
+            echo "No data changes."
             exit 0
           fi
+
+          git fetch origin main
+          if [ "$(git rev-parse HEAD)" != "$(git rev-parse origin/main)" ]; then
+            echo "main moved during refresh; regenerate from latest main."
+            git reset --hard origin/main
+            python collectors/run.py
+            python -m unittest discover -s tests -v
+            python tests/smoke_test.py
+          fi
+
+          if git diff --quiet -- data/; then
+            echo "No data changes after regeneration."
+            exit 0
+          fi
+
           git config user.name "dragonscope-data-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/
           git commit -m "data: refresh public intelligence"
-          git pull --rebase origin main
           git push origin main
