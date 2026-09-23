@@ -1,12 +1,8 @@
 window.WD_INTEL_DATA = {
   "meta": {
     "team_name": "味全龍",
-    "version": "0.2.1",
-<<<<<<< HEAD
+    "version": "0.3.0",
     "generated_at": "2026-09-23 09:21 +0800",
-=======
-    "generated_at": "2026-09-23 01:15 +0000",
->>>>>>> 1592f5156deda4e8ca6aed6622a13d51e0550f5e
     "seasons": [
       "2026"
     ],
@@ -23,7 +19,7 @@ window.WD_INTEL_DATA = {
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000000135",
-      "source": "CPBL Stats",
+      "source": "CPBL",
       "level": "一軍",
       "last_public_appearance": "2026-09-22"
     },
@@ -37,7 +33,7 @@ window.WD_INTEL_DATA = {
       "position_code": "6",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000000356",
-      "source": "CPBL Stats",
+      "source": "CPBL",
       "level": "二軍",
       "last_public_appearance": "2026-09-19"
     },
@@ -51,7 +47,7 @@ window.WD_INTEL_DATA = {
       "position_code": "9",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000000743",
-      "source": "CPBL Stats",
+      "source": "CPBL",
       "level": "一軍",
       "last_public_appearance": "2026-09-22"
     },
@@ -65,7 +61,7 @@ window.WD_INTEL_DATA = {
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000000762",
-      "source": "CPBL Stats",
+      "source": "CPBL",
       "level": "一軍",
       "last_public_appearance": "2026-09-16"
     },
@@ -79,7 +75,7 @@ window.WD_INTEL_DATA = {
       "position_code": "3",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000001318",
-      "source": "CPBL Stats",
+      "source": "CPBL",
       "level": "一軍",
       "last_public_appearance": "2026-09-22"
     },
@@ -93,7 +89,7 @@ window.WD_INTEL_DATA = {
       "position_code": "4",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000001409",
-      "source": "CPBL Stats",
+      "source": "CPBL",
       "level": "二軍",
       "last_public_appearance": "2026-09-19"
     },
@@ -107,7 +103,7 @@ window.WD_INTEL_DATA = {
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000001821",
-      "source": "CPBL Stats",
+      "source": "CPBL",
       "level": "一軍",
       "last_public_appearance": "2026-09-22"
     },
@@ -121,7 +117,7 @@ window.WD_INTEL_DATA = {
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000002278",
-      "source": "CPBL Stats",
+      "source": "CPBL",
       "level": "二軍",
       "last_public_appearance": "2026-09-18"
     },
@@ -159,7 +155,7 @@ window.WD_INTEL_DATA = {
       "position_code": "3",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000003625",
-      "source": "CPBL Stats",
+      "source": "CPBL",
       "level": "一軍",
       "last_public_appearance": "2026-09-20"
     },
@@ -173,7 +169,7 @@ window.WD_INTEL_DATA = {
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000004646",
-      "source": "CPBL Stats",
+      "source": "CPBL",
       "level": "二軍",
       "last_public_appearance": "2026-09-18"
     },
@@ -187,7 +183,7 @@ window.WD_INTEL_DATA = {
       "position_code": "2",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000005291",
-      "source": "CPBL Stats",
+      "source": "CPBL",
       "level": "一軍",
       "last_public_appearance": "2026-09-22"
     },
@@ -201,7 +197,7 @@ window.WD_INTEL_DATA = {
       "position_code": "2",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000005532",
-      "source": "CPBL Stats",
+      "source": "CPBL",
       "level": "二軍",
       "last_public_appearance": "2026-09-16"
     },
@@ -211,11 +207,11 @@ window.WD_INTEL_DATA = {
       "name": "黃柏豪",
       "name_en": "HUANG Po Hao",
       "number": "16",
-      "position_group": "內野手",
+      "position_group": "指定打擊",
       "position_code": "3",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000005538",
-      "source": "CPBL Stats",
+      "source": "CPBL",
       "level": "二軍",
       "last_public_appearance": "2026-09-19"
     },
@@ -229,7 +225,7 @@ window.WD_INTEL_DATA = {
       "position_code": "4",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000005540",
-      "source": "CPBL Stats",
+      "source": "CPBL",
       "level": "一軍",
       "last_public_appearance": "2026-09-22"
     },
@@ -243,7 +239,7 @@ window.WD_INTEL_DATA = {
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000005541",
-      "source": "CPBL Stats",
+      "source": "CPBL",
       "level": "二軍",
       "last_public_appearance": "2026-09-19"
     },
@@ -257,7 +253,7 @@ window.WD_INTEL_DATA = {
       "position_code": "6",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000005542",
-      "source": "CPBL Stats",
+      "source": "CPBL",
       "level": "一軍",
       "last_public_appearance": "2026-09-22"
     },
@@ -271,7 +267,7 @@ window.WD_INTEL_DATA = {
       "position_code": "5",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000005545",
-      "source": "CPBL Stats",
+      "source": "CPBL",
       "level": "一軍",
       "last_public_appearance": "2026-09-09"
     },
@@ -285,7 +281,7 @@ window.WD_INTEL_DATA = {
       "position_code": "6",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000005546",
-      "source": "CPBL Stats",
+      "source": "CPBL",
       "level": "一軍",
       "last_public_appearance": "2026-09-22"
     },
@@ -299,7 +295,7 @@ window.WD_INTEL_DATA = {
       "position_code": "7",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000005548",
-      "source": "CPBL Stats",
+      "source": "CPBL",
       "level": "二軍",
       "last_public_appearance": "2026-09-10"
     },
@@ -313,7 +309,7 @@ window.WD_INTEL_DATA = {
       "position_code": "8",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000005549",
-      "source": "CPBL Stats",
+      "source": "CPBL",
       "level": "一軍",
       "last_public_appearance": "2026-09-22"
     },
@@ -327,7 +323,7 @@ window.WD_INTEL_DATA = {
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000005552",
-      "source": "CPBL Stats",
+      "source": "CPBL",
       "level": "一軍",
       "last_public_appearance": "2026-09-20"
     },
@@ -337,11 +333,11 @@ window.WD_INTEL_DATA = {
       "name": "張祐銘",
       "name_en": "CHANG Yu Ming",
       "number": "34",
-      "position_group": "外野手",
+      "position_group": "指定打擊",
       "position_code": "9",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000005553",
-      "source": "CPBL Stats",
+      "source": "CPBL",
       "level": "一軍",
       "last_public_appearance": "2026-09-22"
     },
@@ -355,7 +351,7 @@ window.WD_INTEL_DATA = {
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000005555",
-      "source": "CPBL Stats",
+      "source": "CPBL",
       "level": "一軍",
       "last_public_appearance": "2026-09-20"
     },
@@ -369,7 +365,7 @@ window.WD_INTEL_DATA = {
       "position_code": "2",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000005563",
-      "source": "CPBL Stats",
+      "source": "CPBL",
       "level": "二軍",
       "last_public_appearance": "2026-09-18"
     },
@@ -383,7 +379,7 @@ window.WD_INTEL_DATA = {
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000005788",
-      "source": "CPBL Stats",
+      "source": "CPBL",
       "level": "一軍",
       "last_public_appearance": "2026-09-19"
     },
@@ -397,7 +393,7 @@ window.WD_INTEL_DATA = {
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000005789",
-      "source": "CPBL Stats",
+      "source": "CPBL",
       "level": "一軍",
       "last_public_appearance": "2026-09-20"
     },
@@ -411,7 +407,7 @@ window.WD_INTEL_DATA = {
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000006159",
-      "source": "CPBL Stats",
+      "source": "CPBL",
       "level": "二軍",
       "last_public_appearance": "2026-09-19"
     },
@@ -425,7 +421,7 @@ window.WD_INTEL_DATA = {
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000006160",
-      "source": "CPBL Stats",
+      "source": "CPBL",
       "level": "一軍",
       "last_public_appearance": "2026-09-22"
     },
@@ -439,7 +435,7 @@ window.WD_INTEL_DATA = {
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000006215",
-      "source": "CPBL Stats",
+      "source": "CPBL",
       "level": "一軍",
       "last_public_appearance": "2026-09-22"
     },
@@ -453,7 +449,7 @@ window.WD_INTEL_DATA = {
       "position_code": "8",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000006216",
-      "source": "CPBL Stats",
+      "source": "CPBL",
       "level": "一軍",
       "last_public_appearance": "2026-09-22"
     },
@@ -467,7 +463,7 @@ window.WD_INTEL_DATA = {
       "position_code": "2",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000006217",
-      "source": "CPBL Stats",
+      "source": "CPBL",
       "level": "一軍",
       "last_public_appearance": "2026-09-20"
     },
@@ -481,7 +477,7 @@ window.WD_INTEL_DATA = {
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000006236",
-      "source": "CPBL Stats",
+      "source": "CPBL",
       "level": "二軍",
       "last_public_appearance": "2026-09-18"
     },
@@ -495,7 +491,7 @@ window.WD_INTEL_DATA = {
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000006497",
-      "source": "CPBL Stats",
+      "source": "CPBL",
       "level": "一軍",
       "last_public_appearance": "2026-09-22"
     },
@@ -509,7 +505,7 @@ window.WD_INTEL_DATA = {
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000006555",
-      "source": "CPBL Stats",
+      "source": "CPBL",
       "level": "一軍",
       "last_public_appearance": "2026-09-19"
     },
@@ -523,7 +519,7 @@ window.WD_INTEL_DATA = {
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000006722",
-      "source": "CPBL Stats",
+      "source": "CPBL",
       "level": "二軍",
       "last_public_appearance": "2026-09-12"
     },
@@ -537,7 +533,7 @@ window.WD_INTEL_DATA = {
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000006723",
-      "source": "CPBL Stats",
+      "source": "CPBL",
       "level": "二軍",
       "last_public_appearance": "2026-09-18"
     },
@@ -551,7 +547,7 @@ window.WD_INTEL_DATA = {
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000006724",
-      "source": "CPBL Stats",
+      "source": "CPBL",
       "level": "一軍",
       "last_public_appearance": "2026-09-20"
     },
@@ -561,11 +557,11 @@ window.WD_INTEL_DATA = {
       "name": "張祐嘉",
       "name_en": "CHANG You Jia",
       "number": "81",
-      "position_group": "外野手",
+      "position_group": "指定打擊",
       "position_code": "9",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000006725",
-      "source": "CPBL Stats",
+      "source": "CPBL",
       "level": "一軍",
       "last_public_appearance": "2026-09-19"
     },
@@ -575,11 +571,11 @@ window.WD_INTEL_DATA = {
       "name": "李展毅",
       "name_en": "LI Chan I",
       "number": "36",
-      "position_group": "內野手",
+      "position_group": "指定打擊",
       "position_code": "3",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000006726",
-      "source": "CPBL Stats",
+      "source": "CPBL",
       "level": "二軍",
       "last_public_appearance": "2026-09-19"
     },
@@ -593,7 +589,7 @@ window.WD_INTEL_DATA = {
       "position_code": "5",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000006728",
-      "source": "CPBL Stats",
+      "source": "CPBL",
       "level": "一軍",
       "last_public_appearance": "2026-09-22"
     },
@@ -615,11 +611,11 @@ window.WD_INTEL_DATA = {
       "name": "周委宏",
       "name_en": "CHOU Wei Hung",
       "number": "88",
-      "position_group": "內野手",
+      "position_group": "外野手",
       "position_code": "4",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000006731",
-      "source": "CPBL Stats",
+      "source": "CPBL",
       "level": "二軍",
       "last_public_appearance": "2026-09-19"
     },
@@ -633,7 +629,7 @@ window.WD_INTEL_DATA = {
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000006750",
-      "source": "CPBL Stats",
+      "source": "CPBL",
       "level": "二軍",
       "last_public_appearance": "2026-09-18"
     },
@@ -647,7 +643,7 @@ window.WD_INTEL_DATA = {
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000006878",
-      "source": "CPBL Stats",
+      "source": "CPBL",
       "level": "二軍",
       "last_public_appearance": "2026-09-18"
     },
@@ -661,7 +657,7 @@ window.WD_INTEL_DATA = {
       "position_code": "8",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000006879",
-      "source": "CPBL Stats",
+      "source": "CPBL",
       "level": "一軍",
       "last_public_appearance": "2026-09-22"
     },
@@ -675,7 +671,7 @@ window.WD_INTEL_DATA = {
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000006881",
-      "source": "CPBL Stats",
+      "source": "CPBL",
       "level": "二軍",
       "last_public_appearance": "2026-09-18"
     },
@@ -689,7 +685,7 @@ window.WD_INTEL_DATA = {
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000006910",
-      "source": "CPBL Stats",
+      "source": "CPBL",
       "level": "二軍",
       "last_public_appearance": "2026-09-18"
     },
@@ -703,7 +699,7 @@ window.WD_INTEL_DATA = {
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000007055",
-      "source": "CPBL Stats",
+      "source": "CPBL",
       "level": "二軍",
       "last_public_appearance": "2026-09-10"
     },
@@ -717,7 +713,7 @@ window.WD_INTEL_DATA = {
       "position_code": "6",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000007079",
-      "source": "CPBL Stats",
+      "source": "CPBL",
       "level": "一軍",
       "last_public_appearance": "2026-09-22"
     },
@@ -731,7 +727,7 @@ window.WD_INTEL_DATA = {
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000007081",
-      "source": "CPBL Stats",
+      "source": "CPBL",
       "level": "二軍",
       "last_public_appearance": "2026-09-12"
     },
@@ -745,7 +741,7 @@ window.WD_INTEL_DATA = {
       "position_code": "6",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000007082",
-      "source": "CPBL Stats",
+      "source": "CPBL",
       "level": "一軍",
       "last_public_appearance": "2026-09-22"
     },
@@ -759,7 +755,7 @@ window.WD_INTEL_DATA = {
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000007083",
-      "source": "CPBL Stats",
+      "source": "CPBL",
       "level": "一軍",
       "last_public_appearance": "2026-09-20"
     },
@@ -773,7 +769,7 @@ window.WD_INTEL_DATA = {
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000007264",
-      "source": "CPBL Stats",
+      "source": "CPBL",
       "level": "一軍",
       "last_public_appearance": "2026-09-17"
     },
@@ -787,7 +783,7 @@ window.WD_INTEL_DATA = {
       "position_code": "8",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000007304",
-      "source": "CPBL Stats",
+      "source": "CPBL",
       "level": "一軍",
       "last_public_appearance": "2026-09-22"
     },
@@ -813,7 +809,7 @@ window.WD_INTEL_DATA = {
       "position_code": "2",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000007306",
-      "source": "CPBL Stats",
+      "source": "CPBL",
       "level": "二軍",
       "last_public_appearance": "2026-09-19"
     },
@@ -839,7 +835,7 @@ window.WD_INTEL_DATA = {
       "position_code": "8",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000007308",
-      "source": "CPBL Stats",
+      "source": "CPBL",
       "level": "二軍",
       "last_public_appearance": "2026-09-15"
     },
@@ -849,25 +845,25 @@ window.WD_INTEL_DATA = {
       "name": "*劉曜豪",
       "name_en": "LIU Yao Hao",
       "number": "125",
-      "position_group": "捕手",
+      "position_group": "外野手",
       "position_code": "2",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000007309",
-      "source": "CPBL Stats",
+      "source": "CPBL",
       "level": "二軍",
       "last_public_appearance": "2026-09-19"
     },
     {
       "id": "cpbl-0000007310",
       "source_id": "0000007310",
-      "name": "許子謙",
+      "name": "*許子謙",
       "name_en": "HSU Tzu Chien",
       "number": "127",
       "position_group": "內野手",
       "position_code": "4",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000007310",
-      "source": "CPBL Stats",
+      "source": "CPBL",
       "level": "二軍",
       "last_public_appearance": "2026-09-19"
     },
@@ -881,7 +877,7 @@ window.WD_INTEL_DATA = {
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000007311",
-      "source": "CPBL Stats",
+      "source": "CPBL",
       "level": "二軍",
       "last_public_appearance": "2026-09-18"
     },
@@ -895,7 +891,7 @@ window.WD_INTEL_DATA = {
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000007581",
-      "source": "CPBL Stats",
+      "source": "CPBL",
       "level": "二軍",
       "last_public_appearance": "2026-09-19"
     },
@@ -909,21 +905,21 @@ window.WD_INTEL_DATA = {
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000007582",
-      "source": "CPBL Stats",
+      "source": "CPBL",
       "level": "二軍",
       "last_public_appearance": "2026-09-16"
     },
     {
       "id": "cpbl-0000007587",
       "source_id": "0000007587",
-      "name": "*潘信安",
+      "name": "◎潘信安",
       "name_en": "PAN Hsin An",
       "number": "137",
       "position_group": "內野手",
       "position_code": "5",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000007587",
-      "source": "CPBL Stats",
+      "source": "CPBL",
       "level": "二軍",
       "last_public_appearance": "2026-09-19"
     },
@@ -949,7 +945,7 @@ window.WD_INTEL_DATA = {
       "position_code": "7",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000007608",
-      "source": "CPBL Stats",
+      "source": "CPBL",
       "level": "二軍",
       "last_public_appearance": "2026-09-13"
     },
@@ -963,7 +959,7 @@ window.WD_INTEL_DATA = {
       "position_code": "8",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000007609",
-      "source": "CPBL Stats",
+      "source": "CPBL",
       "level": "二軍",
       "last_public_appearance": "2026-09-15"
     },
@@ -977,7 +973,7 @@ window.WD_INTEL_DATA = {
       "position_code": "4",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000007610",
-      "source": "CPBL Stats",
+      "source": "CPBL",
       "level": "二軍",
       "last_public_appearance": "2026-09-19"
     },
@@ -1003,7 +999,7 @@ window.WD_INTEL_DATA = {
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000007613",
-      "source": "CPBL Stats",
+      "source": "CPBL",
       "level": "二軍",
       "last_public_appearance": "2026-09-15"
     },
@@ -1017,7 +1013,7 @@ window.WD_INTEL_DATA = {
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000007779",
-      "source": "CPBL Stats",
+      "source": "CPBL",
       "level": "一軍",
       "last_public_appearance": "2026-09-18"
     },
@@ -10071,7 +10067,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-80323b3aeefd",
       "date": "2026-09-03",
-      "time": "03:31",
+      "time": "11:31",
       "type": "NEWS",
       "title": "幻影旅團襲來！味全龍攜手《HUNTER×HUNTER 獵人》第二彈決戰天母🏟️",
       "summary": "味全龍於9/11(五)至9/13(日)接續推出重量級跨界合作—「HUNTER×HUNTER 獵人｜味全龍聯名主 […] The post 幻影旅團襲來！味全龍攜手《HUNTER×HUNTER 獵人》第二彈決戰天母🏟️ first appeared on 味全龍官方網站 WeiChuan Dragons .",
@@ -10084,7 +10080,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-d332295c2522",
       "date": "2026-09-02",
-      "time": "10:05",
+      "time": "18:05",
       "type": "NEWS",
       "title": "達美樂世界風味季 大巨蛋開吃！披薩吃到飽×草地二次會",
       "summary": "為深化品牌跨界合作，豐富球迷觀賽與娛樂體驗，味全龍職業棒球隊將於 9月8日（二）至9月9日（三） 於臺北大巨蛋 […] The post 達美樂世界風味季 大巨蛋開吃！披薩吃到飽×草地二次會 first appeared on 味全龍官方網站 WeiChuan Dragons .",
@@ -10097,7 +10093,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-e9eb54c1b40d",
       "date": "2026-08-29",
-      "time": "13:18",
+      "time": "21:18",
       "type": "NEWS",
       "title": "味全龍「龍躍列車」正式啟航 用愛縮短距離、陪伴圓夢家庭走進球場",
       "summary": "味全龍今（29）日於天母棒球場正式啟動全新公益計畫「龍躍列車」，由一個在球場看見的溫暖畫面出發，在愛心人士捐贈 […] The post 味全龍「龍躍列車」正式啟航 用愛縮短距離、陪伴圓夢家庭走進球場 first appeared on 味全龍官方網站 WeiChuan Dragons .",
@@ -10110,7 +10106,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-6c2b0ab20fbb",
       "date": "2026-08-28",
-      "time": "14:09",
+      "time": "22:09",
       "type": "NEWS",
       "title": "龍隊新血到位！味全龍公布2026選秀簽約結果",
       "summary": "味全龍隊今日公布2026年中華職棒季中選秀簽約結果，多位潛力新秀正式加入龍隊，為球隊未來戰力注入新血。其中首輪 […] The post 龍隊新血到位！味全龍公布2026選秀簽約結果 first appeared on 味全龍官方網站 WeiChuan Dragons .",
@@ -10123,7 +10119,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-ff3601673f29",
       "date": "2026-08-22",
-      "time": "13:24",
+      "time": "21:24",
       "type": "NEWS",
       "title": "「鷹祭 SUMMER BOOST 2026 in Taipei」 熱潮席捲大巨蛋！兩日33,363人進場 味全龍刷新中職平日進場人數紀錄",
       "summary": "味全龍8月19日至20日於臺北大巨蛋舉辦「鷹祭 SUMMER BOOST 2026 in Taipei」主題日 […] The post 「鷹祭 SUMMER BOOST 2026 in Taipei」 熱潮席捲大巨蛋！兩日33,363人進場 味全龍刷新中職平日進場人數紀錄 first appeared on 味全龍官方網站 WeiChuan Dragons .",
@@ -10136,7 +10132,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-1e78f3d7dcec",
       "date": "2026-07-30",
-      "time": "03:53",
+      "time": "11:53",
       "type": "NEWS",
       "title": "KINGJUN 獨家聯名 × 五組神級卡司！味全龍「龍星大樂」8/14–8/16 震撼攻佔臺北大巨蛋💥",
       "summary": "為深化品牌跨界合作、提升球迷現場觀賽與娛樂體驗，味全龍職業棒球隊將於 8 月 14 日至 8 月 16 日在臺 […] The post KINGJUN 獨家聯名 × 五組神級卡司！味全龍「龍星大樂」8/14–8/16 震撼攻佔臺北大巨蛋💥 first appeared on 味全龍官方網站 WeiChuan Dragons .",
@@ -10149,7 +10145,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-4e756ef39656",
       "date": "2026-07-15",
-      "time": "08:14",
+      "time": "16:14",
       "type": "NEWS",
       "title": "預售票突破6萬張！味全龍攜手「新光人壽」 打造大巨蛋最狂「新光亞洲音樂祭」💥",
       "summary": "為深化台灣體育與金融品牌的跨界合作，並拉近與在地家庭、年輕族群及廣大樂迷的距離，味全龍職業棒球隊首度跨界聯手「 […] The post 預售票突破6萬張！味全龍攜手「新光人壽」 打造大巨蛋最狂「新光亞洲音樂祭」💥 first appeared on 味全龍官方網站 WeiChuan Dragons .",
@@ -10162,7 +10158,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-c80eca1ebd83",
       "date": "2026-06-24",
-      "time": "08:39",
+      "time": "16:39",
       "type": "NEWS",
       "title": "跨越次元再度攜手！味全龍 × hololive production 雙主場應援盛典今夏震撼引爆⭐❤️",
       "summary": "今年夏天最受矚目的跨界夢幻連動即將強勢登陸！味全龍職業棒球隊今日正式宣布，將再度與全球超人氣虛擬主播企劃 ho […] The post 跨越次元再度攜手！味全龍 × hololive production 雙主場應援盛典今夏震撼引爆⭐❤️ first appeared on 味全龍官方網站 WeiChuan Dragons .",
@@ -10175,7 +10171,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-2d283f5f8d07",
       "date": "2026-06-17",
-      "time": "06:08",
+      "time": "14:08",
       "type": "NEWS",
       "title": "【 hololive night主題日 】",
       "summary": "今年夏天—— hololive production 將再次降臨球場！ 從天母棒球場，到臺北大巨蛋， 四日限定 […] The post 【 hololive night主題日 】 first appeared on 味全龍官方網站 WeiChuan Dragons .",
@@ -10188,7 +10184,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-f2ff93238f76",
       "date": "2026-06-06",
-      "time": "08:46",
+      "time": "16:46",
       "type": "NEWS",
       "title": "最帥研究員上線 味全龍女孩日6/12-14 浪漫壓軸登場⭐❤️",
       "summary": "揭開心動方程式的秘密 味全龍年度最受期待的粉紅盛事「守護妳的EYE－心動方程式女孩日」，將於6月12日至14日 […] The post 最帥研究員上線 味全龍女孩日6/12-14 浪漫壓軸登場⭐❤️ first appeared on 味全龍官方網站 WeiChuan Dragons .",
@@ -10201,7 +10197,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-09f04fe47bc7",
       "date": "2026-03-24",
-      "time": "12:05",
+      "time": "20:05",
       "type": "NEWS",
       "title": "味全龍公佈2026年球員薪資：複數年合約鎖定投打核心，穩健佈局新球季戰力",
       "summary": "隨著官辦熱身賽即將結束，迎接新球季到來，味全龍球團今（24）日公佈2026年球季球員薪資調整結果。基於球隊長期 […] The post 味全龍公佈2026年球員薪資：複數年合約鎖定投打核心，穩健佈局新球季戰力 first appeared on 味全龍官方網站 WeiChuan Dragons .",
@@ -10214,7 +10210,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-6b1f86bb2caf",
       "date": "2026-01-29",
-      "time": "12:07",
+      "time": "20:07",
       "type": "NEWS",
       "title": "徐若熙赴日展開新挑戰 味全龍獻上祝福 期待雙方球團交流更深化",
       "summary": "徐若熙今年正式加盟日本職棒福岡軟銀鷹隊，展開職業生涯全新挑戰。福岡軟銀鷹球團於今(29)日在福岡舉行加盟記者會 […] The post 徐若熙赴日展開新挑戰 味全龍獻上祝福 期待雙方球團交流更深化 first appeared on 味全龍官方網站 WeiChuan Dragons .",
@@ -10227,7 +10223,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-651bac9ba29f",
       "date": "2026-01-22",
-      "time": "12:00",
+      "time": "20:00",
       "type": "NEWS",
       "title": "味全龍春訓期間舉辦法治教育課程 有獎徵答互動熱烈 深化球員法治與性別平等觀念",
       "summary": "為深化球員法治觀念、維護職業棒球清新形象，味全龍隊於1月22日（四）春訓期間，特別安排「職棒法治教育宣導」講座 […] The post 味全龍春訓期間舉辦法治教育課程 有獎徵答互動熱烈 深化球員法治與性別平等觀念 first appeared on 味全龍官方網站 WeiChuan Dragons .",
@@ -10240,7 +10236,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-455f946813e0",
       "date": "2026-01-18",
-      "time": "06:06",
+      "time": "14:06",
       "type": "NEWS",
       "title": "味全龍2026年教練團陣容發布強化整體球隊戰力及農場養成體系 目標直指總冠軍",
       "summary": "味全龍球團今（18）日正式公告2026年球季教練團陣容。球隊於本季未能晉級季後賽，球團進行全面檢討，並著眼於中 […] The post 味全龍2026年教練團陣容發布強化整體球隊戰力及農場養成體系 目標直指總冠軍 first appeared on 味全龍官方網站 WeiChuan Dragons .",
@@ -10253,7 +10249,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-8c1529cb001a",
       "date": "2026-01-16",
-      "time": "08:32",
+      "time": "16:32",
       "type": "NEWS",
       "title": "2026味全龍背號、姓名調整公告",
       "summary": "新入團球員： 投手 魔神龍 10號 投手 蔣銲 33號 投手 曾仁和 55號 投手 陳 […] The post 2026味全龍背號、姓名調整公告 first appeared on 味全龍官方網站 WeiChuan Dragons .",
@@ -10266,7 +10262,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-213e8f34bef2",
       "date": "2026-01-16",
-      "time": "07:51",
+      "time": "15:51",
       "type": "NEWS",
       "title": "2026年味全龍洋將佈局 龍魂「鑄」就堅實防線",
       "summary": "味全龍備戰2026新賽季，今(16)日正式公布5位開季洋將名單。由兩大資深洋投領軍，搭配三名強力新援，展現衝擊 […] The post 2026年味全龍洋將佈局 龍魂「鑄」就堅實防線 first appeared on 味全龍官方網站 WeiChuan Dragons .",
@@ -10279,7 +10275,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-15ac8f0cf09a",
       "date": "2026-01-08",
-      "time": "08:00",
+      "time": "16:00",
       "type": "NEWS",
       "title": "味全龍教練團新成員 古久保健二出任巡迴統籌教練",
       "summary": "味全龍球團今(8)日宣布，古久保健二正式加入教練團，擔任巡迴統籌教練一職，背號87。未來將負責球隊一、二軍之間 […] The post 味全龍教練團新成員 古久保健二出任巡迴統籌教練 first appeared on 味全龍官方網站 WeiChuan Dragons .",
@@ -10292,7 +10288,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-0fb70510d1e9",
       "date": "2025-12-26",
-      "time": "10:26",
+      "time": "18:26",
       "type": "NEWS",
       "title": "味全龍與福岡軟銀鷹簽訂三年合作協議 推動台日職棒深度交流",
       "summary": "味全龍球團今（26）日於記者會中正式宣布，已與日本職棒福岡軟銀鷹隊簽訂為期三年的合作協議，合作期間自2026年 […] The post 味全龍與福岡軟銀鷹簽訂三年合作協議 推動台日職棒深度交流 first appeared on 味全龍官方網站 WeiChuan Dragons .",
@@ -10305,7 +10301,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-52cea5ad4424",
       "date": "2025-12-22",
-      "time": "06:19",
+      "time": "14:19",
       "type": "NEWS",
       "title": "味全龍球團公告",
       "summary": "味全龍球團今（22）日正式宣佈，陣中投手徐若熙選手於今年球季結束後行使旅外球員權利，將於2026年賽季加盟日本 […] The post 味全龍球團公告 first appeared on 味全龍官方網站 WeiChuan Dragons .",
@@ -10318,7 +10314,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-a8b73642851a",
       "date": "2026-05-12",
-      "time": "07:53",
+      "time": "15:53",
       "type": "NEWS",
       "title": "味全龍 Ｘ LG TWINS 聯名主題日 「Red 가자!」5/26、5/27臺北大巨蛋熱血登場🔥",
       "summary": "味全龍將於 5/26、5/27 在臺北大巨蛋，與韓國職棒人氣球隊 LG TWINS 攜手舉辦聯名主題日「Red […] The post 味全龍 Ｘ LG TWINS 聯名主題日 「Red 가자!」5/26、5/27臺北大巨蛋熱血登場🔥 first appeared on 味全龍官方網站 WeiChuan Dragons .",
@@ -10331,7 +10327,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-249d538b652d",
       "date": "2026-05-08",
-      "time": "09:33",
+      "time": "17:33",
       "type": "NEWS",
       "title": "🍕美味一擊！味全龍攜手達美樂 打造「Tasting the World－達美樂世界風味季」主題日",
       "summary": "味全龍將於5月15日至5月17日於天母棒球場舉辦「Tasting the World－達美樂世界風味季」主題日 […] The post 🍕美味一擊！味全龍攜手達美樂 打造「Tasting the World－達美樂世界風味季」主題日 first appeared on 味全龍官方網站 WeiChuan Dragons .",
@@ -10344,7 +10340,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-c68eb49a0d16",
       "date": "2026-05-03",
-      "time": "05:19",
+      "time": "13:19",
       "type": "NEWS",
       "title": "龍總為了生活 5/5～5/6 一起來臺北大巨蛋 享受下班後的療癒時光",
       "summary": "暫停繁忙的日常，將大巨蛋變成最療癒的「城市綠洲」臺北的傍晚，除了回家和加班，你還有更棒的選擇！5月5日至5月6 […] The post 龍總為了生活 5/5～5/6 一起來臺北大巨蛋 享受下班後的療癒時光 first appeared on 味全龍官方網站 WeiChuan Dragons .",
@@ -10357,7 +10353,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-8b8809c48203",
       "date": "2026-05-01",
-      "time": "05:44",
+      "time": "13:44",
       "type": "NEWS",
       "title": "龍之萌友的應援時光 —『塩』守健康！親子毛孩日 5/2~5/3 寵物套票相關規範",
       "summary": "#親子寵物日🐾 寵物專區購票說明 🐶 ​ #汪汪派對套票 1.套票指定區域D16+D18/每日限量35組/每組 […] The post 龍之萌友的應援時光 —『塩』守健康！親子毛孩日 5/2~5/3 寵物套票相關規範 first appeared on 味全龍官方網站 WeiChuan Dragons .",
@@ -11178,33 +11174,21 @@ window.WD_INTEL_DATA = {
       "status": "ok",
       "auth": "none",
       "mode": "public web / Next.js payload",
-<<<<<<< HEAD
       "last_checked": "2026-09-23T09:21:33+08:00",
       "last_success": "2026-09-23T09:21:33+08:00",
-=======
-      "last_checked": "2026-09-23T01:15:41+00:00",
-      "last_success": "2026-09-23T01:15:41+00:00",
->>>>>>> 1592f5156deda4e8ca6aed6622a13d51e0550f5e
       "records": 82,
       "note": "CPBL Stats 公開球員名單 82 人"
     },
     {
       "id": "cpbl",
       "name": "CPBL 官方賽事",
-      "status": "bad",
+      "status": "ok",
       "auth": "none",
       "mode": "public web JSON",
-<<<<<<< HEAD
       "last_checked": "2026-09-23T09:21:44+08:00",
       "last_success": "2026-09-23T09:21:44+08:00",
       "records": 576,
       "note": "CPBL 2026: 味全一、二軍 229 場；近期先發 19 場"
-=======
-      "last_checked": "2026-09-23T01:15:43+00:00",
-      "last_success": "2026-09-23T09:10:02+08:00",
-      "records": 0,
-      "note": "No WDragons CPBL schedule was collected. | 一軍賽程失敗: 404 Client Error: Not Found for url: https://www.cpbl.com.tw/schedule; 二軍賽程失敗: 404 Client Error: Not Found for url: https://www.cpbl.com.tw/schedule"
->>>>>>> 1592f5156deda4e8ca6aed6622a13d51e0550f5e
     },
     {
       "id": "wdragons",
@@ -11212,13 +11196,8 @@ window.WD_INTEL_DATA = {
       "status": "ok",
       "auth": "none",
       "mode": "RSS",
-<<<<<<< HEAD
       "last_checked": "2026-09-23T09:21:46+08:00",
       "last_success": "2026-09-23T09:21:46+08:00",
-=======
-      "last_checked": "2026-09-23T01:15:47+00:00",
-      "last_success": "2026-09-23T01:15:47+00:00",
->>>>>>> 1592f5156deda4e8ca6aed6622a13d51e0550f5e
       "records": 23,
       "note": "3/3 feed(s)；23 則"
     }
