@@ -33,6 +33,10 @@ jobs:
           cache: pip
       - name: Install collector requirements
         run: python -m pip install -r requirements.txt
+      - name: Syntax preflight
+        run: |
+          python -m compileall -q collectors tests
+          node --check assets/js/app.js
       - name: Refresh public data
         run: python collectors/run.py
       - name: Validate bundle
