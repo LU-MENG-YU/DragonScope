@@ -59,7 +59,8 @@ def collect_feed(url: str, source_id: str = "news", source_label: str | None = N
         for item in items[:100]:
             title = _first_text(item, ("title",))
             pub = _first_text(item, ("pubDate", "published", "updated"))
-            desc = _first_text(item, ("description", "summary", "content"))\n            publisher = _clean(_first_text(item, ("source",)))
+            desc = _first_text(item, ("description", "summary", "content"))
+            publisher = _clean(_first_text(item, ("source",)))
             link = _first_text(item, ("link",))
             if not link:
                 for child in list(item):
@@ -78,8 +79,8 @@ def collect_feed(url: str, source_id: str = "news", source_label: str | None = N
                 "title": title,
                 "summary": _clean(desc)[:420],
                 "url": link,
-                "source": source_label or source_id,
-                "tags": ["官方" if source_id == "wdragons" else "RSS"],
+                "source": publisher if source_id == "news" and publisher else (source_label or source_id),
+                "tags": ["官方"] if source_id == "wdragons" else ["RSS", "新聞"],
             })
         if not events:
             return SourceResult(source_id, "bad", {}, note=f"Feed reachable but no entries parsed: {url}")
