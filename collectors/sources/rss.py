@@ -59,7 +59,7 @@ def collect_feed(url: str, source_id: str = "news", source_label: str | None = N
         for item in items[:100]:
             title = _first_text(item, ("title",))
             pub = _first_text(item, ("pubDate", "published", "updated"))
-            desc = _first_text(item, ("description", "summary", "content"))
+            desc = _first_text(item, ("description", "summary", "content"))\n            publisher = _clean(_first_text(item, ("source",)))
             link = _first_text(item, ("link",))
             if not link:
                 for child in list(item):
