@@ -2,7 +2,15 @@ name: Refresh public intelligence
 
 on:
   workflow_dispatch:
-  # CPBL may block cloud data-center IPs. Enable cron only after manual runs work.
+  push:
+    branches: [main]
+    paths:
+      - "collectors/**"
+      - "config/**"
+      - "requirements.txt"
+      - "tests/**"
+      - ".github/workflows/refresh-public-data.yml"
+  # CPBL may block cloud data-center IPs. Enable cron only after manual/push runs work.
   # schedule:
   #   - cron: "17 22 * * *"  # 06:17 Asia/Taipei (UTC+8)
 
@@ -37,7 +45,7 @@ jobs:
             echo "No changes."
             exit 0
           fi
-          git config user.name "wdragons-intel-bot"
+          git config user.name "dragonscope-data-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/
           git commit -m "data: refresh public intelligence"
