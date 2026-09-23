@@ -36,13 +36,30 @@
       ]
     },
     "news": {
-      "enabled": false,
+      "enabled": true,
       "auth": "none",
       "adapter": "collectors/sources/rss.py",
-      "feeds": [],
-      "name": "其他新聞來源",
+      "feeds": [
+        "https://news.google.com/rss/search?q=%22%E5%91%B3%E5%85%A8%E9%BE%8D%22&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+      ],
+      "name": "味全龍新聞 RSS",
       "mode": "RSS",
       "source_id": "news"
+    },
+    "venues": {
+      "enabled": true,
+      "auth": "none",
+      "adapter": "collectors/sources/venues.py",
+      "name": "球場資料",
+      "mode": "static public registry"
+    },
+    "weather": {
+      "enabled": true,
+      "auth": "none",
+      "adapter": "collectors/sources/weather.py",
+      "name": "比賽天氣",
+      "mode": "Open-Meteo hourly forecast",
+      "forecast_days": 16
     }
   }
 }
