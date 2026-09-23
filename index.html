@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="theme-color" content="#111318" />
+  <title>龍隊情報台</title>
+  <link rel="stylesheet" href="assets/css/styles.css" />
+  <script defer src="https://cdn.jsdelivr.net/npm/xlsx@0.18.5/dist/xlsx.full.min.js"></script>
+  <script defer src="data/public-data.js"></script>
+  <script defer src="assets/js/app.js"></script>
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand-wrap">
+      <div class="brand-mark">龍</div>
+      <div>
+        <div class="brand">龍隊情報台</div>
+        <div class="brand-sub">WDragons Intelligence · 公開情報 + 本地狀態總覽</div>
+      </div>
+    </div>
+    <div class="top-actions">
+      <div class="global-search-wrap">
+        <input id="globalSearch" class="global-search" type="search" placeholder="搜尋球員、比賽、球場、事件…" autocomplete="off" />
+        <div id="searchResults" class="search-results hidden"></div>
+      </div>
+      <button id="dataHealthBtn" class="status-button" type="button"><span class="status-dot warn"></span><span>資料來源</span></button>
+    </div>
+  </header>
+
+  <div id="modeBanner" class="mode-banner"></div>
+
+  <nav class="main-nav" aria-label="主導覽">
+    <button class="nav-item active" data-view="home">總覽</button>
+    <button class="nav-item" data-view="calendar">行事曆</button>
+    <button class="nav-item" data-view="team">球隊</button>
+    <button class="nav-item" data-view="intel">情報</button>
+    <button class="nav-item" data-view="data">資料</button>
+  </nav>
+
+  <main class="shell">
+    <section class="control-row">
+      <div class="filters">
+        <label>球季<select id="seasonFilter"></select></label>
+        <label>軍別<select id="levelFilter"><option value="all">全部</option><option value="一軍">一軍</option><option value="二軍">二軍</option></select></label>
+        <label>位置<select id="positionFilter"><option value="all">全部</option><option value="投手">投手</option><option value="捕手">捕手</option><option value="內野手">內野手</option><option value="外野手">外野手</option></select></label>
+      </div>
+      <div class="context-badges">
+        <span id="publicFreshness" class="context-badge">公開快取 —</span>
+        <span id="localStatus" class="context-badge muted-badge">本地資料未載入</span>
+      </div>
+    </section>
+
+    <section id="summaryCards" class="summary-grid"></section>
+    <section id="appView" class="app-view"></section>
+  </main>
+
+  <div id="drawerBackdrop" class="drawer-backdrop hidden"></div>
+  <aside id="drawer" class="drawer" aria-hidden="true">
+    <div class="drawer-head">
+      <div><div id="drawerEyebrow" class="eyebrow"></div><h2 id="drawerTitle">Detail</h2></div>
+      <button id="drawerClose" class="icon-btn" aria-label="關閉">×</button>
+    </div>
+    <div id="drawerBody" class="drawer-body"></div>
+  </aside>
+
+  <dialog id="healthDialog" class="modal">
+    <div class="modal-head"><div><div class="eyebrow">SYSTEM</div><h2>資料來源狀態</h2></div><button class="icon-btn" data-close-dialog="healthDialog">×</button></div>
+    <div id="healthBody"></div>
+  </dialog>
+
+  <footer class="footer">
+    <span id="buildStamp"></span>
+  </footer>
+</body>
+</html>

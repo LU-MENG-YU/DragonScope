@@ -1,0 +1,48 @@
+{
+  "policy": {
+    "prefer_no_auth": true,
+    "fail_open": true,
+    "public_only": true
+  },
+  "sources": {
+    "cpbl_stats": {
+      "enabled": true,
+      "auth": "none",
+      "adapter": "collectors/sources/cpbl_stats.py",
+      "name": "CPBL Stats 公開球員",
+      "mode": "public web / Next.js payload"
+    },
+    "cpbl": {
+      "enabled": true,
+      "auth": "none",
+      "adapter": "collectors/sources/cpbl.py",
+      "name": "CPBL 官方賽事",
+      "mode": "public web JSON",
+      "year": 2026,
+      "recent_lineup_days": 14,
+      "request_delay": 0.15
+    },
+    "wdragons": {
+      "enabled": true,
+      "auth": "none",
+      "adapter": "collectors/sources/rss.py",
+      "name": "味全龍官方消息",
+      "mode": "RSS",
+      "source_id": "wdragons",
+      "feeds": [
+        "https://www.wdragons.com/feed/",
+        "https://www.wdragons.com/category/team/feed/",
+        "https://www.wdragons.com/category/games/feed/"
+      ]
+    },
+    "news": {
+      "enabled": false,
+      "auth": "none",
+      "adapter": "collectors/sources/rss.py",
+      "feeds": [],
+      "name": "其他新聞來源",
+      "mode": "RSS",
+      "source_id": "news"
+    }
+  }
+}

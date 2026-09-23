@@ -1,0 +1,51 @@
+window.WD_INTEL_DATA = {
+  "meta": {
+    "team_name": "味全龍",
+    "version": "0.2.1",
+    "generated_at": "尚未首次更新",
+    "seasons": [
+      "2026"
+    ],
+    "mode": "EMPTY_CACHE"
+  },
+  "players": [],
+  "venues": [],
+  "games": [],
+  "events": [],
+  "lineups": [],
+  "source_status": [
+    {
+      "id": "cpbl_stats",
+      "name": "CPBL Stats 公開球員",
+      "status": "warn",
+      "auth": "none",
+      "mode": "public web / Next.js payload",
+      "last_checked": "—",
+      "last_success": null,
+      "records": 0,
+      "note": "已接好；等待首次本機更新。"
+    },
+    {
+      "id": "cpbl",
+      "name": "CPBL 官方賽事",
+      "status": "warn",
+      "auth": "none",
+      "mode": "public web JSON",
+      "last_checked": "—",
+      "last_success": null,
+      "records": 0,
+      "note": "已接好一、二軍賽程／比分／近期先發；等待首次本機更新。"
+    },
+    {
+      "id": "wdragons",
+      "name": "味全龍官方消息",
+      "status": "warn",
+      "auth": "none",
+      "mode": "RSS",
+      "last_checked": "—",
+      "last_success": null,
+      "records": 0,
+      "note": "已設定官方 RSS；等待首次本機更新。"
+    }
+  ]
+};
