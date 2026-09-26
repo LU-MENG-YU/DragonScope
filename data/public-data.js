@@ -2,7 +2,7 @@ window.WD_INTEL_DATA = {
   "meta": {
     "team_name": "味全龍",
     "version": "0.3.0",
-    "generated_at": "2026-09-24 11:48 +0800",
+    "generated_at": "2026-09-26 17:49 +0000",
     "seasons": [
       "2026"
     ],
@@ -19,7 +19,7 @@ window.WD_INTEL_DATA = {
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000000135",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "一軍",
       "last_public_appearance": "2026-09-22"
     },
@@ -33,7 +33,7 @@ window.WD_INTEL_DATA = {
       "position_code": "6",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000000356",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "二軍",
       "last_public_appearance": "2026-09-19"
     },
@@ -47,7 +47,7 @@ window.WD_INTEL_DATA = {
       "position_code": "9",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000000743",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "一軍",
       "last_public_appearance": "2026-09-22"
     },
@@ -61,7 +61,7 @@ window.WD_INTEL_DATA = {
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000000762",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "一軍",
       "last_public_appearance": "2026-09-16"
     },
@@ -75,7 +75,7 @@ window.WD_INTEL_DATA = {
       "position_code": "3",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000001318",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "一軍",
       "last_public_appearance": "2026-09-22"
     },
@@ -89,7 +89,7 @@ window.WD_INTEL_DATA = {
       "position_code": "4",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000001409",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "二軍",
       "last_public_appearance": "2026-09-19"
     },
@@ -103,7 +103,7 @@ window.WD_INTEL_DATA = {
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000001821",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "一軍",
       "last_public_appearance": "2026-09-22"
     },
@@ -117,7 +117,7 @@ window.WD_INTEL_DATA = {
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000002278",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "二軍",
       "last_public_appearance": "2026-09-18"
     },
@@ -155,7 +155,7 @@ window.WD_INTEL_DATA = {
       "position_code": "3",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000003625",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "一軍",
       "last_public_appearance": "2026-09-20"
     },
@@ -169,7 +169,7 @@ window.WD_INTEL_DATA = {
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000004646",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "二軍",
       "last_public_appearance": "2026-09-18"
     },
@@ -183,7 +183,7 @@ window.WD_INTEL_DATA = {
       "position_code": "2",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000005291",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "一軍",
       "last_public_appearance": "2026-09-22"
     },
@@ -197,7 +197,7 @@ window.WD_INTEL_DATA = {
       "position_code": "2",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000005532",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "二軍",
       "last_public_appearance": "2026-09-16"
     },
@@ -207,11 +207,11 @@ window.WD_INTEL_DATA = {
       "name": "黃柏豪",
       "name_en": "HUANG Po Hao",
       "number": "16",
-      "position_group": "指定打擊",
+      "position_group": "內野手",
       "position_code": "3",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000005538",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "二軍",
       "last_public_appearance": "2026-09-19"
     },
@@ -225,7 +225,7 @@ window.WD_INTEL_DATA = {
       "position_code": "4",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000005540",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "一軍",
       "last_public_appearance": "2026-09-22"
     },
@@ -239,7 +239,7 @@ window.WD_INTEL_DATA = {
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000005541",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "二軍",
       "last_public_appearance": "2026-09-19"
     },
@@ -253,7 +253,7 @@ window.WD_INTEL_DATA = {
       "position_code": "6",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000005542",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "一軍",
       "last_public_appearance": "2026-09-22"
     },
@@ -281,7 +281,7 @@ window.WD_INTEL_DATA = {
       "position_code": "6",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000005546",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "一軍",
       "last_public_appearance": "2026-09-22"
     },
@@ -295,7 +295,7 @@ window.WD_INTEL_DATA = {
       "position_code": "7",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000005548",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "二軍",
       "last_public_appearance": "2026-09-10"
     },
@@ -309,7 +309,7 @@ window.WD_INTEL_DATA = {
       "position_code": "8",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000005549",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "一軍",
       "last_public_appearance": "2026-09-22"
     },
@@ -323,7 +323,7 @@ window.WD_INTEL_DATA = {
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000005552",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "一軍",
       "last_public_appearance": "2026-09-20"
     },
@@ -333,11 +333,11 @@ window.WD_INTEL_DATA = {
       "name": "張祐銘",
       "name_en": "CHANG Yu Ming",
       "number": "34",
-      "position_group": "指定打擊",
+      "position_group": "外野手",
       "position_code": "9",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000005553",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "一軍",
       "last_public_appearance": "2026-09-22"
     },
@@ -351,7 +351,7 @@ window.WD_INTEL_DATA = {
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000005555",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "一軍",
       "last_public_appearance": "2026-09-20"
     },
@@ -365,7 +365,7 @@ window.WD_INTEL_DATA = {
       "position_code": "2",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000005563",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "二軍",
       "last_public_appearance": "2026-09-18"
     },
@@ -379,7 +379,7 @@ window.WD_INTEL_DATA = {
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000005788",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "一軍",
       "last_public_appearance": "2026-09-19"
     },
@@ -393,7 +393,7 @@ window.WD_INTEL_DATA = {
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000005789",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "一軍",
       "last_public_appearance": "2026-09-20"
     },
@@ -407,7 +407,7 @@ window.WD_INTEL_DATA = {
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000006159",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "二軍",
       "last_public_appearance": "2026-09-19"
     },
@@ -421,7 +421,7 @@ window.WD_INTEL_DATA = {
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000006160",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "一軍",
       "last_public_appearance": "2026-09-22"
     },
@@ -435,7 +435,7 @@ window.WD_INTEL_DATA = {
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000006215",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "一軍",
       "last_public_appearance": "2026-09-22"
     },
@@ -449,7 +449,7 @@ window.WD_INTEL_DATA = {
       "position_code": "8",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000006216",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "一軍",
       "last_public_appearance": "2026-09-22"
     },
@@ -463,7 +463,7 @@ window.WD_INTEL_DATA = {
       "position_code": "2",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000006217",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "一軍",
       "last_public_appearance": "2026-09-20"
     },
@@ -477,7 +477,7 @@ window.WD_INTEL_DATA = {
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000006236",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "二軍",
       "last_public_appearance": "2026-09-18"
     },
@@ -491,7 +491,7 @@ window.WD_INTEL_DATA = {
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000006497",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "一軍",
       "last_public_appearance": "2026-09-22"
     },
@@ -505,7 +505,7 @@ window.WD_INTEL_DATA = {
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000006555",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "一軍",
       "last_public_appearance": "2026-09-19"
     },
@@ -519,7 +519,7 @@ window.WD_INTEL_DATA = {
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000006722",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "二軍",
       "last_public_appearance": "2026-09-12"
     },
@@ -533,7 +533,7 @@ window.WD_INTEL_DATA = {
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000006723",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "二軍",
       "last_public_appearance": "2026-09-18"
     },
@@ -547,7 +547,7 @@ window.WD_INTEL_DATA = {
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000006724",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "一軍",
       "last_public_appearance": "2026-09-20"
     },
@@ -557,11 +557,11 @@ window.WD_INTEL_DATA = {
       "name": "張祐嘉",
       "name_en": "CHANG You Jia",
       "number": "81",
-      "position_group": "指定打擊",
+      "position_group": "外野手",
       "position_code": "9",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000006725",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "一軍",
       "last_public_appearance": "2026-09-19"
     },
@@ -571,11 +571,11 @@ window.WD_INTEL_DATA = {
       "name": "李展毅",
       "name_en": "LI Chan I",
       "number": "36",
-      "position_group": "指定打擊",
+      "position_group": "內野手",
       "position_code": "3",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000006726",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "二軍",
       "last_public_appearance": "2026-09-19"
     },
@@ -589,7 +589,7 @@ window.WD_INTEL_DATA = {
       "position_code": "5",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000006728",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "一軍",
       "last_public_appearance": "2026-09-22"
     },
@@ -611,11 +611,11 @@ window.WD_INTEL_DATA = {
       "name": "周委宏",
       "name_en": "CHOU Wei Hung",
       "number": "88",
-      "position_group": "外野手",
+      "position_group": "內野手",
       "position_code": "4",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000006731",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "二軍",
       "last_public_appearance": "2026-09-19"
     },
@@ -629,7 +629,7 @@ window.WD_INTEL_DATA = {
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000006750",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "二軍",
       "last_public_appearance": "2026-09-18"
     },
@@ -643,7 +643,7 @@ window.WD_INTEL_DATA = {
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000006878",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "二軍",
       "last_public_appearance": "2026-09-18"
     },
@@ -657,7 +657,7 @@ window.WD_INTEL_DATA = {
       "position_code": "8",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000006879",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "一軍",
       "last_public_appearance": "2026-09-22"
     },
@@ -671,7 +671,7 @@ window.WD_INTEL_DATA = {
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000006881",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "二軍",
       "last_public_appearance": "2026-09-18"
     },
@@ -685,7 +685,7 @@ window.WD_INTEL_DATA = {
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000006910",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "二軍",
       "last_public_appearance": "2026-09-18"
     },
@@ -699,7 +699,7 @@ window.WD_INTEL_DATA = {
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000007055",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "二軍",
       "last_public_appearance": "2026-09-10"
     },
@@ -713,7 +713,7 @@ window.WD_INTEL_DATA = {
       "position_code": "6",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000007079",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "一軍",
       "last_public_appearance": "2026-09-22"
     },
@@ -727,7 +727,7 @@ window.WD_INTEL_DATA = {
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000007081",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "二軍",
       "last_public_appearance": "2026-09-12"
     },
@@ -741,7 +741,7 @@ window.WD_INTEL_DATA = {
       "position_code": "6",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000007082",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "一軍",
       "last_public_appearance": "2026-09-22"
     },
@@ -755,7 +755,7 @@ window.WD_INTEL_DATA = {
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000007083",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "一軍",
       "last_public_appearance": "2026-09-20"
     },
@@ -769,7 +769,7 @@ window.WD_INTEL_DATA = {
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000007264",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "一軍",
       "last_public_appearance": "2026-09-17"
     },
@@ -783,7 +783,7 @@ window.WD_INTEL_DATA = {
       "position_code": "8",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000007304",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "一軍",
       "last_public_appearance": "2026-09-22"
     },
@@ -809,7 +809,7 @@ window.WD_INTEL_DATA = {
       "position_code": "2",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000007306",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "二軍",
       "last_public_appearance": "2026-09-19"
     },
@@ -835,7 +835,7 @@ window.WD_INTEL_DATA = {
       "position_code": "8",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000007308",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "二軍",
       "last_public_appearance": "2026-09-15"
     },
@@ -845,25 +845,25 @@ window.WD_INTEL_DATA = {
       "name": "*劉曜豪",
       "name_en": "LIU Yao Hao",
       "number": "125",
-      "position_group": "外野手",
+      "position_group": "捕手",
       "position_code": "2",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000007309",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "二軍",
       "last_public_appearance": "2026-09-19"
     },
     {
       "id": "cpbl-0000007310",
       "source_id": "0000007310",
-      "name": "*許子謙",
+      "name": "許子謙",
       "name_en": "HSU Tzu Chien",
       "number": "127",
       "position_group": "內野手",
       "position_code": "4",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000007310",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "二軍",
       "last_public_appearance": "2026-09-19"
     },
@@ -877,7 +877,7 @@ window.WD_INTEL_DATA = {
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000007311",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "二軍",
       "last_public_appearance": "2026-09-18"
     },
@@ -891,7 +891,7 @@ window.WD_INTEL_DATA = {
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000007581",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "二軍",
       "last_public_appearance": "2026-09-19"
     },
@@ -905,21 +905,21 @@ window.WD_INTEL_DATA = {
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000007582",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "二軍",
       "last_public_appearance": "2026-09-16"
     },
     {
       "id": "cpbl-0000007587",
       "source_id": "0000007587",
-      "name": "◎潘信安",
+      "name": "*潘信安",
       "name_en": "PAN Hsin An",
       "number": "137",
       "position_group": "內野手",
       "position_code": "5",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000007587",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "二軍",
       "last_public_appearance": "2026-09-19"
     },
@@ -945,7 +945,7 @@ window.WD_INTEL_DATA = {
       "position_code": "7",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000007608",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "二軍",
       "last_public_appearance": "2026-09-13"
     },
@@ -959,7 +959,7 @@ window.WD_INTEL_DATA = {
       "position_code": "8",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000007609",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "二軍",
       "last_public_appearance": "2026-09-15"
     },
@@ -973,7 +973,7 @@ window.WD_INTEL_DATA = {
       "position_code": "4",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000007610",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "二軍",
       "last_public_appearance": "2026-09-19"
     },
@@ -999,7 +999,7 @@ window.WD_INTEL_DATA = {
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000007613",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "二軍",
       "last_public_appearance": "2026-09-15"
     },
@@ -1013,7 +1013,7 @@ window.WD_INTEL_DATA = {
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000007779",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "一軍",
       "last_public_appearance": "2026-09-18"
     },
@@ -10129,7 +10129,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-80323b3aeefd",
       "date": "2026-09-03",
-      "time": "11:31",
+      "time": "03:31",
       "type": "NEWS",
       "title": "幻影旅團襲來！味全龍攜手《HUNTER×HUNTER 獵人》第二彈決戰天母🏟️",
       "summary": "味全龍於9/11(五)至9/13(日)接續推出重量級跨界合作—「HUNTER×HUNTER 獵人｜味全龍聯名主 […] The post 幻影旅團襲來！味全龍攜手《HUNTER×HUNTER 獵人》第二彈決戰天母🏟️ first appeared on 味全龍官方網站 WeiChuan Dragons .",
@@ -10142,7 +10142,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-d332295c2522",
       "date": "2026-09-02",
-      "time": "18:05",
+      "time": "10:05",
       "type": "NEWS",
       "title": "達美樂世界風味季 大巨蛋開吃！披薩吃到飽×草地二次會",
       "summary": "為深化品牌跨界合作，豐富球迷觀賽與娛樂體驗，味全龍職業棒球隊將於 9月8日（二）至9月9日（三） 於臺北大巨蛋 […] The post 達美樂世界風味季 大巨蛋開吃！披薩吃到飽×草地二次會 first appeared on 味全龍官方網站 WeiChuan Dragons .",
@@ -10155,7 +10155,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-e9eb54c1b40d",
       "date": "2026-08-29",
-      "time": "21:18",
+      "time": "13:18",
       "type": "NEWS",
       "title": "味全龍「龍躍列車」正式啟航 用愛縮短距離、陪伴圓夢家庭走進球場",
       "summary": "味全龍今（29）日於天母棒球場正式啟動全新公益計畫「龍躍列車」，由一個在球場看見的溫暖畫面出發，在愛心人士捐贈 […] The post 味全龍「龍躍列車」正式啟航 用愛縮短距離、陪伴圓夢家庭走進球場 first appeared on 味全龍官方網站 WeiChuan Dragons .",
@@ -10168,7 +10168,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-6c2b0ab20fbb",
       "date": "2026-08-28",
-      "time": "22:09",
+      "time": "14:09",
       "type": "NEWS",
       "title": "龍隊新血到位！味全龍公布2026選秀簽約結果",
       "summary": "味全龍隊今日公布2026年中華職棒季中選秀簽約結果，多位潛力新秀正式加入龍隊，為球隊未來戰力注入新血。其中首輪 […] The post 龍隊新血到位！味全龍公布2026選秀簽約結果 first appeared on 味全龍官方網站 WeiChuan Dragons .",
@@ -10181,7 +10181,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-ff3601673f29",
       "date": "2026-08-22",
-      "time": "21:24",
+      "time": "13:24",
       "type": "NEWS",
       "title": "「鷹祭 SUMMER BOOST 2026 in Taipei」 熱潮席捲大巨蛋！兩日33,363人進場 味全龍刷新中職平日進場人數紀錄",
       "summary": "味全龍8月19日至20日於臺北大巨蛋舉辦「鷹祭 SUMMER BOOST 2026 in Taipei」主題日 […] The post 「鷹祭 SUMMER BOOST 2026 in Taipei」 熱潮席捲大巨蛋！兩日33,363人進場 味全龍刷新中職平日進場人數紀錄 first appeared on 味全龍官方網站 WeiChuan Dragons .",
@@ -10194,7 +10194,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-1e78f3d7dcec",
       "date": "2026-07-30",
-      "time": "11:53",
+      "time": "03:53",
       "type": "NEWS",
       "title": "KINGJUN 獨家聯名 × 五組神級卡司！味全龍「龍星大樂」8/14–8/16 震撼攻佔臺北大巨蛋💥",
       "summary": "為深化品牌跨界合作、提升球迷現場觀賽與娛樂體驗，味全龍職業棒球隊將於 8 月 14 日至 8 月 16 日在臺 […] The post KINGJUN 獨家聯名 × 五組神級卡司！味全龍「龍星大樂」8/14–8/16 震撼攻佔臺北大巨蛋💥 first appeared on 味全龍官方網站 WeiChuan Dragons .",
@@ -10207,7 +10207,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-4e756ef39656",
       "date": "2026-07-15",
-      "time": "16:14",
+      "time": "08:14",
       "type": "NEWS",
       "title": "預售票突破6萬張！味全龍攜手「新光人壽」 打造大巨蛋最狂「新光亞洲音樂祭」💥",
       "summary": "為深化台灣體育與金融品牌的跨界合作，並拉近與在地家庭、年輕族群及廣大樂迷的距離，味全龍職業棒球隊首度跨界聯手「 […] The post 預售票突破6萬張！味全龍攜手「新光人壽」 打造大巨蛋最狂「新光亞洲音樂祭」💥 first appeared on 味全龍官方網站 WeiChuan Dragons .",
@@ -10220,7 +10220,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-c80eca1ebd83",
       "date": "2026-06-24",
-      "time": "16:39",
+      "time": "08:39",
       "type": "NEWS",
       "title": "跨越次元再度攜手！味全龍 × hololive production 雙主場應援盛典今夏震撼引爆⭐❤️",
       "summary": "今年夏天最受矚目的跨界夢幻連動即將強勢登陸！味全龍職業棒球隊今日正式宣布，將再度與全球超人氣虛擬主播企劃 ho […] The post 跨越次元再度攜手！味全龍 × hololive production 雙主場應援盛典今夏震撼引爆⭐❤️ first appeared on 味全龍官方網站 WeiChuan Dragons .",
@@ -10233,7 +10233,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-2d283f5f8d07",
       "date": "2026-06-17",
-      "time": "14:08",
+      "time": "06:08",
       "type": "NEWS",
       "title": "【 hololive night主題日 】",
       "summary": "今年夏天—— hololive production 將再次降臨球場！ 從天母棒球場，到臺北大巨蛋， 四日限定 […] The post 【 hololive night主題日 】 first appeared on 味全龍官方網站 WeiChuan Dragons .",
@@ -10246,7 +10246,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-f2ff93238f76",
       "date": "2026-06-06",
-      "time": "16:46",
+      "time": "08:46",
       "type": "NEWS",
       "title": "最帥研究員上線 味全龍女孩日6/12-14 浪漫壓軸登場⭐❤️",
       "summary": "揭開心動方程式的秘密 味全龍年度最受期待的粉紅盛事「守護妳的EYE－心動方程式女孩日」，將於6月12日至14日 […] The post 最帥研究員上線 味全龍女孩日6/12-14 浪漫壓軸登場⭐❤️ first appeared on 味全龍官方網站 WeiChuan Dragons .",
@@ -10259,7 +10259,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-09f04fe47bc7",
       "date": "2026-03-24",
-      "time": "20:05",
+      "time": "12:05",
       "type": "NEWS",
       "title": "味全龍公佈2026年球員薪資：複數年合約鎖定投打核心，穩健佈局新球季戰力",
       "summary": "隨著官辦熱身賽即將結束，迎接新球季到來，味全龍球團今（24）日公佈2026年球季球員薪資調整結果。基於球隊長期 […] The post 味全龍公佈2026年球員薪資：複數年合約鎖定投打核心，穩健佈局新球季戰力 first appeared on 味全龍官方網站 WeiChuan Dragons .",
@@ -10272,7 +10272,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-6b1f86bb2caf",
       "date": "2026-01-29",
-      "time": "20:07",
+      "time": "12:07",
       "type": "NEWS",
       "title": "徐若熙赴日展開新挑戰 味全龍獻上祝福 期待雙方球團交流更深化",
       "summary": "徐若熙今年正式加盟日本職棒福岡軟銀鷹隊，展開職業生涯全新挑戰。福岡軟銀鷹球團於今(29)日在福岡舉行加盟記者會 […] The post 徐若熙赴日展開新挑戰 味全龍獻上祝福 期待雙方球團交流更深化 first appeared on 味全龍官方網站 WeiChuan Dragons .",
@@ -10285,7 +10285,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-651bac9ba29f",
       "date": "2026-01-22",
-      "time": "20:00",
+      "time": "12:00",
       "type": "NEWS",
       "title": "味全龍春訓期間舉辦法治教育課程 有獎徵答互動熱烈 深化球員法治與性別平等觀念",
       "summary": "為深化球員法治觀念、維護職業棒球清新形象，味全龍隊於1月22日（四）春訓期間，特別安排「職棒法治教育宣導」講座 […] The post 味全龍春訓期間舉辦法治教育課程 有獎徵答互動熱烈 深化球員法治與性別平等觀念 first appeared on 味全龍官方網站 WeiChuan Dragons .",
@@ -10298,7 +10298,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-455f946813e0",
       "date": "2026-01-18",
-      "time": "14:06",
+      "time": "06:06",
       "type": "NEWS",
       "title": "味全龍2026年教練團陣容發布強化整體球隊戰力及農場養成體系 目標直指總冠軍",
       "summary": "味全龍球團今（18）日正式公告2026年球季教練團陣容。球隊於本季未能晉級季後賽，球團進行全面檢討，並著眼於中 […] The post 味全龍2026年教練團陣容發布強化整體球隊戰力及農場養成體系 目標直指總冠軍 first appeared on 味全龍官方網站 WeiChuan Dragons .",
@@ -10311,7 +10311,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-8c1529cb001a",
       "date": "2026-01-16",
-      "time": "16:32",
+      "time": "08:32",
       "type": "NEWS",
       "title": "2026味全龍背號、姓名調整公告",
       "summary": "新入團球員： 投手 魔神龍 10號 投手 蔣銲 33號 投手 曾仁和 55號 投手 陳 […] The post 2026味全龍背號、姓名調整公告 first appeared on 味全龍官方網站 WeiChuan Dragons .",
@@ -10324,7 +10324,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-213e8f34bef2",
       "date": "2026-01-16",
-      "time": "15:51",
+      "time": "07:51",
       "type": "NEWS",
       "title": "2026年味全龍洋將佈局 龍魂「鑄」就堅實防線",
       "summary": "味全龍備戰2026新賽季，今(16)日正式公布5位開季洋將名單。由兩大資深洋投領軍，搭配三名強力新援，展現衝擊 […] The post 2026年味全龍洋將佈局 龍魂「鑄」就堅實防線 first appeared on 味全龍官方網站 WeiChuan Dragons .",
@@ -10337,7 +10337,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-15ac8f0cf09a",
       "date": "2026-01-08",
-      "time": "16:00",
+      "time": "08:00",
       "type": "NEWS",
       "title": "味全龍教練團新成員 古久保健二出任巡迴統籌教練",
       "summary": "味全龍球團今(8)日宣布，古久保健二正式加入教練團，擔任巡迴統籌教練一職，背號87。未來將負責球隊一、二軍之間 […] The post 味全龍教練團新成員 古久保健二出任巡迴統籌教練 first appeared on 味全龍官方網站 WeiChuan Dragons .",
@@ -10350,7 +10350,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-0fb70510d1e9",
       "date": "2025-12-26",
-      "time": "18:26",
+      "time": "10:26",
       "type": "NEWS",
       "title": "味全龍與福岡軟銀鷹簽訂三年合作協議 推動台日職棒深度交流",
       "summary": "味全龍球團今（26）日於記者會中正式宣布，已與日本職棒福岡軟銀鷹隊簽訂為期三年的合作協議，合作期間自2026年 […] The post 味全龍與福岡軟銀鷹簽訂三年合作協議 推動台日職棒深度交流 first appeared on 味全龍官方網站 WeiChuan Dragons .",
@@ -10363,7 +10363,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-52cea5ad4424",
       "date": "2025-12-22",
-      "time": "14:19",
+      "time": "06:19",
       "type": "NEWS",
       "title": "味全龍球團公告",
       "summary": "味全龍球團今（22）日正式宣佈，陣中投手徐若熙選手於今年球季結束後行使旅外球員權利，將於2026年賽季加盟日本 […] The post 味全龍球團公告 first appeared on 味全龍官方網站 WeiChuan Dragons .",
@@ -10376,7 +10376,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-a8b73642851a",
       "date": "2026-05-12",
-      "time": "15:53",
+      "time": "07:53",
       "type": "NEWS",
       "title": "味全龍 Ｘ LG TWINS 聯名主題日 「Red 가자!」5/26、5/27臺北大巨蛋熱血登場🔥",
       "summary": "味全龍將於 5/26、5/27 在臺北大巨蛋，與韓國職棒人氣球隊 LG TWINS 攜手舉辦聯名主題日「Red […] The post 味全龍 Ｘ LG TWINS 聯名主題日 「Red 가자!」5/26、5/27臺北大巨蛋熱血登場🔥 first appeared on 味全龍官方網站 WeiChuan Dragons .",
@@ -10389,7 +10389,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-249d538b652d",
       "date": "2026-05-08",
-      "time": "17:33",
+      "time": "09:33",
       "type": "NEWS",
       "title": "🍕美味一擊！味全龍攜手達美樂 打造「Tasting the World－達美樂世界風味季」主題日",
       "summary": "味全龍將於5月15日至5月17日於天母棒球場舉辦「Tasting the World－達美樂世界風味季」主題日 […] The post 🍕美味一擊！味全龍攜手達美樂 打造「Tasting the World－達美樂世界風味季」主題日 first appeared on 味全龍官方網站 WeiChuan Dragons .",
@@ -10402,7 +10402,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-c68eb49a0d16",
       "date": "2026-05-03",
-      "time": "13:19",
+      "time": "05:19",
       "type": "NEWS",
       "title": "龍總為了生活 5/5～5/6 一起來臺北大巨蛋 享受下班後的療癒時光",
       "summary": "暫停繁忙的日常，將大巨蛋變成最療癒的「城市綠洲」臺北的傍晚，除了回家和加班，你還有更棒的選擇！5月5日至5月6 […] The post 龍總為了生活 5/5～5/6 一起來臺北大巨蛋 享受下班後的療癒時光 first appeared on 味全龍官方網站 WeiChuan Dragons .",
@@ -10415,7 +10415,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-8b8809c48203",
       "date": "2026-05-01",
-      "time": "13:44",
+      "time": "05:44",
       "type": "NEWS",
       "title": "龍之萌友的應援時光 —『塩』守健康！親子毛孩日 5/2~5/3 寵物套票相關規範",
       "summary": "#親子寵物日🐾 寵物專區購票說明 🐶 ​ #汪汪派對套票 1.套票指定區域D16+D18/每日限量35組/每組 […] The post 龍之萌友的應援時光 —『塩』守健康！親子毛孩日 5/2~5/3 寵物套票相關規範 first appeared on 味全龍官方網站 WeiChuan Dragons .",
@@ -10596,7 +10596,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-68d4edcad58a",
       "date": "2026-09-18",
-      "time": "15:00",
+      "time": "07:00",
       "type": "NEWS",
       "title": "味全龍 2 : 0 樂天桃猿 (09/07) | 中職2026年 - LINE TODAY",
       "summary": "味全龍 2 : 0 樂天桃猿 (09/07) | 中職2026年 LINE TODAY",
@@ -10624,7 +10624,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-c8c5a3039f66",
       "date": "2026-09-21",
-      "time": "17:07",
+      "time": "09:07",
       "type": "NEWS",
       "title": "消失 20 年重返職棒，味全龍憑什麼喚回球迷：靠企業包場「圈粉」、啦啦隊「留客」 - 經理人",
       "summary": "消失 20 年重返職棒，味全龍憑什麼喚回球迷：靠企業包場「圈粉」、啦啦隊「留客」 經理人",
@@ -10652,7 +10652,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-b4dbad836109",
       "date": "2026-08-16",
-      "time": "15:00",
+      "time": "07:00",
       "type": "NEWS",
       "title": "味全龍球員賽前拿手機拍徐佳瑩、周湯豪表演！聯盟開罰1萬 球團回應了 - ETtoday運動雲",
       "summary": "味全龍球員賽前拿手機拍徐佳瑩、周湯豪表演！聯盟開罰1萬 球團回應了 ETtoday運動雲",
@@ -10708,7 +10708,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-f2992eb383d4",
       "date": "2026-09-18",
-      "time": "13:26",
+      "time": "05:26",
       "type": "NEWS",
       "title": "消失 20 年重返職棒，味全龍憑什麼喚回球迷：靠企業包場「圈粉」、啦啦隊「留客」 - 經理人",
       "summary": "消失 20 年重返職棒，味全龍憑什麼喚回球迷：靠企業包場「圈粉」、啦啦隊「留客」 經理人",
@@ -10722,7 +10722,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-bd912fbec82a",
       "date": "2026-09-20",
-      "time": "12:09",
+      "time": "04:09",
       "type": "NEWS",
       "title": "味全龍啦啦隊女神爆離隊！球團證實了 小映、金娜妍哭紅眼 | TVBS - LINE TODAY",
       "summary": "味全龍啦啦隊女神爆離隊！球團證實了 小映、金娜妍哭紅眼 | TVBS LINE TODAY",
@@ -10834,7 +10834,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-f4074f23bedd",
       "date": "2026-08-29",
-      "time": "15:00",
+      "time": "07:00",
       "type": "NEWS",
       "title": "中職》味全龍「龍躍列車」正式啟航 - 自由體育",
       "summary": "中職》味全龍「龍躍列車」正式啟航 自由體育",
@@ -10974,12 +10974,12 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-91661b01fbee",
       "date": "2026-09-09",
-      "time": "15:00",
+      "time": "07:00",
       "type": "NEWS",
-      "title": "中華職棒》味全龍總教練葉君璋談子弟兵衝突坦言「很開心」直言：「這比較像比賽」 - tw.sports.yahoo.com",
-      "summary": "中華職棒》味全龍總教練葉君璋談子弟兵衝突坦言「很開心」直言：「這比較像比賽」 tw.sports.yahoo.com",
+      "title": "中華職棒》味全龍總教練葉君璋談子弟兵衝突坦言「很開心」直言：「這比較像比賽」 - Yahoo運動",
+      "summary": "中華職棒》味全龍總教練葉君璋談子弟兵衝突坦言「很開心」直言：「這比較像比賽」 Yahoo運動",
       "url": "https://news.google.com/rss/articles/CBMipARBVV95cUxObUYyekp3bVhWSXRMTHE0eXI3cFNVODFTajZNT2x1YVVXZzR6cXVzc3JQLUtyLVVjamhGLXVCZHNaUjJYSlNOc0ptSzNFSzI3UWQ0dUN1cElJbGVROTRMaFhoYWJQaGVYNjJSbEZmbEE1dk92OHgzeDVjMEdGTkZQbTA2bmJtNExXUWdsSmRHcGx2bXI4Um1GZEJZYk4yMEZ0RnlDS29wY0JPX2JhN2tCNUYyMTd5RVdqR1F0OVJ5d0JjWjBZVDE1a3Z2aWZVRjE5TVV1VGk0YTVGVTFsbm1zbWVSSnVUN180SDFQaVRLUGtpRl9OUzFaTEdhbEhkVWpmWW1zMzl0UHpnUU1HdVBMRnZnVEhRb29paldIbVl1aHFDMTNnUWJQeDZ4aFJLOHJaYy1zTy14YkpqeklxT3V2Snk1RnpXX3JXOHRsSlZ5WmVkWVB5Q094eGtEMlk0bjFoRUpVOWZxTTJLUDhtbmNid3NFXzdtYm1wVy1JN0V1RzMzWnNmcU04ME0wQUZvbEhTMHJlbGxULXRHcFBYallvRTJ2VjVubXhzd3FfN1JBX1padVV6V3hmQlQwTmhzYTFPZ3M3Qk8wbUluZWNOYVhPcnhoLXgwc18tRHZuWkhqOU94aHJ1YTZTSzdPUEpmLUlvcHo3QUhiYTV0ejdZM0JORkNiQ1ZJMlQ0eHFnN0JCc3BUOG0xSFpRRzRYUUpOODk2OFd6Yg?oc=5",
-      "source": "tw.sports.yahoo.com",
+      "source": "Yahoo運動",
       "tags": [
         "RSS",
         "新聞"
@@ -11086,7 +11086,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-81a0be3ef7fd",
       "date": "2026-08-05",
-      "time": "15:00",
+      "time": "07:00",
       "type": "NEWS",
       "title": "中職》味全龍教練彼得森突消失！葉君璋解釋原因 - 中時新聞網",
       "summary": "中職》味全龍教練彼得森突消失！葉君璋解釋原因 中時新聞網",
@@ -11100,7 +11100,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-211104e33cfa",
       "date": "2026-08-28",
-      "time": "15:00",
+      "time": "07:00",
       "type": "NEWS",
       "title": "中職》味全龍公布簽約結果 選秀榜眼廖永詮簽約金570萬 - 自由體育",
       "summary": "中職》味全龍公布簽約結果 選秀榜眼廖永詮簽約金570萬 自由體育",
@@ -11142,7 +11142,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-76f5912b7cf2",
       "date": "2026-09-14",
-      "time": "15:00",
+      "time": "07:00",
       "type": "NEWS",
       "title": "中職／味全龍復古日穿上業餘時期戰袍 滾石撞樂隊27日賽後開唱 - UDN",
       "summary": "中職／味全龍復古日穿上業餘時期戰袍 滾石撞樂隊27日賽後開唱 UDN",
@@ -11170,7 +11170,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-88ad55876370",
       "date": "2026-08-30",
-      "time": "15:00",
+      "time": "07:00",
       "type": "NEWS",
       "title": "中職》味全龍近7戰慘吞6敗 葉總出「奇招」有用意 - 自由體育",
       "summary": "中職》味全龍近7戰慘吞6敗 葉總出「奇招」有用意 自由體育",
@@ -11226,12 +11226,12 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-98259207a333",
       "date": "2026-08-12",
-      "time": "15:00",
+      "time": "07:00",
       "type": "NEWS",
-      "title": "味全龍》夾殺傳球飛過守備員還是出局 葉君璋贏球還是檢討 - tw.sports.yahoo.com",
-      "summary": "味全龍》夾殺傳球飛過守備員還是出局 葉君璋贏球還是檢討 tw.sports.yahoo.com",
+      "title": "味全龍》夾殺傳球飛過守備員還是出局 葉君璋贏球還是檢討 - Yahoo運動",
+      "summary": "味全龍》夾殺傳球飛過守備員還是出局 葉君璋贏球還是檢討 Yahoo運動",
       "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxNNEpDYWJCN3JnSFB6TFh2Wk1uRlF4MjFtRzE1UzFpSGkwNV9xWHpMMVE4N2FzVEhFZkk1cDJRUWh1bU9Ia0stRFBWaWJ2UFppaGNPT3JtT25mc3ZjbVZrTEpWbkNlYVdmVG5qeUYxQWYxdEsyUWpoOU02RFRjRXpMMnlPZFp0TGxzdHNsNXZ5N0pWSTdxa0Z6Q001dXRuV0ZjV2stbjhGNnFzZjFHWU12WGEzRjZRYlB4UjkteWNkbXBsTHVZeTJUS3hqdE1hUTA4ZVI5QktZUzVpT3F2WG9FdEs3bWhockZwT3p5VnBpRFhEREg1ZW40aXNsZjRmejU1ZWdUNmk2SHJRR19oWm9KYXNaeC13MzN5N2M5TUhDaXZFaWM1aERQM1ZFRjNtN1hwUVozZlBQR3E2eWdyeFUyd3dYRGV0R1gzdVRjU2JPS0tVcWJoUmd5dVI3dEdQTE9sVU9ydUJvenFNNGlfSm5ELWNOZTJ4VkgwM3Z5LWZINmVxYVItTUx4XzVqQQ?oc=5",
-      "source": "tw.sports.yahoo.com",
+      "source": "Yahoo運動",
       "tags": [
         "RSS",
         "新聞"
@@ -11240,7 +11240,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-67cad6b8a7fd",
       "date": "2026-08-29",
-      "time": "15:00",
+      "time": "07:00",
       "type": "NEWS",
       "title": "中職／味全龍近6戰5敗怎麼了？葉總：選手想法飄來飄去 - UDN",
       "summary": "中職／味全龍近6戰5敗怎麼了？葉總：選手想法飄來飄去 UDN",
@@ -11268,7 +11268,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-b5499a8d162d",
       "date": "2026-08-17",
-      "time": "15:00",
+      "time": "07:00",
       "type": "NEWS",
       "title": "歌手賽前開唱！味全龍球員「掏手機拍攝」 中職開罰1人1萬 - Yahoo新聞",
       "summary": "歌手賽前開唱！味全龍球員「掏手機拍攝」 中職開罰1人1萬 Yahoo新聞",
@@ -11282,7 +11282,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-16d02dd07ac0",
       "date": "2026-08-29",
-      "time": "15:00",
+      "time": "07:00",
       "type": "NEWS",
       "title": "身障孩子棒球場慶生 催生味全龍【龍躍列車】圓夢服務 - 鏡週刊Mirror Media",
       "summary": "身障孩子棒球場慶生 催生味全龍【龍躍列車】圓夢服務 鏡週刊Mirror Media",
@@ -11310,7 +11310,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-acbee95c4c9e",
       "date": "2026-08-31",
-      "time": "15:00",
+      "time": "07:00",
       "type": "NEWS",
       "title": "中職》味全龍新註冊5人 包括本屆選秀第6輪新人李承峻 - 自由體育",
       "summary": "中職》味全龍新註冊5人 包括本屆選秀第6輪新人李承峻 自由體育",
@@ -11380,7 +11380,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-8e4a0bd96620",
       "date": "2026-09-04",
-      "time": "15:00",
+      "time": "07:00",
       "type": "NEWS",
       "title": "劉基鴻兩分砲 味全龍逆轉中信兄弟 - 中職 - 棒球 - 運動視界Sports Vision",
       "summary": "劉基鴻兩分砲 味全龍逆轉中信兄弟 - 中職 - 棒球 運動視界Sports Vision",
@@ -11394,7 +11394,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-e57b20e78926",
       "date": "2026-07-29",
-      "time": "15:00",
+      "time": "07:00",
       "type": "NEWS",
       "title": "中職》全聯盟最強牛棚！ 味全龍再添1後援大將 - 自由體育",
       "summary": "中職》全聯盟最強牛棚！ 味全龍再添1後援大將 自由體育",
@@ -11478,7 +11478,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-73e21d2998d9",
       "date": "2026-08-14",
-      "time": "15:00",
+      "time": "07:00",
       "type": "NEWS",
       "title": "味全龍》陳子豪、朱育賢與李凱威都休兵！ 葉總點出真正原因 | TSNA - LINE TODAY",
       "summary": "味全龍》陳子豪、朱育賢與李凱威都休兵！ 葉總點出真正原因 | TSNA LINE TODAY",
@@ -11492,7 +11492,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-2d416d0a7357",
       "date": "2026-08-28",
-      "time": "15:00",
+      "time": "07:00",
       "type": "NEWS",
       "title": "味全龍公布新秀簽約結果榜眼廖永詮簽約金570萬元| 運動 - 中央社 CNA",
       "summary": "味全龍公布新秀簽約結果榜眼廖永詮簽約金570萬元| 運動 中央社 CNA",
@@ -11520,7 +11520,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-7d5dde23c35a",
       "date": "2026-08-20",
-      "time": "15:00",
+      "time": "07:00",
       "type": "NEWS",
       "title": "中職》味全龍好消息 2屆金手套鐵捕蔣少宏可望歸隊 - 自由體育",
       "summary": "中職》味全龍好消息 2屆金手套鐵捕蔣少宏可望歸隊 自由體育",
@@ -11548,12 +11548,12 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-f4283af3e99e",
       "date": "2026-09-09",
-      "time": "15:00",
+      "time": "07:00",
       "type": "NEWS",
-      "title": "中華職棒》富邦悍將、味全龍衝突後再碰頭 瑪帝斯優質先發率隊4比2勝龍 - tw.sports.yahoo.com",
-      "summary": "中華職棒》富邦悍將、味全龍衝突後再碰頭 瑪帝斯優質先發率隊4比2勝龍 tw.sports.yahoo.com",
+      "title": "中華職棒》富邦悍將、味全龍衝突後再碰頭 瑪帝斯優質先發率隊4比2勝龍 - Yahoo運動",
+      "summary": "中華職棒》富邦悍將、味全龍衝突後再碰頭 瑪帝斯優質先發率隊4比2勝龍 Yahoo運動",
       "url": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxOZTJBMXFzT1hCdEJzbkVrOXZfb2w5cHZfbnNIU0pCZjl0NXhrelF0RWxGUVA0d05nQ3VOcUhSNEVLenJZZ2lSUkJabVdtMnBVaUxXR2tUaGVRQk5LanpwRU5EaVgxbXlqaU05NGhkMVhrSFlhcTB1eExvbFd2SDhLaHFGNm1MR2hLdUFWOWRMN3pNU2c0NXJhVkp0NkFKMHhFeEF5X1ZSeDNJWXVVb05NSXozZTRwZWp1d1Z3cEo5NWRUWDQ3dDJzSjl3MzlPNWRYQ1NQajBZRG9fb0JWSWM0enIxMVIyNmpZV25XOWtJMmhYY3NvOU9KYmpnRW1HSk5aN1RKZmc2SEc0Tmg1b0NLTjNJNWFDRWVseWpBejdkdFNsMG5wTlhHeGUtajYySEZrZDFjYjJpYWUwRDVNa1c2MHg4aF9IUjVpU3kzX2REQW9fcHB3YzEyR2VqNERVaVNQVGVqRlNoTUtaZmlVblVqRm1PQjBFdnFneFJ0ZG5nMWxxQTBxVFc2RVdLLWNOYkoxdEk0c3ZFU3Y0aGhrZWN6d3F4ajg2ZmJPWWpybFpOS2s2RUVDT01uVGZzOXVFNDM0WUM1NG80LUhkUVZNQWN1ZnotbE8?oc=5",
-      "source": "tw.sports.yahoo.com",
+      "source": "Yahoo運動",
       "tags": [
         "RSS",
         "新聞"
@@ -11576,7 +11576,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-3bc4834ff38d",
       "date": "2026-08-21",
-      "time": "15:00",
+      "time": "07:00",
       "type": "NEWS",
       "title": "中職》壞消息！味全龍第1指名劉俊緯被兄弟砸傷骨裂 球團透露最新狀況 - 自由體育",
       "summary": "中職》壞消息！味全龍第1指名劉俊緯被兄弟砸傷骨裂 球團透露最新狀況 自由體育",
@@ -11632,12 +11632,12 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-ff515042760f",
       "date": "2026-08-16",
-      "time": "15:00",
+      "time": "07:00",
       "type": "NEWS",
-      "title": "中華職棒戰報》上半季王者回歸 味全龍反超要回龍頭 - tw.sports.yahoo.com",
-      "summary": "中華職棒戰報》上半季王者回歸 味全龍反超要回龍頭 tw.sports.yahoo.com",
+      "title": "中華職棒戰報》上半季王者回歸 味全龍反超要回龍頭 - Yahoo運動",
+      "summary": "中華職棒戰報》上半季王者回歸 味全龍反超要回龍頭 Yahoo運動",
       "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxOUVZHNUZUWmZLMU5KVnhKaGR4X1BnazBpUTRNazFCWnR4cjJ5ODdjMk1QSzhqT29WQjRyRTk5VW8wdjdoSFlPaHZDTWUxX3lJbmxPS3B2cWtOXzZXQXZ0eG5JT1BGZmw2UXZqV2xRd3JWeFNhLUEtYTVNMm55TG81Z2dNU0hlTjNwN2U2dVFSN0YwTzYtNF8wSE5XeXNHckU0N2ttRTNSQ2xGVy1NX29MNF9OQVpPU2NMaDNIeFdhYmczZ3I4Q2JFeHd6NmtsVE8wZjBveXdULVhScW1JbnpDOHczYVdLYWtFbklKTzM1ZUcyZy1nQnhzTmFoTFRGQ0VPM1lOUkY2RF9sN245cW5SVC1fMGR5Q0RIdDdLYkR3UHkxeWJieUM4S0d3MHZvTTJJa19FaDRaQW1aVGo0dWh1N1dJMFJCRTFoMTNkS1hhNVNtQ2JUNEZfUDY4MTI2QktqelJ4M3dlWnlESWR0NERyUlBB?oc=5",
-      "source": "tw.sports.yahoo.com",
+      "source": "Yahoo運動",
       "tags": [
         "RSS",
         "新聞"
@@ -11646,12 +11646,12 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-c758de83e5c0",
       "date": "2026-08-02",
-      "time": "15:00",
+      "time": "07:00",
       "type": "NEWS",
-      "title": "中華職棒戰報》味全龍急起直追 4連勝緊咬樂天桃猿 - tw.sports.yahoo.com",
-      "summary": "中華職棒戰報》味全龍急起直追 4連勝緊咬樂天桃猿 tw.sports.yahoo.com",
+      "title": "中華職棒戰報》味全龍急起直追 4連勝緊咬樂天桃猿 - Yahoo運動",
+      "summary": "中華職棒戰報》味全龍急起直追 4連勝緊咬樂天桃猿 Yahoo運動",
       "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPeDE0WDNsQ1c3ZW9mLV96M0EwQUVjSmRKamRsLVRKX2RKOU9KUEtfMlNMUjlVc1ZvZzAyUGFQalY1TjZUTGRoNGpscTFoOVBhRUlRaFVhT3prYTB0TnVWdjdCN1UySVpUdlBBR3ZPVXdqaExRQVJjWFZnRjlYWG1iam5DMDhGQWd5QVRHUF9NNmcyaDN4aU5NU29SaGxXejl5M1RxanllaFBIaEp0SEpwYUQ0SjhHZ2Y5WjlJS1p4TzhXWnJrNjZqRm9nQkpMcFM2enI4TUNqZnRkZzBiM1JQLWM5b1FFdFY0WG1vNFkyaGlONm1OT3Z0WTc1dUZUOHBlc09XbmJpcGFyQWRWb2RSVTE1MTF0MUZtbDZCbmpRYi11Qm5wakI5WkR0NTJlVl9NS1RVR25tOEhSSWprYmFHVXJUcVVMYy13djRNUS14YnJLNDBmV1pBSDJ2SmR1U280Yko0UXg4OA?oc=5",
-      "source": "tw.sports.yahoo.com",
+      "source": "Yahoo運動",
       "tags": [
         "RSS",
         "新聞"
@@ -11702,7 +11702,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-63164ae8947f",
       "date": "2026-08-02",
-      "time": "15:00",
+      "time": "07:00",
       "type": "NEWS",
       "title": "中職》終於贏了！中信兄弟大勝味全龍 終結對戰9連敗 - 自由體育",
       "summary": "中職》終於贏了！中信兄弟大勝味全龍 終結對戰9連敗 自由體育",
@@ -11831,7 +11831,7 @@ window.WD_INTEL_DATA = {
       "time": "17:05",
       "type": "WEATHER",
       "title": "比賽天氣 · 味全龍 vs 樂天桃猿",
-      "summary": "毛毛雨 · 25.6°C · 降雨 44% · 濕度 85% · 風 11.4 km/h",
+      "summary": "毛毛雨 · 23.7°C · 降雨 66% · 濕度 87% · 風 20.1 km/h",
       "source": "Open-Meteo",
       "url": "https://open-meteo.com/",
       "game_id": "cpbl-2026-A-251",
@@ -11839,13 +11839,13 @@ window.WD_INTEL_DATA = {
       "weather": {
         "mode": "FORECAST",
         "condition": "毛毛雨",
-        "temperature_c": 25.6,
-        "relative_humidity_pct": 85,
-        "precipitation_probability_pct": 44,
-        "precipitation_mm": 0.5,
-        "wind_speed_kmh": 11.4,
-        "wind_gusts_kmh": 32.8,
-        "weather_code": 53,
+        "temperature_c": 23.7,
+        "relative_humidity_pct": 87,
+        "precipitation_probability_pct": 66,
+        "precipitation_mm": 0.4,
+        "wind_speed_kmh": 20.1,
+        "wind_gusts_kmh": 44.6,
+        "weather_code": 51,
         "forecast_time": "2026-10-04T17:00"
       },
       "tags": [
@@ -11859,21 +11859,21 @@ window.WD_INTEL_DATA = {
       "time": "18:35",
       "type": "WEATHER",
       "title": "比賽天氣 · 味全龍 vs 樂天桃猿",
-      "summary": "晴 · 28.7°C · 降雨 31% · 濕度 75% · 風 4.6 km/h",
+      "summary": "晴時多雲 · 28.2°C · 降雨 2% · 濕度 74% · 風 4.3 km/h",
       "source": "Open-Meteo",
       "url": "https://open-meteo.com/",
       "game_id": "cpbl-2026-A-254",
       "venue_id": "v-4304c03a7c00",
       "weather": {
         "mode": "FORECAST",
-        "condition": "晴",
-        "temperature_c": 28.7,
-        "relative_humidity_pct": 75,
-        "precipitation_probability_pct": 31,
+        "condition": "晴時多雲",
+        "temperature_c": 28.2,
+        "relative_humidity_pct": 74,
+        "precipitation_probability_pct": 2,
         "precipitation_mm": 0.0,
-        "wind_speed_kmh": 4.6,
-        "wind_gusts_kmh": 31.3,
-        "weather_code": 0,
+        "wind_speed_kmh": 4.3,
+        "wind_gusts_kmh": 19.1,
+        "weather_code": 1,
         "forecast_time": "2026-09-30T19:00"
       },
       "tags": [
@@ -11887,7 +11887,7 @@ window.WD_INTEL_DATA = {
       "time": "14:05",
       "type": "WEATHER",
       "title": "比賽天氣 · 味全龍 vs 樂天桃猿",
-      "summary": "晴 · 30.6°C · 降雨 10% · 濕度 62% · 風 12.6 km/h",
+      "summary": "晴 · 25.3°C · 降雨 0% · 濕度 85% · 風 3.1 km/h",
       "source": "Open-Meteo",
       "url": "https://open-meteo.com/",
       "game_id": "cpbl-2026-D-226",
@@ -11895,14 +11895,14 @@ window.WD_INTEL_DATA = {
       "weather": {
         "mode": "FORECAST",
         "condition": "晴",
-        "temperature_c": 30.6,
-        "relative_humidity_pct": 62,
-        "precipitation_probability_pct": 10,
+        "temperature_c": 25.3,
+        "relative_humidity_pct": 85,
+        "precipitation_probability_pct": 0,
         "precipitation_mm": 0.0,
-        "wind_speed_kmh": 12.6,
-        "wind_gusts_kmh": 30.2,
+        "wind_speed_kmh": 3.1,
+        "wind_gusts_kmh": 12.6,
         "weather_code": 0,
-        "forecast_time": "2026-09-26T14:00"
+        "forecast_time": "2026-09-27T00:00"
       },
       "tags": [
         "FORECAST",
@@ -11915,7 +11915,7 @@ window.WD_INTEL_DATA = {
       "time": "18:35",
       "type": "WEATHER",
       "title": "比賽天氣 · 味全龍 vs 富邦悍將",
-      "summary": "毛毛雨 · 26.4°C · 降雨 51% · 濕度 87% · 風 7.1 km/h",
+      "summary": "毛毛雨 · 27.4°C · 降雨 26% · 濕度 77% · 風 14.8 km/h",
       "source": "Open-Meteo",
       "url": "https://open-meteo.com/",
       "game_id": "cpbl-2026-A-279",
@@ -11923,12 +11923,12 @@ window.WD_INTEL_DATA = {
       "weather": {
         "mode": "FORECAST",
         "condition": "毛毛雨",
-        "temperature_c": 26.4,
-        "relative_humidity_pct": 87,
-        "precipitation_probability_pct": 51,
+        "temperature_c": 27.4,
+        "relative_humidity_pct": 77,
+        "precipitation_probability_pct": 26,
         "precipitation_mm": 0.2,
-        "wind_speed_kmh": 7.1,
-        "wind_gusts_kmh": 24.8,
+        "wind_speed_kmh": 14.8,
+        "wind_gusts_kmh": 33.1,
         "weather_code": 51,
         "forecast_time": "2026-10-02T19:00"
       },
@@ -11943,7 +11943,7 @@ window.WD_INTEL_DATA = {
       "time": "17:05",
       "type": "WEATHER",
       "title": "比賽天氣 · 味全龍 vs 富邦悍將",
-      "summary": "晴 · 31.2°C · 降雨 14% · 濕度 58% · 風 8.0 km/h",
+      "summary": "晴 · 31.3°C · 降雨 8% · 濕度 59% · 風 7.4 km/h",
       "source": "Open-Meteo",
       "url": "https://open-meteo.com/",
       "game_id": "cpbl-2026-A-360",
@@ -11951,12 +11951,12 @@ window.WD_INTEL_DATA = {
       "weather": {
         "mode": "FORECAST",
         "condition": "晴",
-        "temperature_c": 31.2,
-        "relative_humidity_pct": 58,
-        "precipitation_probability_pct": 14,
+        "temperature_c": 31.3,
+        "relative_humidity_pct": 59,
+        "precipitation_probability_pct": 8,
         "precipitation_mm": 0.0,
-        "wind_speed_kmh": 8.0,
-        "wind_gusts_kmh": 34.6,
+        "wind_speed_kmh": 7.4,
+        "wind_gusts_kmh": 24.8,
         "weather_code": 0,
         "forecast_time": "2026-09-28T17:00"
       },
@@ -11971,21 +11971,21 @@ window.WD_INTEL_DATA = {
       "time": "18:35",
       "type": "WEATHER",
       "title": "比賽天氣 · 統一7-ELEVEn獅 vs 味全龍",
-      "summary": "毛毛雨 · 26.6°C · 降雨 87% · 濕度 85% · 風 8.0 km/h",
+      "summary": "晴時多雲 · 26.7°C · 降雨 30% · 濕度 85% · 風 8.3 km/h",
       "source": "Open-Meteo",
       "url": "https://open-meteo.com/",
       "game_id": "cpbl-2026-A-326",
       "venue_id": "v-d9d2edbb3308",
       "weather": {
         "mode": "FORECAST",
-        "condition": "毛毛雨",
-        "temperature_c": 26.6,
+        "condition": "晴時多雲",
+        "temperature_c": 26.7,
         "relative_humidity_pct": 85,
-        "precipitation_probability_pct": 87,
-        "precipitation_mm": 0.1,
-        "wind_speed_kmh": 8.0,
-        "wind_gusts_kmh": 23.4,
-        "weather_code": 51,
+        "precipitation_probability_pct": 30,
+        "precipitation_mm": 0.0,
+        "wind_speed_kmh": 8.3,
+        "wind_gusts_kmh": 29.5,
+        "weather_code": 1,
         "forecast_time": "2026-10-01T19:00"
       },
       "tags": [
@@ -11999,22 +11999,22 @@ window.WD_INTEL_DATA = {
       "time": "17:05",
       "type": "WEATHER",
       "title": "比賽天氣 · 樂天桃猿 vs 味全龍",
-      "summary": "晴時多雲 · 29.6°C · 降雨 18% · 濕度 70% · 風 8.0 km/h",
+      "summary": "晴 · 24.9°C · 降雨 0% · 濕度 89% · 風 0.3 km/h",
       "source": "Open-Meteo",
       "url": "https://open-meteo.com/",
       "game_id": "cpbl-2026-A-353",
       "venue_id": "v-d9d2edbb3308",
       "weather": {
         "mode": "FORECAST",
-        "condition": "晴時多雲",
-        "temperature_c": 29.6,
-        "relative_humidity_pct": 70,
-        "precipitation_probability_pct": 18,
+        "condition": "晴",
+        "temperature_c": 24.9,
+        "relative_humidity_pct": 89,
+        "precipitation_probability_pct": 0,
         "precipitation_mm": 0.0,
-        "wind_speed_kmh": 8.0,
-        "wind_gusts_kmh": 23.4,
-        "weather_code": 1,
-        "forecast_time": "2026-09-26T17:00"
+        "wind_speed_kmh": 0.3,
+        "wind_gusts_kmh": 9.7,
+        "weather_code": 0,
+        "forecast_time": "2026-09-27T00:00"
       },
       "tags": [
         "FORECAST",
@@ -12027,21 +12027,21 @@ window.WD_INTEL_DATA = {
       "time": "16:05",
       "type": "WEATHER",
       "title": "比賽天氣 · 樂天桃猿 vs 味全龍",
-      "summary": "陰 · 31.9°C · 降雨 2% · 濕度 51% · 風 11.0 km/h",
+      "summary": "晴 · 32.6°C · 降雨 0% · 濕度 44% · 風 9.2 km/h",
       "source": "Open-Meteo",
       "url": "https://open-meteo.com/",
       "game_id": "cpbl-2026-A-356",
       "venue_id": "v-d9d2edbb3308",
       "weather": {
         "mode": "FORECAST",
-        "condition": "陰",
-        "temperature_c": 31.9,
-        "relative_humidity_pct": 51,
-        "precipitation_probability_pct": 2,
+        "condition": "晴",
+        "temperature_c": 32.6,
+        "relative_humidity_pct": 44,
+        "precipitation_probability_pct": 0,
         "precipitation_mm": 0.0,
-        "wind_speed_kmh": 11.0,
-        "wind_gusts_kmh": 32.8,
-        "weather_code": 3,
+        "wind_speed_kmh": 9.2,
+        "wind_gusts_kmh": 27.7,
+        "weather_code": 0,
         "forecast_time": "2026-09-27T16:00"
       },
       "tags": [
@@ -12122,7 +12122,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-67a52cf67026",
       "date": "2026-09-11",
-      "time": "15:00",
+      "time": "07:00",
       "type": "NEWS",
       "title": "林智勝擁抱陳鏞基祝賀引退味全龍送上高球練習組| 運動 - 中央社 CNA",
       "summary": "林智勝擁抱陳鏞基祝賀引退味全龍送上高球練習組| 運動 中央社 CNA",
@@ -12150,12 +12150,12 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-700b8ed1f0c4",
       "date": "2026-08-14",
-      "time": "15:00",
+      "time": "07:00",
       "type": "NEWS",
-      "title": "中華職棒》劉俊緯再見安打建功！味全龍2比1氣走樂天桃猿 - tw.sports.yahoo.com",
-      "summary": "中華職棒》劉俊緯再見安打建功！味全龍2比1氣走樂天桃猿 tw.sports.yahoo.com",
+      "title": "中華職棒》劉俊緯再見安打建功！味全龍2比1氣走樂天桃猿 - Yahoo運動",
+      "summary": "中華職棒》劉俊緯再見安打建功！味全龍2比1氣走樂天桃猿 Yahoo運動",
       "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxQd2VCM1owWDZSNDZjYXBxYU41Y1JTUGo4NVBpTk5BZWhPYjVlcVJvb29oOVI4OXlVZlFUQWVSZUFuT01ENGlrWUZMQjJKRDAzZTRXV2pwWUFTTmE5RzA3X01NNC14ang1UTRtNzRrVGhrejdNX292Ny1na0hQblFiakd4MGsxX1RFbkVWVUkyMllxMlNzaWlMUEpic293aFpHR21lbTZKTFdwQ2E1VzBhRUF3T3ZOYUg4RTlILTlnOHNQSlJfZm5rSTVYTDJ5U1VxTXlBZU9GMGp3eFpMWVpPeUZ5QkQ3a3lYQjRPSnBJdXNhbmtrRHJpNkV6Yk00VVdzbkpuVXdoOWt2d0FlX0t0RFVvOGQydWZQMzdjYkJ1T0ZmNE9wTmw3dkhIcHo5S0pPdGxqWE80TnlCc01WUWRPZmFGUVFHR3RjVEotUlRNa3JKTnZRckZGSmcwV2tqRG54X1haV2ROSGJxQ3lmUmlldVMxMURyZkFsOUVOenZ6OG1SZ1pOYXU0WFEzbw?oc=5",
-      "source": "tw.sports.yahoo.com",
+      "source": "Yahoo運動",
       "tags": [
         "RSS",
         "新聞"
@@ -12195,21 +12195,21 @@ window.WD_INTEL_DATA = {
       "time": "17:05",
       "type": "WEATHER",
       "title": "比賽天氣 · 味全龍 vs 統一7-ELEVEn獅",
-      "summary": "毛毛雨 · 29.7°C · 降雨 69% · 濕度 71% · 風 7.0 km/h",
+      "summary": "晴 · 29.3°C · 降雨 62% · 濕度 72% · 風 4.9 km/h",
       "source": "Open-Meteo",
       "url": "https://open-meteo.com/",
       "game_id": "cpbl-2026-A-199",
       "venue_id": "v-4ee8c465c4e4",
       "weather": {
         "mode": "FORECAST",
-        "condition": "毛毛雨",
-        "temperature_c": 29.7,
-        "relative_humidity_pct": 71,
-        "precipitation_probability_pct": 69,
-        "precipitation_mm": 0.2,
-        "wind_speed_kmh": 7.0,
-        "wind_gusts_kmh": 22.7,
-        "weather_code": 51,
+        "condition": "晴",
+        "temperature_c": 29.3,
+        "relative_humidity_pct": 72,
+        "precipitation_probability_pct": 62,
+        "precipitation_mm": 0.0,
+        "wind_speed_kmh": 4.9,
+        "wind_gusts_kmh": 22.3,
+        "weather_code": 0,
         "forecast_time": "2026-10-03T17:00"
       },
       "tags": [
@@ -12275,8 +12275,8 @@ window.WD_INTEL_DATA = {
     },
     {
       "id": "e-fff85baf9ff1",
-      "date": "2026-09-24",
-      "time": "11:26",
+      "date": "2026-09-23",
+      "time": "23:00",
       "type": "NEWS",
       "title": "中職／郭天信、魔神龍近況差味全天龍陣在投打端都現罩門| 運動專欄| 運動 - UDN",
       "summary": "中職／郭天信、魔神龍近況差味全天龍陣在投打端都現罩門| 運動專欄| 運動 UDN",
@@ -12318,7 +12318,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-825656a557a7",
       "date": "2026-09-23",
-      "time": "17:52",
+      "time": "09:52",
       "type": "NEWS",
       "title": "中職》統一獅戰力吃緊 明派21歲奇兵大戰味全龍 - 自由體育",
       "summary": "中職》統一獅戰力吃緊 明派21歲奇兵大戰味全龍 自由體育",
@@ -12388,7 +12388,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-69d2042e9a12",
       "date": "2026-09-23",
-      "time": "18:43",
+      "time": "10:43",
       "type": "NEWS",
       "title": "味全龍號召球迷挽袖做公益！9/26天母棒球場登場 參與捐血贈門票 - Yahoo新聞",
       "summary": "味全龍號召球迷挽袖做公益！9/26天母棒球場登場 參與捐血贈門票 Yahoo新聞",
@@ -12472,7 +12472,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-30eae113c62e",
       "date": "2026-09-14",
-      "time": "15:00",
+      "time": "07:00",
       "type": "NEWS",
       "title": "中職》味全龍「搖滾撞野球復古日」經典戰袍重現 滾石撞樂隊熱血開唱 - 自由體育",
       "summary": "中職》味全龍「搖滾撞野球復古日」經典戰袍重現 滾石撞樂隊熱血開唱 自由體育",
@@ -12556,12 +12556,12 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-b5628155e046",
       "date": "2026-09-08",
-      "time": "15:00",
+      "time": "07:00",
       "type": "NEWS",
-      "title": "噴錢又遭禁賽！味全龍「撈哥」推一把引爆大場面 中職懲處出爐 - tw.sports.yahoo.com",
-      "summary": "噴錢又遭禁賽！味全龍「撈哥」推一把引爆大場面 中職懲處出爐 tw.sports.yahoo.com",
+      "title": "噴錢又遭禁賽！味全龍「撈哥」推一把引爆大場面 中職懲處出爐 - Yahoo運動",
+      "summary": "噴錢又遭禁賽！味全龍「撈哥」推一把引爆大場面 中職懲處出爐 Yahoo運動",
       "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQU0gzMzBUWU81MHh5TnR1S1ZnOW5xNE5nRm9Pc1lGV3dPZTdpTG13VHRmS05ENERRYThIVTczZTJhR2h6NFVZYjVvSnZyQUdHWXlMaEw4UDVHQk9wOFlYcVZOYnFkUWVIV05kd0xDRGYyeTNvQ2Vub2gwWUthZ254RjI0dU5wMzR1Rlp3cWRJWU95TXljQzk2eWJFc3JIeXZHdHMtM3ZfZklLbzlqRWtWbWVhMkp5RDlhWTNrZUY3RzRhbDZ4SG53ekZSM1BTS2dzMmw4ZlBPWldXUW5JMEFGeDdXNmFtSTNBTWxJaU5vb1p2V1pEOUN0b0pFV2l6R2JuYUVacU1sUGo4b2tDbVdXWmxObUR1ZEdHQVJ3SzFCY1BOMUNaa0J2SWF2QkJoSWRxQjRlMkdjQzQ0UQ?oc=5",
-      "source": "tw.sports.yahoo.com",
+      "source": "Yahoo運動",
       "tags": [
         "RSS",
         "新聞"
@@ -12612,12 +12612,12 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-c03f1c12b40f",
       "date": "2026-09-11",
-      "time": "15:00",
+      "time": "07:00",
       "type": "NEWS",
-      "title": "中職天母戰 統一獅勝味全龍 (圖) - tw.sports.yahoo.com",
-      "summary": "中職天母戰 統一獅勝味全龍 (圖) tw.sports.yahoo.com",
+      "title": "中職天母戰 統一獅勝味全龍 (圖) - Yahoo運動",
+      "summary": "中職天母戰 統一獅勝味全龍 (圖) Yahoo運動",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOOHVENnBBWlU1Y0I3TnJBYy1YQ1pGSTVzRWt5Z0tXcTBGd2RLR1RTOXUyNDMtV2dxYk41c0s3N3ZZQ20zUmxiaGFQc2JoVGJWejRrTUFIc0xEaFMwQ0xFSnNzV2NWR2lnSHZXQ2NHTEdkeHMxZ1ZQcXFxaHJYY2w4ay1EZm5kYm8xWmdXYVo3aHZCY2VkVEdzWTYwUXJ2NExIWFAyMk0tLVFFMkhwVjgzZ3l1NEFGeWNqRFlyUnFHc283RnRod2VFX2dBRVNXRkNXWU0tUTJaVDUzWEVzMUZKeDJPbEhoQlgwTUlJT1JKNXM?oc=5",
-      "source": "tw.sports.yahoo.com",
+      "source": "Yahoo運動",
       "tags": [
         "RSS",
         "新聞"
@@ -12626,12 +12626,12 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-f646ddb92fab",
       "date": "2026-09-11",
-      "time": "15:00",
+      "time": "07:00",
       "type": "NEWS",
-      "title": "中職天母戰 味全龍推洋投魔神龍先發 (圖) - tw.sports.yahoo.com",
-      "summary": "中職天母戰 味全龍推洋投魔神龍先發 (圖) tw.sports.yahoo.com",
+      "title": "中職天母戰 味全龍推洋投魔神龍先發 (圖) - Yahoo運動",
+      "summary": "中職天母戰 味全龍推洋投魔神龍先發 (圖) Yahoo運動",
       "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOWkc0RDdPdThzTEdQb0pYNmtoOTBpYVRCWVp2Z09kX19ab3Z4dFo3V0lUZ0lIRmEwOVpsVTFQRzlNdFYtdWhRWVJBb1JEeGJkNVRKWDBaSG9VY2lFRFRocGVtU1BwamlEVHZhb3RwRWNRemNxb0RWbnBual9zUkd3TWNtdzVzWWxKbV9nNVBBWS00YTlRbkNQTmtNSDd1dkFLY3lGcHRrRlVreGN6dURzamdfZ2pRd2hRbk4zcmVGS0dGVUtjczlJY0lxRVhnbnI2dVNGdHdFLXA3RTNCdTNaY1V3TUpEYmZLcXZVTU5WQUpNR0F5R21GekowUENSZjZYamVOWS1Zc2lTS0JBeF9qZk8yYm9QcFJwbHFpQUp2YjNybmE2TlRJX0hYdw?oc=5",
-      "source": "tw.sports.yahoo.com",
+      "source": "Yahoo運動",
       "tags": [
         "RSS",
         "新聞"
@@ -12640,7 +12640,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-bb3621450f0c",
       "date": "2026-09-11",
-      "time": "15:00",
+      "time": "07:00",
       "type": "NEWS",
       "title": "中職》致敬陳鏞基 味全龍由大師兄獻禮 - 自由體育",
       "summary": "中職》致敬陳鏞基 味全龍由大師兄獻禮 自由體育",
@@ -12654,12 +12654,12 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-e6a131f84c89",
       "date": "2026-08-29",
-      "time": "15:00",
+      "time": "07:00",
       "type": "NEWS",
-      "title": "中職》味全龍3上3下本季最大異動！葉君璋公布60人名單最後3人：全浩瑋、吳東霖、許子謙 - tw.sports.yahoo.com",
-      "summary": "中職》味全龍3上3下本季最大異動！葉君璋公布60人名單最後3人：全浩瑋、吳東霖、許子謙 tw.sports.yahoo.com",
+      "title": "中職》味全龍3上3下本季最大異動！葉君璋公布60人名單最後3人：全浩瑋、吳東霖、許子謙 - Yahoo運動",
+      "summary": "中職》味全龍3上3下本季最大異動！葉君璋公布60人名單最後3人：全浩瑋、吳東霖、許子謙 Yahoo運動",
       "url": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxPeHVFTmQwYlJoQjhza25OeEFDY2xLX2xSZWxtRHN5dFVuNTc4YVBHc05HdkJGSWg2eExoOFhPZWlzT0xSZHBXamo1Q2paR01oWjdZRGVKanZERzRReDdUcjNjeUttSGN4UndBdDNURlFna3hmRTZKRmNSUXdOZnFxSC11OVV4b1N0ZDl0b2tLNVA2b1ltRmwtdVN3OTdzZ3o3eEdIemZLd3FBMGpYSzRnbUtES2FYNnFwc2tsNlZmcEdmYk9uRU9BTlVNaXM5RDB5UmFDSDRvd1J6dWZIM0U0VlduNjdfcF94ZzJnSnpBdDJZTnpwRmltOGRYLUlVbWFocnpuVF96a3JCcEhPR2JoZnZ3ZmF1RGdGM0xMVjlxYXBDOEVkRjhoeFFZZ1ZPRWZCR1E3Y1loWUNCanVkMHA1VFkwSUxKR2k4UTZoSW5lYUIwRTViQ3hUWFZHSDE3NjdnZkJQOVpJSWNxbkh4YzJHTWZRcEVoVHh6NTZsQ2JfXzlNU0JVTENKd05Hb3BXQXhTTVRxbzExa0oyZ1dKeTFDc0hRX1dQNFBCVkZYbTNFNU00dmU4bUFaenJsS1NaUUF3TXg1dTRrMzExU3Nyd1BPZA?oc=5",
-      "source": "tw.sports.yahoo.com",
+      "source": "Yahoo運動",
       "tags": [
         "RSS",
         "新聞"
@@ -12668,7 +12668,7 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-27764f4fc464",
       "date": "2026-09-08",
-      "time": "15:00",
+      "time": "07:00",
       "type": "NEWS",
       "title": "中職》味全龍9局下爆氣反攻 把曾峻岳打退場 - 自由體育",
       "summary": "中職》味全龍9局下爆氣反攻 把曾峻岳打退場 自由體育",
@@ -12696,12 +12696,12 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-15df61086a53",
       "date": "2026-09-05",
-      "time": "15:00",
+      "time": "07:00",
       "type": "NEWS",
-      "title": "味全龍李展毅解鎖中職生涯一軍首度蹲捕 (圖) - tw.sports.yahoo.com",
-      "summary": "味全龍李展毅解鎖中職生涯一軍首度蹲捕 (圖) tw.sports.yahoo.com",
+      "title": "味全龍李展毅解鎖中職生涯一軍首度蹲捕 (圖) - Yahoo運動",
+      "summary": "味全龍李展毅解鎖中職生涯一軍首度蹲捕 (圖) Yahoo運動",
       "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPVGZyWVV1cTVJNlhyWmRjbEtyS0dRRUVsZ0dQVG9CTTRST1dkTXVreFFmY2x0Yi15N2Z6NkhPZlUwT2tHXzBneUVVNGdiUHI0cTd6eUlZWkh5SDBRMWd4VFF2VzZxVFA3QWtOalZEQS1fc1JiczVUNl93MEkwUUFKYjdWcnB4WjVYaVNVVDNRNGtQekxDeUZxM3g5Tmh0cmRWSVFfaHRibFhxb2M4MERndXBLTVRtb0ZRVFRVNkxwcU1MSzVRb1ZYakN3RUpPRDBiVlVfNUFVaFd2ZXZ1TXRiNVZET0NEMHlJTVJhbjNxU05yRExGVTFlc2EtQWM3Q1NsXzJhM2dPREZCRldmUHNvcUpGRy1ENDY5UGZxcXBSaFZaMmd5a3FSaDJXdC05ZU9JRWo0NGloMA?oc=5",
-      "source": "tw.sports.yahoo.com",
+      "source": "Yahoo運動",
       "tags": [
         "RSS",
         "新聞"
@@ -12738,12 +12738,12 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-c8dd2e1c6bae",
       "date": "2026-08-31",
-      "time": "15:00",
+      "time": "07:00",
       "type": "NEWS",
-      "title": "獵人迷暴動！味全龍聯名第二彈 幻影旅團、嵌合蟻攻佔天母 - tw.sports.yahoo.com",
-      "summary": "獵人迷暴動！味全龍聯名第二彈 幻影旅團、嵌合蟻攻佔天母 tw.sports.yahoo.com",
+      "title": "獵人迷暴動！味全龍聯名第二彈 幻影旅團、嵌合蟻攻佔天母 - Yahoo運動",
+      "summary": "獵人迷暴動！味全龍聯名第二彈 幻影旅團、嵌合蟻攻佔天母 Yahoo運動",
       "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxONUR1bS14c2JqblBDb0NCVU1iVXE1TGdTNGo5cjhBekxrTkttT0RKTDl2MmstMG1tWkxwbHJ4YjJsQmlIS1NKa3JiVDJGU0lJSFZYb01YbmJMVnVYWWhQRmxjT1BVd2xVM2phU096MkZyak5yRmloa2JiLUoxQ2xMM0lhRmZQbGF1OVdGazlrV3lISGo4MjZDck1Xc3dncUZZdEFVZ2JNOFl2anpCcUxQdGpsWmQ5X05aeG5LbmR6NEhuUmhuaUphMUwtQkJ2aFhOc18yZUdXN1dSUlp5WWhralpYZ2FVNGVKaWhDYWd5aU81VFZ1X0J4SkZKaVV3NVJiMW9NUFY5OFZGcWlHT2FoVmJDdzBQUzhTSDFfOGVQZVBfOG91cXFRRkRjWV9zTmdFMUJoc1AwdjV4cUVxTUtXcXdjVzZJcVpHWTE4NHJBamg5dE1PNENBNVF5OGVudi1ZNnV6a1lPRmZFRy1IY1dvcFJHTnBzTGo5NDZOSHcxMzA?oc=5",
-      "source": "tw.sports.yahoo.com",
+      "source": "Yahoo運動",
       "tags": [
         "RSS",
         "新聞"
@@ -12766,12 +12766,12 @@ window.WD_INTEL_DATA = {
     {
       "id": "e-cb2e516b7865",
       "date": "2026-08-12",
-      "time": "15:00",
+      "time": "07:00",
       "type": "NEWS",
-      "title": "中職》味全龍又演「9局逆襲」！張政禹安打扳平 郭天信延長賽致勝安是生涯700安 - tw.sports.yahoo.com",
-      "summary": "中職》味全龍又演「9局逆襲」！張政禹安打扳平 郭天信延長賽致勝安是生涯700安 tw.sports.yahoo.com",
+      "title": "中職》味全龍又演「9局逆襲」！張政禹安打扳平 郭天信延長賽致勝安是生涯700安 - Yahoo運動",
+      "summary": "中職》味全龍又演「9局逆襲」！張政禹安打扳平 郭天信延長賽致勝安是生涯700安 Yahoo運動",
       "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxOam0yOG0zS2ExcFlrWjJnT0paYU51dFJwenZiRkd6NHhQYUZPNlFHVmNpLV9NY3FSb3JJNTYtcmxMdTE3LVRZVzFkZFJyNUdwQUdmZG16RUxEMEV3NVFYMG1QSjY1a1FHWnpyUmphZExvTThUZVM2TVdDX0ZFUmZ5RzlUeDY0NUJTVUFUdFlpMHlhX1JDTFNWa2lXZ09POVczYnQ0M01hRUZyNzhVWjJhZVhodE9Tak5PVTlWcDVicE1zMmZkLW1fN3JjU3N4TXM5a3Y3MHo2amVTbVQxT21td3YxbUVWTVllUFR0LTQ0Vk0tczhGSGJldDF5M09CZFZva3lwbW5xZmlyWU5UcFM0U2JpbmowXzJVQTdvNXFQMVFFWWdjU3dYck9NTkp4cWxkMWZEYUNIUUg1VHZneWo4MGxZdV9rZ1FubGpoM2JuX2FnUmgwSFc3azJ0ZFowV2UxaTZmcWplVVl6aEhGRUVrbkVwRldjUjN2VlluZ3NVeE4xZkJySFA3NVRMeFBfY3pvYWZEamtyVDN4WUUzZ3d4U1VadDVEWXc?oc=5",
-      "source": "tw.sports.yahoo.com",
+      "source": "Yahoo運動",
       "tags": [
         "RSS",
         "新聞"
@@ -12856,6 +12856,832 @@ window.WD_INTEL_DATA = {
       "summary": "中職／與曹竣崵一次傳接球味全龍曹祐齊走出球速心魔| 棒球 | 運動 UDN",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1oVkx5Mmo5VE82NW5BT2FaVkNFMmNHVldTTzBiVnNJWVdWMUkzVF8wcktoVXBiNWZzcGFodFRTWnZJb0g2cHdfV3BXbncxWlFM?oc=5",
       "source": "UDN",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-a738c93226df",
+      "date": "2026-09-26",
+      "time": "12:12",
+      "type": "NEWS",
+      "title": "中職》曾家輝先發6局無失分！桃猿5比3味全 豪取5連勝下半季龍頭爭奪保競爭力 - Yahoo運動",
+      "summary": "中職》曾家輝先發6局無失分！桃猿5比3味全 豪取5連勝下半季龍頭爭奪保競爭力 Yahoo運動",
+      "url": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxQSWFYSU9TMnJEbnNJdnEyTVo0NUNoMDIwd042MnQ5SkxkaTlaMFAtZHduZll5eElCSFhYR0F0YnJRM2ZxNEtUTmljV3A0Q3dJWlRnMDg1RGFseVE3LWR0bDdoZjJqcS1hTHdMUGNBV1pDUGVHZFIxdEpoZ1NYTFdWb1E5Rzk4aWtER250OUJBUnp4S2xyT3NsQkFjUTlYdlBsYXU0aTctRGp0UUdBdUx3U3JnUnhJSUxmUGlLcTM5NmJKWUdzeWllUmtrR1ozcWpmTHRjZVE3R3RCOUVZVnNXejdtbVV5RWQ2UGJtcUFBQXByb3dQNkYwTHFWb0drNFYxbEVsS0VuNGlqN18wTVIzazBqYUVJYjFRUDRjMkFHV1RqRi1aWElkbVFTWWVMbFM3a0YyejlvWUdPaVYxNVhRR3NubmFFV0t2VkxoRmp0ZktELUJ5LVpjcmNESW1zTHVaNVZLbTFLaXU2c250TEFvSXhrVnR4SGl2aWtDVFl1bC1FUnhmQlVzMm5QYUY1Snd6MEpCYjZndVhyUzdtSUk2M1QtQ1J6bmQ2dzlKbkNXeVFlTzFZV3dsSnFhRFlnYjlhY19WQXNRY21VNzdna3JYU0p2ODVveXNtWHc?oc=5",
+      "source": "Yahoo運動",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-bc822c711d82",
+      "date": "2026-09-26",
+      "time": "14:57",
+      "type": "NEWS",
+      "title": "曾家輝飆6局無失分優質先發好投 樂天桃猿5連勝緊咬中信兄弟 | 太報 - LINE TODAY",
+      "summary": "曾家輝飆6局無失分優質先發好投 樂天桃猿5連勝緊咬中信兄弟 | 太報 LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YVjQ4aWlSQkRsWXFaVElnZDJpY2NnUHdfU2QwY2xFekE5NkZZem1CaXZQaWkzMW1Tam1hRDViZlN3VWhaZ25KMlRvYlEwcWt3c0FpOFJR?oc=5",
+      "source": "LINE TODAY",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-c557c24bab34",
+      "date": "2026-09-26",
+      "time": "08:50",
+      "type": "NEWS",
+      "title": "中職／9下3分再見味全！餅總直呼「不容易」 揭剩10天搶季後賽門票心境 - 三立新聞網SETN.com",
+      "summary": "中職／9下3分再見味全！餅總直呼「不容易」 揭剩10天搶季後賽門票心境 三立新聞網SETN.com",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBBOHpPMHRtS0lZZzhwRGxUSXNvWXdYVUpoVm9QZEh3ZmlZUjFhRW55V0V2c1FMejF3U1JudHFHZnM5RjJwX0czTdIBTEFVX3lxTE54c0JkSEIyMDM4S0J2QURlMFE3X2RuUWRxVGNqSTJvT0dtaFpZU2p0RXdmbDZiZDJQQjR3N2NJZGpOSDB6R2NMZXczYVI?oc=5",
+      "source": "三立新聞網SETN.com",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-7f9b268639b0",
+      "date": "2026-09-26",
+      "time": "12:38",
+      "type": "NEWS",
+      "title": "味全龍傳奇洋將大帝士應邀開球（1） (圖) - Yahoo運動",
+      "summary": "味全龍傳奇洋將大帝士應邀開球（1） (圖) Yahoo運動",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOMWJ0aGRla1pwOFNVYjEzVUh5MFFxLWJoTnllR2xzcjRMZHY4a1R0bGdpc2FDLV9aU21QWUpoWGNfV3RMQTBXYkZzMTdxb3pVS3l1SnNLU1Q3MXJIU0ZlV1pKaU5YY2tXcTNEbGpLWm5BWldsSUFvUTlmSGdBQllMVTVMeDNSOUF0dnJReVpkYXdpZl9kakxuWl9mUUZHaTNFYjNNT19menNRNWdtYmsxb2VaczdtQW4tTDhnX1liVkRUbERfcmE0NGM3TndHUkYxdmQtSUVCMXE4QkFXamJ2S2paMFZ3aEVjRHhOY1FJSmFZVXlBcXcwTTZzMlF5bm9aLUt1cEh4MVpYVDNsb2V6M3lKYWs?oc=5",
+      "source": "Yahoo運動",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-5136fbd8f6bf",
+      "date": "2026-09-25",
+      "time": "11:21",
+      "type": "NEWS",
+      "title": "蔣銲6局7K超好投白搭！味全9局遭絕境逆轉 林泓弦再見安助獅隊摘勝 - ETtoday運動雲",
+      "summary": "蔣銲6局7K超好投白搭！味全9局遭絕境逆轉 林泓弦再見安助獅隊摘勝 ETtoday運動雲",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBBeFYxSHg2V1NzTTMzOE9aWXVTbE1GU1RFdkVrYm5yZElLcEJpYUZsVy1BTmNKcEt2U2w1UFVvRU5EMFVxRHJ2QTY0YkE4eEw50gFPQVVfeXFMUFB0b2o2WDNVa2stUTdpc0FoS2k1WnVyUlpITFJEdEVXbXBKTDNVSDRNWFNreFItLVY4Tzdfb2FhUFNTb0RiTVhBX0I2dGVxcw?oc=5",
+      "source": "ETtoday運動雲",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-2bef57b84999",
+      "date": "2026-09-24",
+      "time": "14:22",
+      "type": "NEWS",
+      "title": "陳鏞基開轟、周彥農7局優質先發 統一獅4比2擊敗味全龍 - 芋傳媒 TaroNews",
+      "summary": "陳鏞基開轟、周彥農7局優質先發 統一獅4比2擊敗味全龍 芋傳媒 TaroNews",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CVHJxMzNmODVjSThocXlTRlRzZ3ZBbENJbmhYZXZOaFNMV0hqT3VzMFFkTE5Uc3doVVlpSkZtc2J3TTFnSjZGRDRHWWV4OGJG?oc=5",
+      "source": "芋傳媒 TaroNews",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-6d2f30e13c11",
+      "date": "2026-09-24",
+      "time": "21:30",
+      "type": "NEWS",
+      "title": "把基哥的話放心上 周彥農屠龍奪首勝 - 自由體育",
+      "summary": "把基哥的話放心上 周彥農屠龍奪首勝 自由體育",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1nZkJKZFNvZjY0cVdrZXpodlpoYnBYbkJ5Ul9INjhxT2ZxWHMtNmgtdjhmMTdYLUN0a1V4V3lMZGJKX242TmkxemlRRC04ajFEX3NvYklHMNIBXEFVX3lxTE5WOW9sbnFJWVFrMU9mZm1PUGJVUHdHLXdhUTd6cXB0bUFPRS1veGM1TDJ2Mk5DMWFyUFdxMV9yaVlzaWt1U2JJdUwycUtHSDBHQUo5cEN5OGpYR0pt?oc=5",
+      "source": "自由體育",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-14f191822938",
+      "date": "2026-09-26",
+      "time": "09:29",
+      "type": "NEWS",
+      "title": "味全龍站在有利位置 葉總鼓勵子弟兵：好好享受比賽 - Yahoo運動",
+      "summary": "味全龍站在有利位置 葉總鼓勵子弟兵：好好享受比賽 Yahoo運動",
+      "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxORzh1UFVmUmRuV3A2QVF3TW5OVF95RG5uc3pZSkRqblloX0VQd2p2S1NDT1MyY0Z3YkUwTkhsTFZUVmtqSlgyOFRLYzEtU1k5MzlCMUpaY3pKZ2tKUEVBWm1BRmNhZ2Y1ZDk4YVJkWkkxeTJVc1JYNWlOa3dWTUlmQVdfV0pQV01kQk5jU09mVUZ3bXBBNVU4YTNYQUFyRFVVcXRqVGZTTDlMY1ZoVXpSQWVlN2NNQ2t1bURndFdZMEZ6empqOUl2N3g5b3RMakNlRjBKZ3IzSmowYTAtNVN5VWZRM3FOTFlBZ1lsTTdMWnFEZi1iZU1ONFM0TzF2Nm1fTXdLZW1udFpHZGxmeDNaYXdCSkV3cENMVkdOTTk2T0plZzd3QVRQZEk3R3RfSy1CTllDV1dGSzFjaDdPc3pKb1p0ZWdMMmJPZ0lHRFhFN0t6V2NQdUhvODlua2psUl9xSnBtNWc3SQ?oc=5",
+      "source": "Yahoo運動",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-2b452a648b1d",
+      "date": "2026-09-25",
+      "time": "14:22",
+      "type": "NEWS",
+      "title": "劉基鴻全隊最火燙！聽到「台灣尚勇」響徹球場嗨喊：很爽 - ETtoday運動雲",
+      "summary": "劉基鴻全隊最火燙！聽到「台灣尚勇」響徹球場嗨喊：很爽 ETtoday運動雲",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE93bUEzdEIzeXRWNzJ3Y2Y4Y0xHelBpT2JUQ0NLZ19NUFprUWg4Y3EyalRUUk40M0toc2ZSbGZhYkdaQTlrSk9YYk8zZjl5M1E50gFPQVVfeXFMT2xLSzI4Z0VrQ1U4YlVwcjRzVW00NWVCNHUxZ0h4NWZoa1hrRzljdkR2Uk9NbUJ0SDVWVXZHem83YWVDWWNLQk1sZlM0TTlTaw?oc=5",
+      "source": "ETtoday運動雲",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-c270fe74506d",
+      "date": "2026-09-26",
+      "time": "12:40",
+      "type": "NEWS",
+      "title": "味全龍傳奇洋將大帝士應邀開球（3） (圖) - Yahoo運動",
+      "summary": "味全龍傳奇洋將大帝士應邀開球（3） (圖) Yahoo運動",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPeWw4WGNtTlBmaGxIM0JFX01SN2JoREIzZG1tNEsySXlDTmVZZEFKclFySVR0dzBmY2htZ2hZWmp0R254STRXSklTZC0zdzBsMHhNREtlaFRMUFBlMEdqLTEyWmFwd2FQSk5lNXRuQmh3cHY0Z2JMRV9COWVVQVBNSVNRdlFkUmdhTTRleHptV1hmTkNEQkE3c1VMTFdjRmpIXzBybkstN1VnRTJ6WTZHMDhlOU93UTZQWDRVYi1VTExxd0NVMU1BeHFZbWtHMENvWHUtQktaYi1QQXlUcjJxRWt0M2o3ZFlnNHRPTU5NbFo0bldQRnFTRzRCakp3NTlFTjNaOXJIMmRiYVk3THRndDlYdnk?oc=5",
+      "source": "Yahoo運動",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-5c7ad03c07e9",
+      "date": "2026-09-26",
+      "time": "12:39",
+      "type": "NEWS",
+      "title": "味全龍傳奇洋將大帝士應邀開球（2） (圖) - Yahoo運動",
+      "summary": "味全龍傳奇洋將大帝士應邀開球（2） (圖) Yahoo運動",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQdENOSFRlS0Y4SHFjeTg2bU9EUXFzOHRQeHhCV0dOcEJmbElqWTZ0dnVNRGV0d3pwSjBfREVsVnE0QVM0WHdkSlVSU3Y1YkRlbG15QTkzazlyUTlvV245YjZfakhscUZ1bUZwZXYtMVVhUVBEb3RsY0ZySXRHVFZVUnZQVUVtS1ZzS25HMUs5VHNMMUpScHJEYUVJdUxIbXVybnZfUFRKMWt0TzZmdnJrUjdWZ0hqUDlMRnEzQmFvN1REaTlqb1FyTHR5alBock9BeUVxc1VFaXVjU2ZCSW1UNjJZQ09Qdm9BX1BKTnJ2M0tVZ283ZnhmTTJZUDRQR3FZdVNvWmN2TUNHVDVMajBEaV9aMWM?oc=5",
+      "source": "Yahoo運動",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-b21395557727",
+      "date": "2026-09-26",
+      "time": "09:29",
+      "type": "NEWS",
+      "title": "味全龍站在有利位置 葉總鼓勵子弟兵：好好享受比賽 - Go Baseball 夠棒網",
+      "summary": "味全龍站在有利位置 葉總鼓勵子弟兵：好好享受比賽 Go Baseball 夠棒網",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qSUEwWkpzMHZsZHRjYmpmVWZsd2hJSEtKc2YyVzREbVVjbXpjelg5bUtrc3h0azRQRFp0VzZpOVVkbmJiZlhJMWdPZ1A2YXhHY050VGtVVHJ3T28?oc=5",
+      "source": "Go Baseball 夠棒網",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-b90a181ed998",
+      "date": "2026-09-23",
+      "time": "07:37",
+      "type": "NEWS",
+      "title": "讓心跳繼續搖滾！味全龍攜手天母商圈 9/26邀球迷挽袖捐血 - 中央社 CNA",
+      "summary": "讓心跳繼續搖滾！味全龍攜手天母商圈 9/26邀球迷挽袖捐血 中央社 CNA",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tZGliTDk0MTJzV1hlTWNwb21xVko4eFAxNDR4OWdjcnBqbzVBcENzcDBTQ0lXRjFnOGx1b28zbTQwX1daeGNTdnRNMVFJemZqck5MdE5R?oc=5",
+      "source": "中央社 CNA",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-146ea971b6d8",
+      "date": "2026-09-26",
+      "time": "12:17",
+      "type": "NEWS",
+      "title": "曾家輝6局無失分！樂天5比3味全豪取5連勝 持續緊追兄弟 - ETtoday運動雲",
+      "summary": "曾家輝6局無失分！樂天5比3味全豪取5連勝 持續緊追兄弟 ETtoday運動雲",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1mcjAxOVMtM1Nvakctd2s5bzB4dFM0UXc0M2FfVHVERGM5ZzVfNFZtdUtIWFYxSXhFMkRJUm10VnlfbFBDYURaaWlnLVZEV2VR0gFPQVVfeXFMT2JYdzBibG16RjcwWkNwdHhmQ0VzdmNZQXRfZ2cwU1J0QzVjcXNwNTRDbE9QbWx6eUVGbmxtMVVab0xFWUtYZElRd3hTejVkUQ?oc=5",
+      "source": "ETtoday運動雲",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-90820d7b3f9a",
+      "date": "2026-09-26",
+      "time": "11:07",
+      "type": "NEWS",
+      "title": "驚訝單季71盜紀錄還沒被打破 大帝士不排斥來台當教練 - Go Baseball 夠棒網",
+      "summary": "驚訝單季71盜紀錄還沒被打破 大帝士不排斥來台當教練 Go Baseball 夠棒網",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuTHd5S29HY09MZ1dFQnpvZGRfemtCSEU5T0FJMGpMZUVVY25GMEpCSUxEcVc2eUxaXzdFTzlvNVpEVTN4Y3N0c1J1eVVjQkdjS0MtWXF1UFZnWkU?oc=5",
+      "source": "Go Baseball 夠棒網",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-7da05bd231b8",
+      "date": "2026-09-26",
+      "time": "12:57",
+      "type": "NEWS",
+      "title": "中職天母龍猿戰 林鋅杰中繼登板 (圖) - Yahoo運動",
+      "summary": "中職天母龍猿戰 林鋅杰中繼登板 (圖) Yahoo運動",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQRnlKWjJTVGFrUFJDVGpCODA5QW15WnZTMENoakViSkhBVkNfRkFDMUJkNDVYWUVUSTNYUEFNX0RTTlVkS0xNc1FJOVg5LVNOSmc0aWYybnBIVmxKcm41Tkl5a2VaNmlsTXJWZDN3Snc0blNqbUZ6aVpITTBSdkMtNkRxVFVKcHZteFQ2b3BTcGJUV3UzUVV0a3dYakpOSElKd1BiZU1aZ2w2bVNac0l5UklEX0xrbXBSQVRtMExlRjhFZ2d4TG1ScUlsdVFUUktsN0Z1VTlGMGVMcW5TSXlBMGNGZ05GVGtXRmk2MTNxWlFac2ZOWDBIbWl5YkF6WEFGSkVWcWlxaFludWQwUjROV1djSQ?oc=5",
+      "source": "Yahoo運動",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-91c362336246",
+      "date": "2026-09-26",
+      "time": "12:46",
+      "type": "NEWS",
+      "title": "中職天母龍猿戰 張祐銘9局轟3分砲（3） (圖) - Yahoo運動",
+      "summary": "中職天母龍猿戰 張祐銘9局轟3分砲（3） (圖) Yahoo運動",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQRXhES0s3YWdjMGFhX3RVTk5UeG9qOEFGVVU2NHowejZFT0lzc1VYazRfMnEwRUFTLVZ3bTFZWmhob3ctbU4waEVnNGo2OTg4UEpjUUFuNmhSNXMwMWtLNE9DMEF4Z3F6b1doRVRYY2MwV3pKRlpUeFZqRWlFdFZWX21HdTlFRTdEanAwUldYMG1XS0ZxREgyTVdzVUJHb0l2Mk5oOFNlTTlTNGVHTWNSekhyc29mcXAwb0tqemY0cUFxN1k0dFZoVXNJQXlYYTh1bmUxa0dYTTVTdGlVQlJSSDFMdklOdG1TTEpOa3dsSEFBUTNnWHBsVXQ5eUg2TW5DTlhIV0ZZd0R5blluTmwtN3Fzc1JtbWFV?oc=5",
+      "source": "Yahoo運動",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-f98cecf4f99d",
+      "date": "2026-09-26",
+      "time": "12:42",
+      "type": "NEWS",
+      "title": "中職天母龍猿戰 張祐銘9局轟3分砲（1） (圖) - Yahoo運動",
+      "summary": "中職天母龍猿戰 張祐銘9局轟3分砲（1） (圖) Yahoo運動",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQdGprTXBobUs5eWpTamZxN0VLY3N4YUdNSTdXS3V5VVpvXzJ4UHNReUFEbHJISy12cFBkMUhKb0xkdDNFVTlKdzF5RVd3YzJDU01NMEl4cDBUME5teG50dmdENi1zM1hBS3Rjc2x3YVhocVh6MzU3MjNWN0VUa1RYMTlCY2p2Vmt0TFBEV1RYRTdNd1NCOHpqRVdGVjVhbVVyd0ZtQUhiLVNRb3FjMkNzN2pDdlpEU0M4aVFQcGFHZUpCMXdVR1gxblplMEZiR1lxT2ZnV0J2OV9BZ0gzM2k1NnhpSjhaX0FFZlhmS2Z3aFV5S3NaTmpyT054VjZGNlJxUWZtY1FGaDJzcjlNTEhpMzkyNkRLbm5V?oc=5",
+      "source": "Yahoo運動",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-f2611925c475",
+      "date": "2026-09-26",
+      "time": "12:35",
+      "type": "NEWS",
+      "title": "中職天母龍猿戰 梅賽鍶先發登板 (圖) - Yahoo運動",
+      "summary": "中職天母龍猿戰 梅賽鍶先發登板 (圖) Yahoo運動",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNR25UUGN3UEMxXzJTTGRYZ2VGc1V1UUF5Yk1oc21lU1FsV19PMTRRMkFJc1kwUXVJcFRhWTRTQU9QbFN6N1V4bkNqbWZpR00waS00M0RxajRRX2FuZndjMzJRM2NqUWdadjBrSlB3NGpqM3lWcDBfS2lSbU9tZ3hhMGZjX3UyU3JIUnBfbmF0QmhQYjM4a3pCZ3RmbVJLb2taejRyV0l6ZGZhZU9KZnZGdU1weHhBZ21mQlJiZEVnOVhsOWgzWVAxczM4c0s0RVpEOFhHMTFHYmh5c1pOWWJaWm54bGJCdUZ4dEJ4Um9mLXBveXdCb05iOEZJQS1KQmFZMXJiajRhS2c0ajdLTXNwbnJQcw?oc=5",
+      "source": "Yahoo運動",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-7f0cc664bc25",
+      "date": "2026-09-26",
+      "time": "12:44",
+      "type": "NEWS",
+      "title": "中職天母龍猿戰 張祐銘9局轟3分砲（2） (圖) - Yahoo運動",
+      "summary": "中職天母龍猿戰 張祐銘9局轟3分砲（2） (圖) Yahoo運動",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOSE9Ra0JteWU2R0ViYXFMVkhHYzBXZl9yd1Vrak9UbWNPREZxNHNyUElvdzhKSnhiMDlFOGtkWmlHZnV5SzZqZjRkdXhzWC1rR1BaY2E1OHpHNVJaTTNOcTBOaVdXelVXcWpvZUZ6MTB4SkVMckdtV0RFNU92Tnk1RkZ1V1psdXZhRWdleXhWWTZleWtBWnM0RDU5bHlaNlN5dThNdjNTTlJjR3JIdjdaZmJkYzBxaGhZeldLUm9MbzZNb0RZbTg2RlRnVFV4ZFBsdmgwT1ZCbW5FaVdEX1N5Sm9hYXJNVDdDMTV2THRfSUNncW9LY3BtNFhQZmd3ZEFzQ211RDg5TnVIUGxkRjRnRGR1MkctMEd6?oc=5",
+      "source": "Yahoo運動",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-b0781159142a",
+      "date": "2026-09-26",
+      "time": "12:55",
+      "type": "NEWS",
+      "title": "中職天母戰 桃猿搶勝（1） (圖) - Yahoo運動",
+      "summary": "中職天母戰 桃猿搶勝（1） (圖) Yahoo運動",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcWpkRFhqM0FjbTZNazZqSFA3MUN3MmFFR2JQZ2RfbjlfWmptWnA0dGpsMnRaNXV0cVM0SlZ2blY2ZXRfWjdSc0wxbF9BalVWSzB3OVI4SUEyR292a0VxT0d1djBUNnNENHZkWmZ0bUV0SWF1aU80Y0tDUGhsWnBucFFoeGp6X3lzZVBpeUhhYVlHcXBYSnd6M2V6WGZWTko0Z0hhNWN1ZWVFdUZVMGNhbWRkaXNQNUxyX3MzVmowZnZyUkdHbkl2X1Fpd3lYVE5mQktTRmxqZXItZw?oc=5",
+      "source": "Yahoo運動",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-1bcebd0130ee",
+      "date": "2026-09-26",
+      "time": "12:37",
+      "type": "NEWS",
+      "title": "中職天母龍猿戰 曾家輝先發登板 (圖) - Yahoo運動",
+      "summary": "中職天母龍猿戰 曾家輝先發登板 (圖) Yahoo運動",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNRWM1TlZSeFRsTnlzMVVpUUFGYUc3WlMyczZiZ2hGRzdTTTBQMTFoLU4xMC03TWFHak1OaXhnNzJFTHJubVFtLXA0XzVyVVpXZVljVTJsNUZYSndCM3RCSWVtV1VJby1XRVlRU0xMWTBqRWdXMHBKVlVYSXBCdXhBQ0pxMlpISVQ5emlrRThvSlFzTDJlM1FIQW5MR2FKWFZDRlZfQ2txa252MF9WTzVvSXgxOHdPT21uRzcwVTIteFVOV180Z1BaQUVrQWlSTEJjdV9tZTJzOXBRMTFZM3A2cnBOcUNUekk4UHBBbHhhcVZyeVltVnB2aTNFQVRWeEZ3RVdoODdoVnZ4Q1dLUzFocGpzWQ?oc=5",
+      "source": "Yahoo運動",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-262864986656",
+      "date": "2026-09-26",
+      "time": "13:08",
+      "type": "NEWS",
+      "title": "中職天母龍猿戰 林政華首局回本壘得分 (圖) - Yahoo運動",
+      "summary": "中職天母龍猿戰 林政華首局回本壘得分 (圖) Yahoo運動",
+      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNMWVpeURBVTk0NFpSZmsySVM1cEtvbjdCQTRJWVBiZlVNdDhBT2pPMDJnNG82NDVacm4zRE96dnRYeS1pNmRyUmdkQjJiUDBWaWdnOU5kdXNqYUh1N1RHMXU2dFJBWXQ3TlZ2bG1zNVdJSlFOclgxLWVudktpMHdMY1RYb0RsOWkxYnB2Q2VDM0EwLUoyclZvZHN0T3Z1Rllsbnp0YmZWcTZFVVhuajRkT0pLeEJka3BkYXFPeTdlYmVhY1hWQVF4VVRvZFFpSUxCNjNZZ051czNyTnc4MERjQWwtbW5UcWVWdGdDYUpXdTNkcEJCQkMyenF6WWs5VGtoSzZGeU1kSVlKNVY4SmN0OENKWW93NmVBUFFJWVA0V1pxeks5ZXdrWGdQcGs1dnY1Q190cGxOYw?oc=5",
+      "source": "Yahoo運動",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-c7b3a4d55d52",
+      "date": "2026-09-26",
+      "time": "12:58",
+      "type": "NEWS",
+      "title": "中職天母龍猿戰 廖健富代打上陣（1） (圖) - Yahoo運動",
+      "summary": "中職天母龍猿戰 廖健富代打上陣（1） (圖) Yahoo運動",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOTE9Jc0VUNEVQclRGWWp0LWJGQXlmZkgxUW9rV1N0V1RtU19uZEpkdHhxaVFRQWM5a3pxelh3djlsZ3pxNFZpOW9EN0VOYTR1WlpWLW1WYmZNMUFMaUx6MWRqWkJ1bWRvSXFJZ3l4WDk5akFKY2hNQ3ViMzJLalk5dUdCM0dYbjE2X3F4ajNaeWgtaVl4aW1TVlhpSWh6Z1hRR2xvRFZnUEJTR2hPWnpPMXBBek80TnRLamxoSW5iUk1JQldKWHp0Sm00Szg0OXo4Xzc0U0dnNU9SX3ljWFhhYmZEVUExcXhtNkNYalJvVkZKam94M2xkM082SW5pUEZBamY5NFdoak0yRndfWkFrNHhFZVhxUQ?oc=5",
+      "source": "Yahoo運動",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-f4ab3978f22c",
+      "date": "2026-09-26",
+      "time": "12:56",
+      "type": "NEWS",
+      "title": "中職天母戰 桃猿搶勝（2） (圖) - Yahoo運動",
+      "summary": "中職天母戰 桃猿搶勝（2） (圖) Yahoo運動",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMlVGRnlYN1NXMnAwTGtRdm5xTXFMV3ItbW5BNTNtUGk0Tldrb0M1RXJjV28xbE9tZ19HclQ4WWZOUlFfVXBFbXR1eDdBekRXb2ZRV3dtcjVJdmc4Zms5MjNXX1B5RkxXR2xWejNiWFNNVEdsYll2MFQtVUM1WEozVWF1VDM2bk1YUU1Xa3dvbHpxR3ZTcnVpOVVNWDJCVnotSDdUZUhvWnVzLVVNWVFyYkNzSFJfVGNlQzR3TE1wdkxNQ0hiUmlldkhGWEMxSmdLYVpJRXZLWDlrZw?oc=5",
+      "source": "Yahoo運動",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-aaf7c2170047",
+      "date": "2026-09-26",
+      "time": "13:07",
+      "type": "NEWS",
+      "title": "中職天母龍猿戰 梁家榮首局犧牲打助隊得分 (圖) - Yahoo運動",
+      "summary": "中職天母龍猿戰 梁家榮首局犧牲打助隊得分 (圖) Yahoo運動",
+      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOSXdxclJwcmNnbFJuQ0EwV0VjVVRuQXFIZzUzOVdVQ1p4d2cyd1Ywb1N3bHNOZi1vNWs1SFdhazNFWTVsaXdud3Ixck1QRmVWMDBwYlNtYm4tN19kankydzhTQnlOazJlSXozc0dib2VUVXhjR2ZYaTVHNWJPOTJ2TVZXNGRwSjluTEc0U1plY3NYZFFESTVyTElseUVTYnRzYjdWNjJtblpQR092MUc2ZEVpT3A2OTkwZkx6S1MzU3U0OXNPM1NadWczZU0waGJGcDRWbXJ2R2dqVGZjQUM1TGdPSGxIY3YzZEpfLXl1bzZWTlZmb2FIOEw5eEkybHR1RmxmSFVCNFlYWkxUM0x1YWJTN2N5ZzVqRXlsWjdvQmJqX2llaUhLNmhFc2JHQWRDV0tWNUNzbVd4OUNpQjh5Y0s0eGFzbUM5a0Y1TGhGOA?oc=5",
+      "source": "Yahoo運動",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-f29d8d6f9afb",
+      "date": "2026-09-23",
+      "time": "03:58",
+      "type": "NEWS",
+      "title": "中職／味全龍號召球迷熱血公益參與捐血活動贈門票| 棒球 | 運動 - UDN",
+      "summary": "中職／味全龍號召球迷熱血公益參與捐血活動贈門票| 棒球 | 運動 UDN",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1HN3lYVTFjRi1ldXVuVlJuVFRWYUs3Mnl2c0RPeXY0WmExU1hJbEtPWm9PaUpxRHdGdmFTc2g4Mno4MVR5dkExdHdEN0JYajlF?oc=5",
+      "source": "UDN",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-59fcdaab0923",
+      "date": "2026-09-26",
+      "time": "10:40",
+      "type": "NEWS",
+      "title": "09/25 樂天 VS 味全 賽前，味全龍傳奇OB大帝士，為今天的復古日開出好球 - Yahoo運動",
+      "summary": "09/25 樂天 VS 味全 賽前，味全龍傳奇OB大帝士，為今天的復古日開出好球 Yahoo運動",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOEpBTDMya3JwUHdST29rUWk2MVl4dW1sUWM0WHFtZnZoV0tZQ0Z6eTItSWM0R2tKeW9JdTZ6bmkzR3lzbXlvVkY3RlVHQk1hbUlXRWtvVEZuUS1RaGdLLTdwQW1lZGU0blNQbFNEX25BUklBZS1YR1VJZk85WWttM0VKSXh0bktfZGxFdmJKbVpTcHllLThqMC1uSQ?oc=5",
+      "source": "Yahoo運動",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-af4a52586283",
+      "date": "2026-09-26",
+      "time": "10:20",
+      "type": "NEWS",
+      "title": "聽到大帝士兼差律師嚇一跳 葉總忘不了「正直」性格 - Go Baseball 夠棒網",
+      "summary": "聽到大帝士兼差律師嚇一跳 葉總忘不了「正直」性格 Go Baseball 夠棒網",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LcjNsREhRQW9ZbGhfUXhNclliS2tyYi0zN2dkTkRDbEk3UlQtTlVwc095N0RHcTdxU3NIWHJpcWdQSVZBRDJpZElRTzRmZF9pUzdpS1Q1RVBwNEE?oc=5",
+      "source": "Go Baseball 夠棒網",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-1f0d5b050ee2",
+      "date": "2026-09-26",
+      "time": "08:55",
+      "type": "NEWS",
+      "title": "中職／9下3分再見味全！餅總直呼「不容易」 揭剩10天搶季後賽門票心境 - Yahoo運動",
+      "summary": "中職／9下3分再見味全！餅總直呼「不容易」 揭剩10天搶季後賽門票心境 Yahoo運動",
+      "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxQaVQ4MU5UUktwTFREUnFwM21NV181cjlRbVZST2lyYnc4YkFkQ0xFczBXWjR3bS00VE9LY0ZMaUg3S1ljeHNmWTlYVmxIN1VxWWNSNmU4YjdMbTNKeWNyNUpxem16c0RqUmhtZlRReEFQU0U5ZW9EM2lnaVJ5TWNfSmk5Ymg2anRaQS1CbHE3eXBoVlR3MExvbHdQeDZPa285Q2VCR19FcXg5YXlLTXNBODVWSVNnVWpXZ1hMOW45a3FWRXNCaTNJX1o3a3VXelE3LWNOaFlKVlk4aVZuYld3VS1faG5aZWpWYVlGaXJJR3V0Wm1vZXh3QVhRSlY0dVM2bW1TeGZWWUExaG1kN2s1XzdBckprVFpqa3FwbjBnV1gwamVCelhIeDNBZHgzY2RnOXFQQ1FadXVBS3luZFZNNHN0NF9VOXNiUVhMMEw1dm5kaWhOekVwcHE5bHJVTHRpRnFSd2pLRnVueTFXdDdjak9lM2ZrVDRVLThuZVRFTGMzM2JLZTBlQzdjMDdkNkg0N1Vjb2xaZG1MUjlmNF9J?oc=5",
+      "source": "Yahoo運動",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-553aa89b20ea",
+      "date": "2026-09-26",
+      "time": "10:25",
+      "type": "NEWS",
+      "title": "中職》蔣銲可望改寫中職年度最低防禦率紀錄 蕭任汶：早就應該要打破了 - 自由體育",
+      "summary": "中職》蔣銲可望改寫中職年度最低防禦率紀錄 蕭任汶：早就應該要打破了 自由體育",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1bkdIbDNnLWFBWWwtQ1ZGWmZkbmFEczY2Q0o1RDlfcW5ZcVVMc2xzUS1Gb1QzVV9PTlk0VExDMDJMNXlVQ2xxM2UxRGhSSzVPRWx5OE41Qm5QUmQ4Q2NvYdIBZkFVX3lxTE4tX09POWMxRHdaaGxCUVI1M1l4aWlKMVVnR3dFelBlSHExTjBIcFFjT3NiRmVfaDBUdTFiaTl0bExTOG9IUTVKeVY0WTRoVEc1S1EtZHZubWtOUlJnX3FtYkJ1VVNHdw?oc=5",
+      "source": "自由體育",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-20ffe23b03cb",
+      "date": "2026-09-26",
+      "time": "12:54",
+      "type": "NEWS",
+      "title": "中職天母龍猿戰 陳冠宇救援成功（2） (圖) - Yahoo運動",
+      "summary": "中職天母龍猿戰 陳冠宇救援成功（2） (圖) Yahoo運動",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOTGJBeWJENzZWdlJnMC1TU0haN3lhNC1LTk00TWsxUUF0YkpYTno2QVNMZGJFWXd5TXBQU05EZF84YVJDNENjX0s5NmZuT3pubTZTb1lkZXZ4dWVMOTd2S3hYNWc4dXlHT01vSHd6cHYxQ0prU1VIMkpvT2swYUVWNlU2U3QzMjNyLUdOTnVJa2VEZGJ5dWhFYkxUSTNPVFVUa2Nidk51d0xtNi1UdFB6N0VuX2d5QThsamRvM0NzeHV1LU9ySXh4Tkd4ZWlEVHgtRllpUlNVNnBfZ0J6Uzg3WXEtWlhkeFBvclh0cTNETGxMTGlXSlc0SmdGUUxoMEx3Z3hNd2hDeHNCVmdWN1c1SU84aFVGQQ?oc=5",
+      "source": "Yahoo運動",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-1b2b8a96c55a",
+      "date": "2026-09-26",
+      "time": "13:26",
+      "type": "NEWS",
+      "title": "中信兄弟》陳俊秀有發揮老將價值！ 平野惠一賽後大讚他「絕境」敲安 | TSNA - LINE TODAY",
+      "summary": "中信兄弟》陳俊秀有發揮老將價值！ 平野惠一賽後大讚他「絕境」敲安 | TSNA LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxYzBfOThBT1o1RGJKMDJyMVZYdHMza2UyODNaZlp3T3JGdHprXzN6bjZYVFJjTTQ1cDR5dlBwakNtSDUyTlBjSTNqSmJ6ZF9hRmQ5eE53?oc=5",
+      "source": "LINE TODAY",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-9e26b6803015",
+      "date": "2026-09-12",
+      "time": "07:00",
+      "type": "NEWS",
+      "title": "中職／味全下半季多項打擊數據墊底 葉總揭龍將「完成目標」後真實狀態 - 三立新聞網SETN.com",
+      "summary": "中職／味全下半季多項打擊數據墊底 葉總揭龍將「完成目標」後真實狀態 三立新聞網SETN.com",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE82REQtZEFaUGRZaDQ5Q290VXdjdHFqaUk1SC1aaVJGM0FIZThCbDVFaXZCMkt2cXJ3ekxQNmctSmFNckVMeTJEatIBTEFVX3lxTE5UbHpYemduQTNEaUtFaGg5aUExbDZ5SWo5bGNrLXVxOXF5cUlxYkRQQkpJTmt4ckx2MEx3VXBOYnF4ZjVIS2l4T3dxcUg?oc=5",
+      "source": "三立新聞網SETN.com",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-0c7875f61603",
+      "date": "2026-09-26",
+      "time": "13:03",
+      "type": "NEWS",
+      "title": "想要打季後賽 曾家輝：有多少體力都拿出來 - Go Baseball 夠棒網",
+      "summary": "想要打季後賽 曾家輝：有多少體力都拿出來 Go Baseball 夠棒網",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kMTFFX0hDQS0tOFRhQ0I4dVV6U1VZa1RCUnI5dlNHaHVWVXVTckYyR3dZZWZIc3Z1U1h6alU1eWJxeTJMa0NJLVVsQ2RXMHlJU2F1cFkyNGxCa1k?oc=5",
+      "source": "Go Baseball 夠棒網",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-382194f91c16",
+      "date": "2026-09-26",
+      "time": "12:47",
+      "type": "NEWS",
+      "title": "樂天5連勝緊追中信 曾總：不要帶著懊悔結束球季 - Go Baseball 夠棒網",
+      "summary": "樂天5連勝緊追中信 曾總：不要帶著懊悔結束球季 Go Baseball 夠棒網",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZQkZKNU9GRWxzOVFfNC1VeXVlbDNSZ0lvcVJaakNJcnljOGw2ZzJob2JmVWhneWVibVdBcWFlUDRYYlRFWmQ1Y2lBaXY0WWJBVGIyM2otVXg2QjQ?oc=5",
+      "source": "Go Baseball 夠棒網",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-786120d1d027",
+      "date": "2026-09-26",
+      "time": "12:13",
+      "type": "NEWS",
+      "title": "中職》曾家輝6局無失分助桃猿5連勝 下半季叩關30勝緊咬中信兄弟 - Yahoo運動",
+      "summary": "中職》曾家輝6局無失分助桃猿5連勝 下半季叩關30勝緊咬中信兄弟 Yahoo運動",
+      "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxQVXhJcUFUeW10QzdtR2lZODRLR0dmU2x5RXhYN3BHTDZ2OVdmMHZhMXBiT0lZWmRxSEZ1eVJFLV80YTQ0NVJRQjgzTW9iZk9HSGZXSnA5cnRndHUtaEdqMk0tSlRQeWx0UnBKSmdLR1dSWFQyTXBHYzZzdWVDMXBMTHpFOEhjYmc3S3JWTTZrM2huT1lhODJpNTR3dTY2eGJ5cGFwek5OZUJ3dnMxMEl5Zl95VEk2dnB0My04NWtwTFE0WnpRLXQ0Mk9jY3Z2TEExT2lvNTBqUjlSd2UxMEFxNzQwQUhWRTc5R2poWTVKbm1aSUdfQXlWaWVqOFlqT3BwSXVMckRkLVB3M01Bd3g5QV9XN1o2R05LYmx3TXJjTHFMQnNGWndwcGtCYVdaZ01mcGpMenRyY2syUEVLMmlJT2pKYy15cDY0Ry0yRUNiUGtaWFMyZUJsejZmNG01cmVrSnUzUDNrRGtxOTZ5S0FWWFhkYjU5NnVxMUtJY2ktZzdKNmNUakE4ZlNPM0RiQ1V5MlBkT1BKS3FBVmNZ?oc=5",
+      "source": "Yahoo運動",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-8f41e914867e",
+      "date": "2026-09-26",
+      "time": "15:24",
+      "type": "NEWS",
+      "title": "中職下半季戰況膠著！兄弟逆轉勝保龍頭 富邦全年戰績遭統一拉開 - NOWnews今日新聞",
+      "summary": "中職下半季戰況膠著！兄弟逆轉勝保龍頭 富邦全年戰績遭統一拉開 NOWnews今日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1qbXFCeVJSU21FTjBpUm54a0FVanpDZmwwODJaT3RSaEZBTEZoRzV0NG5jMXo3N0twZmoyOEMzYnItZFVVbVp6Z0RpNzXSAVJBVV95cUxQZ3ZMbEkzM3JTQmZ4YnRIazNGckw1OHVMMGVIZmF3YVp1U0p6TVdHYUt1RHhPNm9CX002WDUydWZKZXJreHYtY3lTalZEcmQxNURR?oc=5",
+      "source": "NOWnews今日新聞",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-9d12b72614c2",
+      "date": "2026-09-26",
+      "time": "13:22",
+      "type": "NEWS",
+      "title": "中職》曾家輝6局無失分好投 樂天桃猿收5連勝、緊咬中信兄弟 - 自由體育",
+      "summary": "中職》曾家輝6局無失分好投 樂天桃猿收5連勝、緊咬中信兄弟 自由體育",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFZGJaWjE4cnQ3bEJkVHhqeTh6dG42TzZDOVd4STFoWmFNUUFzblBDVzlkeUpNaXV6S1QwUnVEbWF1eWdDSWJLYXpYeHB5WW9fVkRfMERKUk9RaVNVS1VaSNIBZkFVX3lxTE5hdUpFOGg3cHNYa0cyUmtmNEVvQ20ybHc0b1JGdjBjSXBkN2RkYy1oMmpyODlpQjZZc19pdHFTdVRQam9rdDJDRGhnRGN2bDRqX05obkZ6NG44TnFOaXFZVEpKVHA1UQ?oc=5",
+      "source": "自由體育",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-fb79bab5baff",
+      "date": "2026-09-26",
+      "time": "07:18",
+      "type": "NEWS",
+      "title": "富邦悍將》蔡袁華辰首度上一軍！ 葉子霆下二軍調整 | TSNA - LINE TODAY",
+      "summary": "富邦悍將》蔡袁華辰首度上一軍！ 葉子霆下二軍調整 | TSNA LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53eXhWV1pyc3BQSDNmVVhkR1NNS05rRFdRcGJIc2dqY0JDMlFtcGZ2amplNmJPZ1o4S3VjM2VRa0FfUjlJVGtVWjBsUl9MQUlTUERUNl93?oc=5",
+      "source": "LINE TODAY",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-1c8d068ac5a8",
+      "date": "2026-09-26",
+      "time": "13:43",
+      "type": "NEWS",
+      "title": "中信兄弟》菲力士束衣可能造成富邦悍將困擾！ 平野惠一賽後跟對方道歉 | TSNA - LINE TODAY",
+      "summary": "中信兄弟》菲力士束衣可能造成富邦悍將困擾！ 平野惠一賽後跟對方道歉 | TSNA LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84VGlRTklaVDB1cTRmam85ZC1PRGRPdWQ5cmF0REtuU3FUa1k2MElJU3k0SWhrVnFqU2dOZ1N4Zm5JaGozdHFkd1VVcFZINGgtT1lWckpn?oc=5",
+      "source": "LINE TODAY",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-55a612ce87bc",
+      "date": "2026-09-26",
+      "time": "14:32",
+      "type": "NEWS",
+      "title": "曾家輝飆6局無失分優質先發好投 樂天桃猿5連勝緊咬中信兄弟| 棒球 - 太報 TaiSounds",
+      "summary": "曾家輝飆6局無失分優質先發好投 樂天桃猿5連勝緊咬中信兄弟| 棒球 太報 TaiSounds",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03VDZIUUNxOTBSdTRGek5xSjVXVldZOF9saF9RWHlaSk1ZdXc2VXNza2V2OTh0MXp5YkY1RlBURHBUbGRYMm1lMUxXX3BjS2FnWWZCVUQtS2hlQW54dHc?oc=5",
+      "source": "太報 TaiSounds",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-cf4ab14e1944",
+      "date": "2026-09-24",
+      "time": "04:45",
+      "type": "NEWS",
+      "title": "吃洋芋片泳渡日月潭 味全龍啦啦隊小映吃得超涮嘴 - Yahoo新聞",
+      "summary": "吃洋芋片泳渡日月潭 味全龍啦啦隊小映吃得超涮嘴 Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPQVBLeWpfSDJDRWZ4ZWxYemZNcFhKMXFsSVE4VDN1XzJBOWsxNGJJRzJHY0VSMXN6UElRbXFBOVJxbVl5QTg0d0NaY3JOZFhJQXhsSDFvY09zaFRBOHhvNWdJNFlVZnN4cVVaNm1RNi1MNTRubno3MGFFTG1Bc0llNlBTNXE5N1lzYlRGWkpXS296c0o2MFFlXzlqSnVKNEs2S0h6dnE4MHgybjRfclZ4SllqNXpGRzV4dDZRdXFsMU0teHhGVjJrN2pMNVllU2dEQnlNaW1zNEZQVWpYOUhnUUMtQXpvZE53ZmFBYU1mdzY4VGl4VWNaQnJOOWQ3aEZVU2dqX1RuUUMtZkpwWjdZSDhTYTlMaDMxVXRMdVZXVmxiTlVOblNsYXhpeTFndUZ3XzlDY3VCUWJ2Wm9fQ2haLThMYkxfSXBqTjFRcVczMkRNck1jdUZHYlVXWUc?oc=5",
+      "source": "Yahoo新聞",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-447e1420a7f9",
+      "date": "2026-09-09",
+      "time": "07:00",
+      "type": "NEWS",
+      "title": "吉力吉撈推人遭禁賽 味全龍道歉了：將配合聯盟裁決 - ETtoday運動雲",
+      "summary": "吉力吉撈推人遭禁賽 味全龍道歉了：將配合聯盟裁決 ETtoday運動雲",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9WRXNqb2VvTk1UbGM1Q1g4NWFDN0lYeXkzYWlTaGY4Vnltd3VRc1pqX3kxTHh1dlZjQ1FJUS01SDhBUVpXWDhUWTM4eFMyMmVn0gFPQVVfeXFMTnIwU3NXZzRHbTc0WDY5eFRaTmV0UUxYeTNDUm5sWmlsTlotb1JIejZNQjFQRHU5ckRwdWVoWUVQZld6RjFHSmd2U2VhelFzbw?oc=5",
+      "source": "ETtoday運動雲",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-22975c90f65b",
+      "date": "2026-09-26",
+      "time": "13:43",
+      "type": "NEWS",
+      "title": "中信兄弟》上壘動作是要把自己打醒！ 陳俊秀鼓勵學弟：他們打不好很自責| TSNA - LINE TODAY",
+      "summary": "中信兄弟》上壘動作是要把自己打醒！ 陳俊秀鼓勵學弟：他們打不好很自責| TSNA LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE45TTdhR2hIRTJFRkNRWV9ucVFJRWhIOFp4QUdMaVBXbm0yWHd3SEx0TUppLWdHcEdFYkwyRUN0Sno0MFBMN1BkVnJibTdvb1VkMUgwcHh3?oc=5",
+      "source": "LINE TODAY",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-c19385826ca1",
+      "date": "2026-09-24",
+      "time": "10:29",
+      "type": "NEWS",
+      "title": "味全龍》展現板凳深度的一年葉君璋談建隊計畫包括輸出徐若熙- 棒球 - tsna.com",
+      "summary": "味全龍》展現板凳深度的一年葉君璋談建隊計畫包括輸出徐若熙- 棒球 tsna.com",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9uMVlTTEp5Y2lnOWh1NWxyZDNJckt3UmVpQl9fZTZweE5QaEF0ZGlnNFBrUGZjWHhfS1pfeU9EVDhJYnpyRGc?oc=5",
+      "source": "tsna.com",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-2006b092820f",
+      "date": "2026-09-25",
+      "time": "12:57",
+      "type": "NEWS",
+      "title": "味全龍領先大半場被林泓弦敲再見安！林凱威8次砸鍋高居聯盟之冠| 棒球 - 太報 TaiSounds",
+      "summary": "味全龍領先大半場被林泓弦敲再見安！林凱威8次砸鍋高居聯盟之冠| 棒球 太報 TaiSounds",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03NmV1WkROM2drckdOcHhFYWIyS1FUSmJsa1haajNDaldUb0Jhb3dXcEtIYWt1eUxsNlU0N296dGVVRkRKVGNscng3eWNCb3VSVlVnU2hyeGhmdlRrQWc?oc=5",
+      "source": "太報 TaiSounds",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-067b33ad45bb",
+      "date": "2026-09-02",
+      "time": "07:00",
+      "type": "NEWS",
+      "title": "中職》《宇宙啦啦隊》9月降臨味全龍主場！7場應援掀起宇宙能量風暴全新女團《W!nky》8日熱唱開場 - Yahoo運動",
+      "summary": "中職》《宇宙啦啦隊》9月降臨味全龍主場！7場應援掀起宇宙能量風暴全新女團《W!nky》8日熱唱開場 Yahoo運動",
+      "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxOdjkxTEUyNjVJZDdBRVBpY2VYSDl6VmpJNVJ3Ym84dnBkZ210ZWU1RWlqS1dyZVpfd0xiTEFVZE9UblB0ZFYxd0czd1FfdlhBT3QtVzh4OWs3R0tYLV9mZ2FUMUdfbHNmaGlnNkJtd2Q0b1N3N2RicmZ4bldvc19hQnJVZHRFejIyRUROWkpwSlp0V2p1b1F2RnFoeWFCTVpxVXZ1N2dFUmxGdWRFRG1wRDUzenRIbW42WGFZLWtvalFmX2dIYjk1V1ZsYVVYNzc5R3pfR1ZORW81M05KbGhxNDZhV3FsSXdyQ1c0RzBfb2pkYUVfQkgzcXY1Y0NZMEtPOGgza3Rjd3lnTzlsQVpRZzI2YVlCREhfNVZCMU1uR21OZTl1MlZ3Q2tYMUxIbmN1TloyeHRZZWE3QU4wb0ktT0JIRnJybkM0TWp0NUhxVlZoRWpJem96TTVWVDk3ZXNQMDhzZHdFemNHaU5rS2R1YmtyWmIzeXpKOWh6bTFGVzJ4bzNDcUM5ZEZScEU3MjBIMEZOQWdyWXczWU12bG1paERPd3h0UWl2V1NDYzZYZHBXeEwxRmNObGl4cUdmRFV0Nl9jVUQ3RFdsczFo?oc=5",
+      "source": "Yahoo運動",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-48b3bb1a8b12",
+      "date": "2026-09-26",
+      "time": "13:23",
+      "type": "NEWS",
+      "title": "中職／陳俊秀關鍵超前安！個人單場3打點 兄弟斷連敗擊退悍將續當龍頭 | 三立新聞網 - LINE TODAY",
+      "summary": "中職／陳俊秀關鍵超前安！個人單場3打點 兄弟斷連敗擊退悍將續當龍頭 | 三立新聞網 LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90MHFsb2gtck5yS3FzS29EYWZ3eGJ2bVlxZV9TZHlKR05yNkQ3NWQ0Y0RuUFFLeXp4NFVmZG9HNkI1QTh6Um5WbXR3V19nMUh0b29wd2l3?oc=5",
+      "source": "LINE TODAY",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-dbe033ed2790",
+      "date": "2026-09-25",
+      "time": "11:24",
+      "type": "NEWS",
+      "title": "中職》林凱威九下救援失敗 林泓弦再見安打率統一獅氣走味全 - Yahoo運動",
+      "summary": "中職》林凱威九下救援失敗 林泓弦再見安打率統一獅氣走味全 Yahoo運動",
+      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxPWDJVUllVWjg3R2dmbERIeUI5UGZUQUR1cVVaNnNSYi1KOHZqOXdab0k1dG51WWk2ZkhMODRvcDZxUlJpSXFjcFBDX3NyWXRYUjVGb3ZWb3hZcWxQY3ROcXlzbmxnVW1YMEtGNGdRRzFSeWZhRWl1SDZrOGxYWmhRT2dhOWpCTVVBZnl1M0JiQnFRQ1QtbUtVX01jMTBVT0l6c1N1RU1DendTdmk2ZTV5OV8td0o3SmY1VUo5UHIyN0J5T0ZHZEp2SFZrSkVHaDdZNlFvWnQ0YkVFelF0aWRJS2wxc2czcmNLVnpVY29lckZhcG1UMEFmZno1LWR0Q3p1UVdxbFRyUEpsZzRjZlhoWXM3SXJfZzZLQjJUTGQ2djlVdS0yMnN0T1JwRHRCUGEwZmc4ZmJGQVExRmdsT2trODFPcUpsXzJCaXZ1NDcteWtueHhSSkFvTWhmY2Y4QU1hLUtwcUl4TkJjWXpOdXBBX0M4VkJRczdNSFpZcjV4SVZTeU9pa2IzLXRBREs?oc=5",
+      "source": "Yahoo運動",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-69a164fa44e7",
+      "date": "2026-08-29",
+      "time": "07:00",
+      "type": "NEWS",
+      "title": "味全龍近6戰吞5敗大洗牌！本季最大「3上3下」 葉君璋曝考量 - ETtoday運動雲",
+      "summary": "味全龍近6戰吞5敗大洗牌！本季最大「3上3下」 葉君璋曝考量 ETtoday運動雲",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ZOXRBbGM5aUJjczVXRGpiUGRhcHllcW1aVzhoZVBMTngwRWQ1SjFwSUs3M2kzaHd2Ujh4aUQ3ODlZVEZmZ2NxZGJWSWZCUllH?oc=5",
+      "source": "ETtoday運動雲",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-a2a729ccebda",
+      "date": "2026-09-09",
+      "time": "07:00",
+      "type": "NEWS",
+      "title": "中職／吉力吉撈鞏冠推擠爆衝突遭懲處！味全龍發聲了 - 東森新聞",
+      "summary": "中職／吉力吉撈鞏冠推擠爆衝突遭懲處！味全龍發聲了 東森新聞",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4LTEzRGVJZldGMVdMZ3JGRnJSTlVVUmdMUGt5YzV2UXpabWlWdm80MjU1aHpuUTIxaHZ4TmNwNk5XTDlmZVhIMnRfYzBjYWV3Y0NZ?oc=5",
+      "source": "東森新聞",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-82333c0638fc",
+      "date": "2026-09-14",
+      "time": "07:00",
+      "type": "NEWS",
+      "title": "中職／復古日9/26天母回歸！味全龍業餘經典戰袍重現 - 東森新聞",
+      "summary": "中職／復古日9/26天母回歸！味全龍業餘經典戰袍重現 東森新聞",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE45eUUwSkZQYy1sREpzVXB1dFN3SkM1TVNkSTJUX1RSSTBVc2hNZGRXbzVqSnRJWGhXYnZQNDIyWHNkWWNoVmQ1X3JyNzJCWlhEN21v?oc=5",
+      "source": "東森新聞",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-510f82f87996",
+      "date": "2026-08-25",
+      "time": "07:00",
+      "type": "NEWS",
+      "title": "職棒球星親授實戰技巧 味全龍夏令營小龍將組圓滿結業 - Yahoo運動",
+      "summary": "職棒球星親授實戰技巧 味全龍夏令營小龍將組圓滿結業 Yahoo運動",
+      "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxNWDI0bVhuMmlYN1p1S091QnVkMzh2WUVTdFNOTTdRRE81Y0E1bUkwOU5qMDBySnY4WFI4eGNHckJUV1F2amlROTRhRDVtQ29FUGJlX09xQXlfV0d4MkhLTjRlSEgzZmM3RmRjU0N1VnBuZ3BkT2pBajJnNGkzem5OTE9zWU9NQU5zOXJGSFUtMFhWRDAySVktUzZtT0h3UlhnR3lxcjZpV19vRlFqWVpybXBiUDJqNDM5dkFJNlNBTERTaFZwcXFqU2ZVLUtIRHk3YjZram82Y3ZpUTMzN2Jta1BYN3I3TWZOeWxJNmQxcC1fTWJIQjZoNDBmMXFqX2owVG5EUXVVbWRQZzQxZURjbXk5UV9idElyYXFudDBpSloyZmwyRkZZY29vbmxpeFQ5UHd5NEZNRG1FMTQydl9qOXp0NnI1cjcwZjc3ZmpEUEIyUkgta2t5MjZwOXoxNC1Wcm0wWTkwenktUjlUUmVPZnFxam1XTGZxOUUxejFB?oc=5",
+      "source": "Yahoo運動",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-fe82876b8e1c",
+      "date": "2026-08-30",
+      "time": "07:00",
+      "type": "NEWS",
+      "title": "味全龍》蔣銲明天就是BabyFace！ 賽後高喊「上帝保佑」 - Yahoo運動",
+      "summary": "味全龍》蔣銲明天就是BabyFace！ 賽後高喊「上帝保佑」 Yahoo運動",
+      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQRmRJTUNDbS1PTWxOQ1VCQVZfVnhzYzd1LVo3N1FpVU13TTRrOVJXY25VdzRXMkQ2bUZtQkxlZFIxRFZnQzJLak5jUThHNUNmQTJCYjVPdmlZNU9HOTg4OUlDdW8tbFhWOHZmMTRHQmxTbU9LSVFrYWVwLVBNTnZzUUhkSXQwY0daRGRFQ2tJSUp1UU85NnFpRWFhXzhqaWVqYk5ubnBWNGJ3RU93ckE3bENsR0FCUmJ2RnJ5Ui1wX1NpR2hoQVNyclhONVU2cEtmcWVQVEY5UjItdnlCdnB1dmlPNmRnUGttWjNyVjJpVHlLQzZTMDM0MFVUWFJHUXpqaWZucmlVRlBmSFY0aTRkY0lNUUdEOGNIWVlOaXg5Wm1VMk12ckRhRWZmb2xMZXFBNERkTmhGYw?oc=5",
+      "source": "Yahoo運動",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-cb03f9b6bbc6",
+      "date": "2026-08-28",
+      "time": "07:00",
+      "type": "NEWS",
+      "title": "中職》從「生日在天母看棒球」出發！味全龍啟動「龍躍列車」 簡倍祥：幫行動不便朋友跨一小步 - Yahoo運動",
+      "summary": "中職》從「生日在天母看棒球」出發！味全龍啟動「龍躍列車」 簡倍祥：幫行動不便朋友跨一小步 Yahoo運動",
+      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPaXcta2xmS2NQQmtHY1V1Rjk1UzVKQlhxN2tOWjVRWl9vb2MwUVAzdmZtUjZISTYwODFwOHdMc0N0bjRUaFZlaV9rWmdxdjNSZFkydE5VRGlMX1F1T2l2dmlLOVhuV2o3bjhYa3M2TnpCSTNaZ3A4Wng4dUpHUElhQmliLV9lZHZ2ODZxbVNuZ2ZlOGZBM2ZrbmZwZkZTc3lKVlBiSl9peFRJay0taDJGUGZKbHRBNHpYOE45SUJrRnhSZG5vdk9zOWo5amZFZnB0V1VMNWw5Z3MtdDdTNnA5QUJJWTVIMGtzVm9ZQVlDWHpjR3p4U0djbFBuLTBzREhKYUVkdEpqZllDMHQ2QXVNOWZQR2FXdE5qaHhqWXp3a0p1Z3VCZlA0QktZYlNJSll4eV9DbHl2NmhyZw?oc=5",
+      "source": "Yahoo運動",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-a49c80b88de9",
+      "date": "2026-08-25",
+      "time": "07:00",
+      "type": "NEWS",
+      "title": "夏天最美好的記憶！味全龍夏令營全梯次落幕 多元棒球課程體驗收穫滿滿 - Yahoo運動",
+      "summary": "夏天最美好的記憶！味全龍夏令營全梯次落幕 多元棒球課程體驗收穫滿滿 Yahoo運動",
+      "url": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxPUHczWm1fSXpXQ1ZRQ2ZCcVJrYkpaanZiaThZWXZJcy1ud3BYcE96empYWDVHcTJIY01aRFBoSGw4ZC0zREJhYVVMYXp3WDVGTWEwSjRkb3BKNGVKWWtHQmdBcDVZblNfVl85U01fVmt3ZnExTXlEZUhrc09xeHJqMWY0OXBuUVIwblBYNXQzSWJiVVMwNmFybkgzeVAyNy11eF9IWmFOaURBdXdGWXpkMHBObHlpSEN2QzZXV3RyNU9VaXVOLU9UMC01YkEtNjM0YWJYSTR0T0szUHl3X1lWSmpTX1BUSTNaVDhjR3ZnVFhnLVRWVHExOXVsOGFPQ1FObDh3cFJzRGVrOEtFTWNuV1dlT0RMQTNFZnp0elNLUV9xbmZDSXRVTGNjYzdKVkk4VWtaMkFSeWdEaC03QW9Ua1cwV0huNG1XZGxBNThza1BpeGpDV09vbTRibklFXzg0WmRBTXcxUVpjT0hNQVhMZnFJZVZGckpSNW9uSllGRWZUb0hWZ2pSRVYyV2dBaTh1VzFYZUdScDk2enhyRUZrNTNKdUdWNk9Za3NtSE5Uak1YZWdOdUduWXpDZ1ZJU3dEbHN6R2FMbzNWaDM5QlZnY1NBYw?oc=5",
+      "source": "Yahoo運動",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-3da7680fa93a",
+      "date": "2026-08-31",
+      "time": "07:00",
+      "type": "NEWS",
+      "title": "味全龍攜手達美樂進軍大巨蛋 9/8推披薩吃到飽與草地二次會 - Yahoo運動",
+      "summary": "味全龍攜手達美樂進軍大巨蛋 9/8推披薩吃到飽與草地二次會 Yahoo運動",
+      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQTjlMLXYzWXZCd0tzVDA1d3BMaWl1YllHZGlqNmxuZjZxUzNxajZLTFY3LVZneEZzdDNEX3FFdnJwajFGQU5hTjItcmxDOWVaWngwSFE1QXMyLVV1VGxKVUtoVkFMYnFEbUgwWDBOMnJodV8wb1prd2czdkpUbThzTjJ5MFJZeDlVOUt6dGdHNGw5VDBoZkh0U1NCaVZoNjBIeGk0cy1IVXlJY3o3TWpYZFd2U3FFdEZFQWdTc0w1R2N5bjQ0SlM1RGpvTGQyUWJndEsteko2Z2tabktidHFzcGdxNDV3cEFKc1VEVzN4WWJYUVlVeUF2U2lPMlJsRFpUZkVuUkNmYVhRb0Vic1gtRGVfQkhpWkNGcmRfY3VFdDA3TnNRbDVmLWZuSjJ6ZkRpYURLS0JnNF9nYkc0VU9ablVvQWI5VUoxUGY2a3lIVENFVWplUnRHWGhQSWhmcEdEMEVVaHdMemw2YmV1SVl1MVpVMmR3dFNkZ29mdjY0ZVNJQzk2Y2NlU3dJVkZfZw?oc=5",
+      "source": "Yahoo運動",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-8c4ae6946c1c",
+      "date": "2026-08-25",
+      "time": "07:00",
+      "type": "NEWS",
+      "title": "中職》2026味全龍棒球夏令營全梯次落幕 - 自由體育",
+      "summary": "中職》2026味全龍棒球夏令營全梯次落幕 自由體育",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ORFJ4TWRnWm9SMGE5RnJmR1A2VGNtTVpEV1lERzRzdXRtcTFsWUZGazAyY0h0dlFROVNObEhjZXpJdVlya3VBV2tTVFFiSklEUGJMNG5CX29BR2JwZWtIaw?oc=5",
+      "source": "自由體育",
       "tags": [
         "RSS",
         "新聞"
@@ -13672,21 +14498,21 @@ window.WD_INTEL_DATA = {
       "status": "ok",
       "auth": "none",
       "mode": "public web / Next.js payload",
-      "last_checked": "2026-09-24T11:48:38+08:00",
-      "last_success": "2026-09-24T11:48:38+08:00",
+      "last_checked": "2026-09-26T17:48:52+00:00",
+      "last_success": "2026-09-26T17:48:52+00:00",
       "records": 82,
       "note": "CPBL Stats 公開球員名單 82 人"
     },
     {
       "id": "cpbl",
       "name": "CPBL 官方賽事",
-      "status": "ok",
+      "status": "bad",
       "auth": "none",
       "mode": "public web JSON",
-      "last_checked": "2026-09-24T11:48:50+08:00",
+      "last_checked": "2026-09-26T17:48:54+00:00",
       "last_success": "2026-09-24T11:48:50+08:00",
-      "records": 573,
-      "note": "CPBL 2026: 味全一、二軍 229 場；近期先發 18 場"
+      "records": 0,
+      "note": "No WDragons CPBL schedule was collected. | 一軍賽程失敗: 404 Client Error: Not Found for url: https://www.cpbl.com.tw/schedule; 二軍賽程失敗: 404 Client Error: Not Found for url: https://www.cpbl.com.tw/schedule"
     },
     {
       "id": "wdragons",
@@ -13694,8 +14520,8 @@ window.WD_INTEL_DATA = {
       "status": "ok",
       "auth": "none",
       "mode": "RSS",
-      "last_checked": "2026-09-24T11:48:52+08:00",
-      "last_success": "2026-09-24T11:48:52+08:00",
+      "last_checked": "2026-09-26T17:48:58+00:00",
+      "last_success": "2026-09-26T17:48:58+00:00",
       "records": 23,
       "note": "3/3 feed(s)；23 則"
     },
@@ -13705,8 +14531,8 @@ window.WD_INTEL_DATA = {
       "status": "ok",
       "auth": "none",
       "mode": "RSS",
-      "last_checked": "2026-09-24T11:48:53+08:00",
-      "last_success": "2026-09-24T11:48:53+08:00",
+      "last_checked": "2026-09-26T17:48:58+00:00",
+      "last_success": "2026-09-26T17:48:58+00:00",
       "records": 100,
       "note": "1/1 feed(s)；100 則"
     },
@@ -13716,8 +14542,8 @@ window.WD_INTEL_DATA = {
       "status": "ok",
       "auth": "none",
       "mode": "static public registry",
-      "last_checked": "2026-09-24T11:48:53+08:00",
-      "last_success": "2026-09-24T11:48:53+08:00",
+      "last_checked": "2026-09-26T17:48:58+00:00",
+      "last_success": "2026-09-26T17:48:58+00:00",
       "records": 14,
       "note": "14 個球場"
     },
@@ -13727,10 +14553,10 @@ window.WD_INTEL_DATA = {
       "status": "ok",
       "auth": "none",
       "mode": "Open-Meteo hourly forecast",
-      "last_checked": "2026-09-24T11:48:58+08:00",
-      "last_success": "2026-09-24T11:48:58+08:00",
-      "records": 11,
-      "note": "11 場比賽天氣"
+      "last_checked": "2026-09-26T17:49:00+00:00",
+      "last_success": "2026-09-26T17:49:00+00:00",
+      "records": 9,
+      "note": "9 場比賽天氣"
     }
   ]
 };
