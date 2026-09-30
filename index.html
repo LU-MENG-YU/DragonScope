@@ -60,7 +60,10 @@
   <aside id="drawer" class="drawer" aria-hidden="true">
     <div class="drawer-head">
       <div><div id="drawerEyebrow" class="eyebrow"></div><h2 id="drawerTitle">Detail</h2></div>
-      <button id="drawerClose" class="icon-btn" aria-label="關閉">×</button>
+      <div class="drawer-actions">
+        <button id="drawerBack" class="icon-btn hidden" type="button" aria-label="返回上一層" title="返回上一層">←</button>
+        <button id="drawerClose" class="icon-btn" type="button" aria-label="關閉" title="關閉">×</button>
+      </div>
     </div>
     <div id="drawerBody" class="drawer-body"></div>
   </aside>
