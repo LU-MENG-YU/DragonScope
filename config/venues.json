@@ -1,0 +1,18 @@
+{
+  "venues": [
+    {"source_name":"大巨蛋","name":"臺北大巨蛋","city":"臺北市","indoor":true,"latitude":25.0415,"longitude":121.5599},
+    {"source_name":"天母","name":"臺北市立天母棒球場","city":"臺北市","indoor":false,"latitude":25.1137,"longitude":121.5316},
+    {"source_name":"洲際","name":"臺中洲際棒球場","city":"臺中市","indoor":false,"latitude":24.1995,"longitude":120.6854},
+    {"source_name":"亞太主","name":"臺南亞太國際棒球訓練中心成棒主球場","city":"臺南市","indoor":false,"latitude":23.1131,"longitude":120.2848},
+    {"source_name":"亞太副","name":"臺南亞太國際棒球訓練中心副球場","city":"臺南市","indoor":false,"latitude":23.1131,"longitude":120.2848},
+    {"source_name":"新莊","name":"新莊棒球場","city":"新北市","indoor":false,"latitude":25.0417,"longitude":121.4489},
+    {"source_name":"嘉義市","name":"嘉義市立棒球場","city":"嘉義市","indoor":false,"latitude":23.4790,"longitude":120.4619},
+    {"source_name":"澄清湖","name":"澄清湖棒球場","city":"高雄市","indoor":false,"latitude":22.6570,"longitude":120.3600},
+    {"source_name":"樂天桃園","name":"樂天桃園棒球場","city":"桃園市","indoor":false,"latitude":25.0003,"longitude":121.2015},
+    {"source_name":"花蓮","name":"花蓮棒球場","city":"花蓮縣","indoor":false,"latitude":23.9911,"longitude":121.6112},
+    {"source_name":"斗六","name":"斗六棒球場","city":"雲林縣","indoor":false,"latitude":23.7117,"longitude":120.5410},
+    {"source_name":"青埔","name":"青埔球場","city":"桃園市","indoor":false},
+    {"source_name":"園區","name":"園區球場","city":"","indoor":false},
+    {"source_name":"皇鷹學院","name":"皇鷹學院","city":"","indoor":false}
+  ]
+}

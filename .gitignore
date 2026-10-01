@@ -1,0 +1,17 @@
+# Never commit local/private team datasets
+private/
+local-data/
+*.private.csv
+*.private.xlsx
+*.private.xls
+*.private.json
+*_PRIVATE_*
+*_private_*
+.env
+.env.*
+
+# Local runtime noise
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
