@@ -2,7 +2,7 @@
   "meta": {
     "team_name": "味全龍",
     "version": "0.3.0",
-    "generated_at": "2026-10-10 16:47 +0800",
+    "generated_at": "2026-10-21 13:54 +0800",
     "seasons": [
       "2026"
     ],
@@ -19,7 +19,7 @@
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000000135",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "一軍",
       "last_public_appearance": "2026-10-02"
     },
@@ -33,7 +33,7 @@
       "position_code": "6",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000000356",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "一軍",
       "last_public_appearance": "2026-10-04"
     },
@@ -47,7 +47,7 @@
       "position_code": "9",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000000743",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "一軍",
       "last_public_appearance": "2026-10-03"
     },
@@ -61,7 +61,7 @@
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000000762",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "一軍",
       "last_public_appearance": "2026-09-30"
     },
@@ -75,7 +75,7 @@
       "position_code": "3",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000001318",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "一軍",
       "last_public_appearance": "2026-10-04"
     },
@@ -89,7 +89,7 @@
       "position_code": "4",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000001409",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "二軍",
       "last_public_appearance": "2026-09-26"
     },
@@ -103,7 +103,7 @@
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000001821",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "一軍",
       "last_public_appearance": "2026-10-04"
     },
@@ -117,7 +117,7 @@
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000002278",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "二軍",
       "last_public_appearance": "2026-09-26"
     },
@@ -155,7 +155,7 @@
       "position_code": "3",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000003625",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "一軍",
       "last_public_appearance": "2026-10-01"
     },
@@ -183,7 +183,7 @@
       "position_code": "2",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000005291",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "一軍",
       "last_public_appearance": "2026-10-04"
     },
@@ -211,7 +211,7 @@
       "position_code": "3",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000005538",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "一軍",
       "last_public_appearance": "2026-10-04"
     },
@@ -225,7 +225,7 @@
       "position_code": "4",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000005540",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "一軍",
       "last_public_appearance": "2026-10-04"
     },
@@ -239,7 +239,7 @@
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000005541",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "二軍",
       "last_public_appearance": "2026-09-26"
     },
@@ -253,7 +253,7 @@
       "position_code": "6",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000005542",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "一軍",
       "last_public_appearance": "2026-10-04"
     },
@@ -267,7 +267,7 @@
       "position_code": "5",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000005545",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "一軍",
       "last_public_appearance": "2026-10-04"
     },
@@ -281,7 +281,7 @@
       "position_code": "6",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000005546",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "一軍",
       "last_public_appearance": "2026-10-04"
     },
@@ -309,7 +309,7 @@
       "position_code": "8",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000005549",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "一軍",
       "last_public_appearance": "2026-10-04"
     },
@@ -323,7 +323,7 @@
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000005552",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "一軍",
       "last_public_appearance": "2026-10-03"
     },
@@ -337,7 +337,7 @@
       "position_code": "9",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000005553",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "一軍",
       "last_public_appearance": "2026-10-04"
     },
@@ -351,7 +351,7 @@
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000005555",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "一軍",
       "last_public_appearance": "2026-10-04"
     },
@@ -365,7 +365,7 @@
       "position_code": "2",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000005563",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "二軍",
       "last_public_appearance": "2026-09-26"
     },
@@ -379,7 +379,7 @@
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000005788",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "一軍",
       "last_public_appearance": "2026-10-04"
     },
@@ -393,7 +393,7 @@
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000005789",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "一軍",
       "last_public_appearance": "2026-10-02"
     },
@@ -407,7 +407,7 @@
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000006159",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "一軍",
       "last_public_appearance": "2026-10-03"
     },
@@ -421,7 +421,7 @@
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000006160",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "一軍",
       "last_public_appearance": "2026-10-04"
     },
@@ -435,7 +435,7 @@
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000006215",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "一軍",
       "last_public_appearance": "2026-10-04"
     },
@@ -449,7 +449,7 @@
       "position_code": "8",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000006216",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "一軍",
       "last_public_appearance": "2026-10-04"
     },
@@ -463,7 +463,7 @@
       "position_code": "2",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000006217",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "一軍",
       "last_public_appearance": "2026-10-03"
     },
@@ -477,7 +477,7 @@
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000006236",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "二軍",
       "last_public_appearance": "2026-09-26"
     },
@@ -491,7 +491,7 @@
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000006497",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "一軍",
       "last_public_appearance": "2026-09-28"
     },
@@ -505,7 +505,7 @@
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000006555",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "一軍",
       "last_public_appearance": "2026-10-02"
     },
@@ -533,7 +533,7 @@
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000006723",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "二軍",
       "last_public_appearance": "2026-09-26"
     },
@@ -547,7 +547,7 @@
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000006724",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "一軍",
       "last_public_appearance": "2026-10-04"
     },
@@ -561,7 +561,7 @@
       "position_code": "9",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000006725",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "一軍",
       "last_public_appearance": "2026-10-01"
     },
@@ -575,7 +575,7 @@
       "position_code": "3",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000006726",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "二軍",
       "last_public_appearance": "2026-09-26"
     },
@@ -611,11 +611,11 @@
       "name": "周委宏",
       "name_en": "CHOU Wei Hung",
       "number": "88",
-      "position_group": "外野手",
+      "position_group": "內野手",
       "position_code": "4",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000006731",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "二軍",
       "last_public_appearance": "2026-09-26"
     },
@@ -629,7 +629,7 @@
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000006750",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "二軍",
       "last_public_appearance": "2026-09-26"
     },
@@ -657,7 +657,7 @@
       "position_code": "8",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000006879",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "一軍",
       "last_public_appearance": "2026-10-04"
     },
@@ -685,7 +685,7 @@
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000006910",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "一軍",
       "last_public_appearance": "2026-10-04"
     },
@@ -713,7 +713,7 @@
       "position_code": "6",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000007079",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "一軍",
       "last_public_appearance": "2026-10-04"
     },
@@ -755,7 +755,7 @@
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000007083",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "一軍",
       "last_public_appearance": "2026-10-03"
     },
@@ -769,7 +769,7 @@
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000007264",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "一軍",
       "last_public_appearance": "2026-10-03"
     },
@@ -783,7 +783,7 @@
       "position_code": "8",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000007304",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "一軍",
       "last_public_appearance": "2026-10-04"
     },
@@ -809,7 +809,7 @@
       "position_code": "2",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000007306",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "二軍",
       "last_public_appearance": "2026-09-26"
     },
@@ -845,11 +845,11 @@
       "name": "*劉曜豪",
       "name_en": "LIU Yao Hao",
       "number": "125",
-      "position_group": "外野手",
+      "position_group": "捕手",
       "position_code": "2",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000007309",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "二軍",
       "last_public_appearance": "2026-09-26"
     },
@@ -863,7 +863,7 @@
       "position_code": "4",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000007310",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "二軍",
       "last_public_appearance": "2026-09-26"
     },
@@ -891,7 +891,7 @@
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000007581",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "一軍",
       "last_public_appearance": "2026-09-27"
     },
@@ -915,11 +915,11 @@
       "name": "*潘信安",
       "name_en": "PAN Hsin An",
       "number": "137",
-      "position_group": "指定打擊",
+      "position_group": "內野手",
       "position_code": "5",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000007587",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "二軍",
       "last_public_appearance": "2026-09-26"
     },
@@ -945,7 +945,7 @@
       "position_code": "7",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000007608",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "二軍",
       "last_public_appearance": "2026-09-26"
     },
@@ -973,7 +973,7 @@
       "position_code": "4",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000007610",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "二軍",
       "last_public_appearance": "2026-09-26"
     },
@@ -1013,7 +1013,7 @@
       "position_code": "1",
       "active": true,
       "url": "https://stats.cpbl.com.tw/players/0000007779",
-      "source": "CPBL",
+      "source": "CPBL Stats",
       "level": "一軍",
       "last_public_appearance": "2026-10-01"
     },
@@ -16124,7 +16124,7 @@
     {
       "id": "e-d8693824d99f",
       "date": "2026-10-05",
-      "time": "14:14",
+      "time": "15:00",
       "type": "NEWS",
       "title": "味全龍台灣大賽票價出爐！最高2800元、最便宜700元 入場贈品曝 - ETtoday運動雲",
       "summary": "味全龍台灣大賽票價出爐！最高2800元、最便宜700元 入場贈品曝 ETtoday運動雲",
@@ -16208,7 +16208,7 @@
     {
       "id": "e-d3fcad6d2a69",
       "date": "2026-10-05",
-      "time": "14:15",
+      "time": "15:00",
       "type": "NEWS",
       "title": "台灣大賽》味全龍主場全數在大巨蛋 票價與售票資訊出爐！ - 自由體育",
       "summary": "台灣大賽》味全龍主場全數在大巨蛋 票價與售票資訊出爐！ 自由體育",
@@ -17166,6 +17166,1364 @@
       "summary": "味全龍上半季封王 再現紅海 Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOci1fdkFiN01VbVU3c3dNNzVoaW5BMXV3aDh0azdnSWRFVmF6THExYVJKT29ZVU1EQ2RFQXlEVnRKZmQ1MldMd2NFNl9lMEhLNWVYSFl2aGU0anNzMzExMHpyUUF3c1ZuMllZalZCaUI2VnhDbkE1SEo1NUVRY0N4Q3JCa3dHckI0UnV5Q1hSenF4YkVVNlUxb2JxaHQycUtyWE1IbF9FYmRPWURaaDBodTF4Vng0dC1DeWFJcW1WMS1jQ0NEb0U4MEJZdDNUNjM1WXlZeDh2aHJyYTVyS1BlWURURUo?oc=5",
       "source": "Yahoo新聞",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-4c324dec3bfd",
+      "date": "2026-10-20",
+      "time": "21:25",
+      "type": "NEWS",
+      "title": "距離中職總冠軍只差最後一步！味全龍6：0擊退中信兄弟搶下台灣大賽聽牌優勢 - Yahoo運動",
+      "summary": "距離中職總冠軍只差最後一步！味全龍6：0擊退中信兄弟搶下台灣大賽聽牌優勢 Yahoo運動 台灣大賽》張政禹超神「閃身撲」！味全龍聽牌封王機率100％ 中時新聞網 味全龍G4為何派黃暐傑？本季對中信兄弟成績曝光 被打擊率竟是0 NOWnews今日新聞",
+      "url": "https://news.google.com/rss/articles/CBMihwRBVV95cUxQcDVuLXE5b3ZBT3Vzb3RtWURWcnYxZ1BQUWJmSWdjNXhVUWpWMEtOcDdhNEpjV2FwS0JEWnVIMk5sYUEyd3UtQ1RsVXpuOEpfWlNmZkFwS2lnbFhrSWYwenRDd2ZTdVc4MDkwaGRKWkVCbXZGaHpKbm1XVDljNGZDTndxdlo5eHRWTEZITzBfbFE3NUFobF9HVHBycmlZMG1hLThNX0M0eXNQS2xfRjI5STFJZW9SU3lORVFyZTg0NzB4R1dQbzh1UDJmNkJFZG00Y3NoMUlQbnFKMEhDMTFORG9BYW9DZWF0WWVQQmhCU3NnZDhta3d5UWtWbEVNLUVvQllhWnpzVmFNYWx1RU42b1V1bzVmWlEwNlNnRGVxZU1rMlQwaDV0c1FjZFlEUHNMWFcwanlnRVpWaXhCdXJZd2F5bXhVWlFfaDZKVjZGTVozXzN0d1g3bDZCbDhzdk5YZTR4NnA2TnZwM1g1bC1uMU1nMEJSTlY5alU3VEZHallyX1BmT3lVSnB0NmRyb3pZUFRXN1FoX0JzQ24yN2V6c0JCUTR5Z2tpVF9iM2IzN2VOd2NPRjNfdlpILUhRZVVJeVFhZ0VzR0gtMjRpdVB5TVd5VkpnX0duMGFDNW50dU9PWEVmRWdZTnB5Y0YyWW1WM0lIblRMNkZDcTIwSlg4Ql9iS1h1YTA?oc=5",
+      "source": "Yahoo運動",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-381bb0143c20",
+      "date": "2026-10-18",
+      "time": "18:56",
+      "type": "NEWS",
+      "title": "台灣大賽》不思議逆轉3分彈！ 味全龍20歲大物寫高懸36年難得紀錄 - 自由體育",
+      "summary": "台灣大賽》不思議逆轉3分彈！ 味全龍20歲大物寫高懸36年難得紀錄 自由體育",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WcWx6RmlETFVrakRFaE05N3lOUVFxNkpRYUd6bHhKbEVZUXRjMjU2SGFub01EQWR2cVAxZHJGaE9nSVhyQnVuSVk1TWUxMlBCdURTd3hGN1F5V1dxZ2JRRNIBZkFVX3lxTFBiamQxejVzQW05eWRieEtFWjFMUHlpRkgxQWk5QkYxRktycnI1MU9UNEdaVXhjbnRuTG94UHZMOHlCUUs4bW8tOS1qSTRPRkg1WTZxN0syNlF1aU1acV9nRktOOXpVQQ?oc=5",
+      "source": "自由體育",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-88091243d2c2",
+      "date": "2026-10-21",
+      "time": "13:37",
+      "type": "NEWS",
+      "title": "味全龍總冠軍G4拚橫掃中信兄弟 大巨蛋外野準備7000條封王彩帶 - Yahoo運動",
+      "summary": "味全龍總冠軍G4拚橫掃中信兄弟 大巨蛋外野準備7000條封王彩帶 Yahoo運動",
+      "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxPS2lkU2drODVLYS1LcXhzVXdnODkwdjVsc3BTNUU0a1BEcG9vQm1CbXhlWHZia2JpcXR1aFJTc2FTOWc3OEVYbGtpNExzcTBOVTIzM0NXWTgxc3RtTnhFR1VZbVJ0Z0FqY2t0VGU4NVZyM1dFdnlrN1JINHc1WjU5Q0plQ0F5a3RfR29ILVVlbExlTTVza1dJa2VIVmN0T2MxamF2QUEzQ3hKZjR3Sk5fQXYzYTNZQ25BWFQ4bDZaeUNWZ21OY1NiTVdTb0ZCSjNwNzNFRDFyMTczaHZkVURWMTZSWUtlQ3loTmp0eU1ZRHlxanBWX0cwXzl6eEl4Q3gxSEVJUmVBOGpjY3VOdDNaTmpIcTMyWFA2NHhianBHLWJzYkUwN3lYTzVDLUpRcTJaZ1ZjWE04M1E4Zmg3YUNCWTFRMXZDVm1UOFl5eUNzMmpQSER3UUZRUFNDMnVrSld1VXFFUUZya3prc09vQVFYZkt6c3owQ2hNdE9QT0pJVklBak0tZ0dhYl80VGNCallicFE?oc=5",
+      "source": "Yahoo運動",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-7e1b8c1e8e30",
+      "date": "2026-10-20",
+      "time": "17:25",
+      "type": "NEWS",
+      "title": "中職／「江坤宇底標還是別人頂標」 張政禹奪獎等到張士綸說話了 - UDN",
+      "summary": "中職／「江坤宇底標還是別人頂標」 張政禹奪獎等到張士綸說話了 UDN",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5mVzZRbnA4Z1VxRTFIMTltWlJrX2FVNGZQTk9ITERvbWRIeG1Ta3ZPX3ZmRWk1bUwwMzd2VkxCaXdKc3R6MXlGSmllM1BpU0dP0gFWQVVfeXFMTzBxRThqd1JDS0p5TGlHbWg0UG13NG5Da1VpOGYwQ0Q1M3JzWG9DYnZDWExqRTJLTnlLYjJ0amdqNlpZWUFZZnVEVldUR0hmeUVqOHVmREE?oc=5",
+      "source": "UDN",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-118110a7299d",
+      "date": "2026-10-20",
+      "time": "22:03",
+      "type": "NEWS",
+      "title": "中職／台灣大賽遇薔琵颱風會延賽嗎？味全龍3勝0敗聽牌，G5、G6恐撞颱風！ - JUKSY 街星",
+      "summary": "中職／台灣大賽遇薔琵颱風會延賽嗎？味全龍3勝0敗聽牌，G5、G6恐撞颱風！ JUKSY 街星",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1uZ0VFdkVBTGo2bm00cFlET3RkMXdEV2ZBN1dsSVJmWUVFVldmZEs1MGNuTnNETHlldFMwWHNsT1o3blk5Z2JSalcwVjY?oc=5",
+      "source": "JUKSY 街星",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-d2e2075ba75f",
+      "date": "2026-10-20",
+      "time": "22:32",
+      "type": "NEWS",
+      "title": "真的是勝利妖精！李多慧結束行程秒衝台灣大賽 再助味全龍贏球 - NOWnews今日新聞",
+      "summary": "真的是勝利妖精！李多慧結束行程秒衝台灣大賽 再助味全龍贏球 NOWnews今日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5WQUNYeWRXMF9uS0M5OUxxb1VjRHc2M2dCNE5MeTJfNXlxZXNSZ04zVDhxQTkwVTRnTEo2MWdqZFhVQk00d3pEQlE4YUbSAVJBVV95cUxON0QyUlU5c1RqREdzZ0VWQWM5LTZyc1pEZ0JHdGt3eVpkVkk3Z1lPUHVWTThlbF9ZalBlVDQwbWhFc1BKSjBCN2pSS2FCSnJXRVpR?oc=5",
+      "source": "NOWnews今日新聞",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-8e35056c7893",
+      "date": "2026-10-18",
+      "time": "14:03",
+      "type": "NEWS",
+      "title": "李多慧工作14小時應援味全龍！喊話今年奪冠 聽聞勝騎士遭死亡威脅嚇傻了 - 鏡報",
+      "summary": "李多慧工作14小時應援味全龍！喊話今年奪冠 聽聞勝騎士遭死亡威脅嚇傻了 鏡報",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwSUtxSDJIbFdWSnF5MkticGhTMHl0aXVOV1JZWUs4a0libkIwVFZFWHZ5eXhsM292NExnTWM1QWp5WENHMS1GVE8wU1Jla0lPN0E?oc=5",
+      "source": "鏡報",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-1e41e53691d7",
+      "date": "2026-10-18",
+      "time": "16:10",
+      "type": "NEWS",
+      "title": "味全龍奪冠就請客！李多慧一度喊「1000人」 秒慌張：完蛋了 - ETtoday運動雲",
+      "summary": "味全龍奪冠就請客！李多慧一度喊「1000人」 秒慌張：完蛋了 ETtoday運動雲",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5lSDhBdjhzX0htYUNUeUlzU2RidU5vVWwxN3VsSE1NVHpKSXZfalRkejRtZU1lQ2NwMGJPWGlSM21yREJIRjYtcDF3SWlFWHR10gFPQVVfeXFMT3lKc1ZIcXNOLVZ3eUNVamgyYk1tdHYzay1RXzZVaHBDeVZVbFQwOE9hOFRHWURKSmttbHVXcVQ2V2xETTNoblVTSUJLN1F0TQ?oc=5",
+      "source": "ETtoday運動雲",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-9ca625959538",
+      "date": "2026-10-20",
+      "time": "22:23",
+      "type": "NEWS",
+      "title": "中華職棒台灣大賽》中信兄弟鄭浩均G4掛帥拚續命 味全龍推黃暐傑力拚封王 - Yahoo運動",
+      "summary": "中華職棒台灣大賽》中信兄弟鄭浩均G4掛帥拚續命 味全龍推黃暐傑力拚封王 Yahoo運動",
+      "url": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxQV2J4ZVVoNzVmQU9UaTU4UlhmdF9MWGhwbS1BSjc5ajR5aFQ4cU9BbGotakFJR1ZmVDFDcWtnZ2Y4cEZScVg0WWFHRnVWbWpKSzJDY3ZLcmJQWTJRUGw2RGxfRzJXcXlacGZEdnRPMDFLLWdBY2YxT2J3MzlrSE9QNDlSaVc5b1hiUElmNHFhbzZHeXZncVQwaUFpamJBZ3V4OWtLR0kyM0NBeFJESnpBODE4ak1fYnRfc2hnVjR4aEs0VlRvR2xDZzlaOVBTSDc3TkQ2allKa0tTTmJJSjJWeW1tYmo2cW8tMHlZVTg1U3lJenI0dmV2dEFSY3RQaEs1bzR1a0JzekFZRU9Mb25zNEdqQ0xHZk1uRk43NHNtQzdWejdpUkQ0SzdXUlV6b2ZibWdaeWpuZWhnSnc4eXBDbXBPSUdkSUJPZjdWSVNVa3ZTYkFudGcxVnZDSjdERk1PVHowSVhXMFRpdTE1X1F4MGNwOUxjWXBVTkpEaVZCU1FMWnh6cHpFbW9TSWVBQjdaMG0zWk84djk3LURDMDg2VUd4S0lYSVFheHZmdGE1Mzg0dEUzT2dLbmNZNG5EVDhFWW92ekJ1VjI2ZF9laHBoTjJQNjYwWVctZlctRlpVbDk?oc=5",
+      "source": "Yahoo運動",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-206ef3ae81e5",
+      "date": "2026-10-20",
+      "time": "18:52",
+      "type": "NEWS",
+      "title": "台灣大賽》味全龍隊史首見的開局奇襲！ 兄弟超美技化解 - Yahoo運動",
+      "summary": "台灣大賽》味全龍隊史首見的開局奇襲！ 兄弟超美技化解 Yahoo運動",
+      "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxOTEQ5bW4yVkdsOF9Ddjd0NXJ0aGctX3dhZUJhem9QRWNaRnM5YnBmc01mSWFnal9xTGhuX1VOOWs0cjFQMHYwNC1LU095SUdnMkd3UzFNaDJzMTVlYWFmaElYWGVPNWdhRlpTMGdkNkU0bkN6M3JoaUVDY1M0TWFyb3R5OU5JOFA0ZEREN1pxcWtvME1HTzBXdjJEYVhVWlBsSTBZMVM0V2ZjNWp1c3dxRDBlM3ZGWXp3MkFtdjZTYk52VHVRSndJMlBTU0k1c0tWOEpsemZ6bE5sVTZjeW1haDZLT3NNTXc2WTlDLXFXQ0FFUDhfU2xwWk14RC1XeVlLWGZ2VWx6aG45N0k0YWZZdGtFOC0yNlRHUzhyTV9WTXVPN0Q3VGVhVXg2Si1VQzgzZzlFeUpqRWZudXpQN2Yya3ByNmtHZG56Y3FtbWZja2xmY0hBOWREOThRY2t0UXhsNkFqbXFCUEJfRmdENlI1NUU4VQ?oc=5",
+      "source": "Yahoo運動",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-79274cb17b42",
+      "date": "2026-10-17",
+      "time": "13:47",
+      "type": "NEWS",
+      "title": "台灣大賽》G1超關鍵！ 味全龍先發打線出爐 - 自由體育",
+      "summary": "台灣大賽》G1超關鍵！ 味全龍先發打線出爐 自由體育",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03U1BVUkxKRGEwSHllT0xvZHBaZVRCQngxNHJGdmoxTXVnamhKQmIyYWdZcWxCa0pIbm8wTV9zM2JKV1lvdkx0dW50eHd6c1VrRTlSc2tvNW5CTWRuZ0dGRdIBZkFVX3lxTE80Q0dMbmpiQ2trU2x0aEpDX1hhQ2Q3UjcwV1hHTnpzZWQ2MmxGbG1GU1YySVRXZno5QWFWWnRtWGxyeDNRWkVPeEJ0UXUwT1RKNUVQY0JkdzN3QkJCaGlFSDl3ZFFFUQ?oc=5",
+      "source": "自由體育",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-792445052f5c",
+      "date": "2026-10-17",
+      "time": "19:28",
+      "type": "NEWS",
+      "title": "台灣大賽》G1遭味全龍完封吞首敗！ 兄弟寫隊史首見慘紀錄 - 自由體育",
+      "summary": "台灣大賽》G1遭味全龍完封吞首敗！ 兄弟寫隊史首見慘紀錄 自由體育",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kd3k3Z2RjLUdmZmpKNXVSSDRoRm5vMVEzSDlsM050X0x6SVRTTmlpTy1BX0hZX09xaFlRNEZWZVJuUW9aRl8zT2JwdmJrLVA0ek9qdHh2aWpQb3diVVA0b9IBZkFVX3lxTE5kNU9FR2tONUwyS1ViRHVWR2l3a095b1dwRkpuUXBLVGlYR0RTRDlvQUxaNUlKX3h1TFdCVFZSbU1ndlZfcnp3RElJTHRGVmRGbnY1ZS0xTjJLWnhmY3VPV0tjQ0NGdw?oc=5",
+      "source": "自由體育",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-b707bcdc6c0b",
+      "date": "2026-10-21",
+      "time": "00:32",
+      "type": "NEWS",
+      "title": "台灣大賽》味全龍3勝0敗聽牌！奪冠率100％ 中職史上從未逆轉 - Yahoo運動",
+      "summary": "台灣大賽》味全龍3勝0敗聽牌！奪冠率100％ 中職史上從未逆轉 Yahoo運動",
+      "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPZnAwcFB4YWE5ZU00blVMUnZxcm4xRnJLUEVuVWQyWXU1NkN6OG1JNHdyRTU2NTlBRmdqNHd2Wlk1ZzBxd2tHZnRZVFhOVVpuRE5BNFFiSU5CT3pkeFJ1dU5rcDVOUm9UbUUtV1Awb3lwcDY3aXRpQ0dlSEI1Y0g5WGNkMjRRSk1fTG1YcVZJTUxlbmpKWE9ycTlrMTBqd1dpTXJ6OU4ybFhSLWl2OUl5a0hlYi12M2lCU2ZYVGRNUGI4OHY5MG5jbE1BNnBSVU5jZzN4VXVoc3hMeS1LZlRmQmN4RnJTdlNjRm5IdnllOWNtTXBLVFJJV3ExUTlzUzhtT0V5SjJ5NGNETUduR2xFMkstV2d6cFVMMFpSdlhwaGdpcG1XUjkwUnlLdzNlMGZURzJYVkFEam9MSE1zRXVvZExDXzFLZ2NoNEJxZ2tpLWVOQWpMSGNwSFptTmlpSzA5R1kzX0gxVVdraFRzUDhR?oc=5",
+      "source": "Yahoo運動",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-8cf88ffae40b",
+      "date": "2026-10-20",
+      "time": "17:03",
+      "type": "NEWS",
+      "title": "台灣大賽G3懶人包》味全龍拚聽牌！鋼龍、羅戈大巨蛋頂尖對決 先發打線、 轉播方式一次看 - 風傳媒",
+      "summary": "台灣大賽G3懶人包》味全龍拚聽牌！鋼龍、羅戈大巨蛋頂尖對決 先發打線、 轉播方式一次看 風傳媒",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5zczZDWGRhakNNNWRSVGgtM3ZSaTNob1pFVU95ZXduNElwTUdxTUdXcWx5NnhDNWphNkZfR0NWUjlMZjViNmJ6MkdTaG9KanVO?oc=5",
+      "source": "風傳媒",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-30319cad6361",
+      "date": "2026-10-21",
+      "time": "11:25",
+      "type": "NEWS",
+      "title": "中職／G4旅美土投對決！黃暐傑vs.鄭浩均 同步解鎖台灣大賽初先發 - UDN",
+      "summary": "中職／G4旅美土投對決！黃暐傑vs.鄭浩均 同步解鎖台灣大賽初先發 UDN",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9BLWY0NDlNR09VbWtxRHdzbUxhZkViWGlzYUxRR2h0Wmc3REYwcy1vMkM2Y2JYUnNDUHRhMGNNSUs5NFBSazJJZkFnVDVTNXF30gFWQVVfeXFMUEU2VF9DOFNyMUQ2N1pZd0p5UndNQmticnM2SEVtamstMVR4M2pkN1FFT2NWb1EyX1hsU1BQVUZTZTBhUTJHdGdrZDl0ay1McU5FalFzVnc?oc=5",
+      "source": "UDN",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-3dbbbed55ebf",
+      "date": "2026-10-18",
+      "time": "13:53",
+      "type": "NEWS",
+      "title": "台灣大賽》G2變陣！味全龍先發打線出爐 - 自由體育",
+      "summary": "台灣大賽》G2變陣！味全龍先發打線出爐 自由體育",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PajNBckRnTHp3UlR5R0ZlWXpITzY1enRtcmhPUmVnd1RHZERVeTFPUEwyLWU5UHp4MXJHYjQ3UTdRa3FRMW5HV3FFLXVVX2l6clRIV3YxNzczZkFTZXAyT9IBZkFVX3lxTE9LcTBsbHJIeFV0VE55c1Y3LXNCMXRjNGFBRkNzT2NGYVlERjBhckJfYW1HSFk4MTVvTmtidVVwMlhua0Z3MXR1YmlyRUpCTkNka1MwVTd6R21OQXRId2tEZUE0cjZaZw?oc=5",
+      "source": "自由體育",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-6f50134d7c2b",
+      "date": "2026-10-20",
+      "time": "21:43",
+      "type": "NEWS",
+      "title": "快訊／台灣大賽G4先發出爐！兄弟鄭浩均背水一戰 味全黃暐傑拚封王 - ETtoday運動雲",
+      "summary": "快訊／台灣大賽G4先發出爐！兄弟鄭浩均背水一戰 味全黃暐傑拚封王 ETtoday運動雲",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAtMGFfT1JIT1B0QkZtZjBnWUs4OVRndXlpT3ZWeEJ5MmdrU01pWEI2anpBQUg5WklyUmtORU9JUXhaQ2F6QVZ6SlUtQ005RDht0gFPQVVfeXFMT0NRYUF5Zm04dXNVcmllZllPY3pHSXdyNWt5RWR3bEpsaUhWejdGOFNUb2dieG5WNzdITlc2TFBydDFrWlZfaWlqaXNYOTB0aw?oc=5",
+      "source": "ETtoday運動雲",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-a5a36756285f",
+      "date": "2026-10-21",
+      "time": "09:19",
+      "type": "NEWS",
+      "title": "⚾️ 𝟐𝟎𝟐𝟔 𝐂𝐏𝐁𝐋 𝐓𝐀𝐈𝐖𝐀𝐍 𝐒𝐄𝐑𝐈𝐄𝐒 𝐆𝟑 🐲 味全龍 6️⃣：0️⃣中信兄弟 🐘 ​ 【張政禹適時安打 幫助味全再添2分】 #2026中華電信台灣大賽 #2026CPBLTAIWANSERIES - Facebook",
+      "summary": "⚾️ 𝟐𝟎𝟐𝟔 𝐂𝐏𝐁𝐋 𝐓𝐀𝐈𝐖𝐀𝐍 𝐒𝐄𝐑𝐈𝐄𝐒 𝐆𝟑 🐲 味全龍 6️⃣：0️⃣中信兄弟 🐘 ​ 【張政禹適時安打 幫助味全再添2分】 #2026中華電信台灣大賽 #2026CPBLTAIWANSERIES Facebook",
+      "url": "https://news.google.com/rss/articles/CBMiiAdBVV95cUxOVmVxRzktT3FGWWRxQ09VNnJjNC1CWnExRW5PSDktZUFiTGF6ODNfeXllNkdCTXlTN3FjODZDNXN3ZUdWZ3pFdGVQNUJteWxoVEpmbVJ4VTRGaUxZVDFId0VTeHFBTEhPWGFoTFdTWWtSbDdsTWRDU3puX21McjNNSklta2JfQ1RQUFEwNTVhRkRadEZQNE03c2xuT0JpMXdxcEloY0lIVFlabzZNRmxWVTJTV0UxSnktTTRqaXlNR21xMFFoVU5QQ29RV05xdDcxN2NvcjhlZDNRQW9sRXJINE9fcVZlMTUxaURIU0cwM0s2eWFBeURoM0Y5cGZzLWdUMHZsdU02S1lYUnpJLVB3TlRjdmdzSDBnMlFCWE1mZGhLMHBFYmtremN2cWZPTmJwUEFXQ0JCR09qTzFLZHM0dnRMTzJmSG1qSGpOLWd3aG5uZ2xUU01lUVdnLVFzN2NUWEtUbi1EMk9MWU83Ri16S3hHN2NlaElYb3pmaHV3Ujc2X2p2aVhlVm9DSi1xT0hfSEpCWGFnQndDTUdxeDhUczZtZERsMmdtOFFuWHRLTU5fYnRueUNtYVFuV0RDZlJ1eVFPdjVvSjlJT0ZaM0w5RUwtNW45R1JzZjdBMlNwWXQ3bVFHZ21QNDQxanJ5emhYODFvbHpVNUQ4dFVhcFBXX2FFMTZjdXdadHJyZUVFOFg0d1FibkdES3FVVWdFaTJIeC1WbFU2WnVEekU3VnBZd2lCTUwtUkNnYmF5U0pFVmJCMExPRE5LT2JGOXdURzRUcm1OOGNJTDFVbzZzMVM0d1prNDJ3eDJjV2xWM01nYU9PS3JRVV9rS0hndDU0SVRqVC01bXFtbW5CRW1hOG1Yckd2bm5XemFnQWlKMzJ3eUR0Ym9jd2w1VkVfRXlsblAzZThBakJkN3FLR0pLbDJ2SUpUUzducGVHZnNLS3Q1Q0ZhYnBDYU96OUFjY0ZqY3U5NkFYdkdsS0lwWlRkcUwyYUN6QXlHWDFFOUM4dDlJb29RX2FJVG1zb2djelB5all5dS1LT1l3cTdCbzhib3B4MHFQdnNxdkpmOVE3Ynl6SkdPMFdhZGZoRHgzTFdPb1BfS2dCOGt2WEhNbjFhVDVNNjdlZklzamtIczYyVEJFMDFTUEQ5UjAtNGVuUGY3Qk5BNFJFekhGay1hUFpyT3FnSzNXcmREUGVO?oc=5",
+      "source": "Facebook",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-04d21f05e4fe",
+      "date": "2026-10-21",
+      "time": "06:00",
+      "type": "NEWS",
+      "title": "味全龍3洋投台灣大賽21局失1分 防禦率0.43徹底凍結中信兄弟打線 - NOWnews今日新聞",
+      "summary": "味全龍3洋投台灣大賽21局失1分 防禦率0.43徹底凍結中信兄弟打線 NOWnews今日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mX3F5cnhSRnFiZm91emFCTWs5YnFrU0VYX3ZCdU9pRldPRnFOY201djRDYXQzREFORzVFSE1leTVyd1NQWHg1YWkzODBoYmVzTHfSAVJBVV95cUxPZl9xeXJ4UkZxYmZvdXphQk1rOWJxa1NFWF92QnVPaUZXT0ZxTmNtNXY0Q2F0M0RBTkc1RUhNZXk1cndTUFh4NWFpMzgwaGJlc0x3?oc=5",
+      "source": "NOWnews今日新聞",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-8cfde4b085e9",
+      "date": "2026-10-20",
+      "time": "20:46",
+      "type": "NEWS",
+      "title": "台灣大賽》味全龍7上攻破呂彥青！連2保送、觸身球再安打攻進4分 7上味全4比0 - Yahoo運動",
+      "summary": "台灣大賽》味全龍7上攻破呂彥青！連2保送、觸身球再安打攻進4分 7上味全4比0 Yahoo運動",
+      "url": "https://news.google.com/rss/articles/CBMixgNBVV95cUxNREVvNE9LczRrNGxrMUZMMC1rLTlsUTh4ZmFpMm9FQnZOaDVDWjhqdnZpUk0xQnlWcDJsdGtDX05FOHFDOWYybjM5UU8yMFhwZ2lxalo2NUJVOU11S0ZFSVVNMzgzS0Vvc0tMcHBtU2lZc2tvS2xzQldmckR0OG9WQ1Z2LVJNREtYMVJqRjdVOG1aT2l3dnhuVEZwNWZpdkZaUjA0Y3pSMDZYOTA2dV9KM1lwSEhUMlNkdVZjOXU5OWVBUUNwd0V3QlpKSG5GSS02VDVHTGQzODAydzNaWXNPTGFBWWd6RUh6MUYzTlE2UUt1TFlEZm1pbWpFWUl1eEZzU2xjZmFrVmhHSDVPMlZZRUliLWpmRUtSOEpLb3Y0b3BlemJFWGN3YTFBZWlhVnFhS25jUHBFR0NZcTlvOXNXc0kxaFk2dTdJczJFc2pTNWU1bld6MnE1UDh3dUQ4b08zM052b0ZWbjlOWXJ0ZkZiUFAzMS0xQnlpUDM4Y2l5R3gtU3pHa2tMQzB5TWMwTHBqRmRVM2FESGhIY3NlektOYk83LWNMSEhpbm80Tko3UEl5WkxreFZoa29RRmNYSHMtUzRWMm5n?oc=5",
+      "source": "Yahoo運動",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-366763b6fb71",
+      "date": "2026-10-20",
+      "time": "16:30",
+      "type": "NEWS",
+      "title": "中職/味全龍拚聽牌突變陣！台灣大賽G3打線出爐 - Yahoo運動",
+      "summary": "中職/味全龍拚聽牌突變陣！台灣大賽G3打線出爐 Yahoo運動",
+      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPdzZWeUlXeUxNXzVlQzFlQTVWWGJjOGpXM1BrZVI1Z24za2lkeWkxZlRNWTNnNVB2anZ3d3A1WWFsRG1vQnJOcEhfVWhuZm9ORUtFZU13c3dJZjhUdkZ0NWVod050ZERwMklNREtUeU40M0dnTXVzVEw2XzdCak9ZUGllVE5EdmpPUEItX1Q0SkpXVUIyQlVUMURYdmZKckhoZFFzeHF2SVY3RGFybkhtWjFBdWlJa3lHWl9raTVvWWYzMGs2em9qUGlRQjh1WGRHRGMySlQweFAzSWREN1BoMGlkSzFNZVNidGxfNkxjQVF5dy0wVTJPT2JMZjBIckNDWmduM0E2akNCUWV3M3hfV3QzUFd3YzNBYTNwaXlkLW1JVnBUeEFtckU0N1JBMDZrNlFIR25RYkZRWXZON2ZKdzNLZmdoQQ?oc=5",
+      "source": "Yahoo運動",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-52a45d94da77",
+      "date": "2026-10-18",
+      "time": "19:39",
+      "type": "NEWS",
+      "title": "味全龍台灣大賽二連勝！20歲曾聖安建大功開轟逆轉戰局3：1擊潰中信兄弟 - Yahoo運動",
+      "summary": "味全龍台灣大賽二連勝！20歲曾聖安建大功開轟逆轉戰局3：1擊潰中信兄弟 Yahoo運動",
+      "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxQbFJPQVhOQ0JMeXRhWDYzYnU3ZTdyaTl2dGJSRlNzbDhnWkNhZzBVdFppZkU3djRNbW4wUVhFM041UWtWN2dxNjhWVEhvOGdVbVBNZXlUREl0MFl5dzk1NzFCRUh0b1dMME52aDE0X3lYUHNMOU9ST05nLU5yUmVvVXRqcm01dzlTV3ZKelh3ZjNaZVlzckNXXzVRMk1vWjVPcTlCd0EybzFKWUQ1YkxQd0Vvbm5XUVpwR3E3ZFZ3LWJwNUg2TVpYbTZoWndHTHc0Ym9IQzRFX2JGeVZmTmQybERqTXdGSUhoRTdKMVRkYlFvcFpxdGpTZjYwV05XZU5rWkJ1eTZwNURheTFQS0lJcWZVSi1hVTRvVG5iNV9Pc3B1a1pVQUh3RlRjVXZRWG9wT3VrVTRKMVRZOHJLUm5lUUktRWJHUU9MNWxrdXNsNE80R1hTTGxySWIxcHlBVkdaTExGQ3QwdVdyMUhoN0xzX1U2XzVzT0xfdUtpR2N5Sm45NlRNSjVzUjFqcEtzTmM?oc=5",
+      "source": "Yahoo運動",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-a2e33ce16e38",
+      "date": "2026-10-17",
+      "time": "19:26",
+      "type": "NEWS",
+      "title": "台灣大賽G1味全龍3：0完封中信兄弟！搶下87.9%首戰贏球總冠軍封王優勢 - Yahoo運動",
+      "summary": "台灣大賽G1味全龍3：0完封中信兄弟！搶下87.9%首戰贏球總冠軍封王優勢 Yahoo運動",
+      "url": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxNQVdJRE05a3k3V1lIVU50Y0MtUzZPZjRsdDFEcWhxcUoxLWstdGg5R1RyR1h5X3ZOM2ppR0l1MmRSOU9KRzJXb2g5U1JHX0N5ckxXeXA5alBjU3pnVzh0T1l0OU1sWjNWUWc4emlFY21CNHpCbEVDVEhqU3BMeF9VaUI5eWFMUFNQUWVUSDVPbGRxODFDRGZmZzZoQ3RwYXVMRE1zOHpray1BR0tvT2xHeDJ1Y2VqQl9jc0ljZEIxeUFUTzBiQXpLQWk3cjlTOXJsQjN4NTlfTnZjVzZrTkU0dnZtZjZVUXhpMmhocW9zR19Ba0VHSFgtbWI2STFkN2s5SjNzSFJaRGEwTDh2ZzNVTW1IcTFfS0VOSWlfQW1EX1g3SzBvOXhRX0Y3TDlrVGZwd19NaFo0bWZOT0hBbUFPNm5NalZoc0VUMnUxbnB5a3lhQl9kZWZibEVJWDVfT3JFaWVsWlVwUG5IRzdaN0liYUhqakJXcFdYR1d3U2xnd05wVmdKM2JkNlB5MW5fYk1ZbzBPTGU4d2xiemFrRkZTVC1QaGNPeGpoVjVaeDJub1VkUk1CV01WcGg3LTdmNVVSMU01aDJoNEo5bk1wRXVNaUc1SHBiWDdLWUdIV2FDeHNVMi1xSVdVS2tkRjljZw?oc=5",
+      "source": "Yahoo運動",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-f9700b7aa644",
+      "date": "2026-10-18",
+      "time": "19:35",
+      "type": "NEWS",
+      "title": "中華職棒台灣大賽》曾聖安3分砲一棒將功補過 味全龍逆轉勝中信兄弟搶下G2 - Yahoo運動",
+      "summary": "中華職棒台灣大賽》曾聖安3分砲一棒將功補過 味全龍逆轉勝中信兄弟搶下G2 Yahoo運動",
+      "url": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxNRno2eVFKbV9kaGxXOGxhQnhuYW1HNDZjWC04b2Z5UkszeXZJYjRDbDlVS1B2Mjd0bjRGc2FWWXZJYzBDckFKYVZrRWNmempfNjM4alpVdGZwSG51NkYzNmNLQUFnbTdEYTFySlMtcGFyMlJIbnR4TEpmQkRxU2VvdXp1QWJ0WlQ4ZlFvMDFKaDhIMGp3eWc0S3BzR3pidnBFN3BkUGZqMFVrQ2loWnJfd0FrNEpDendtdUR4a21sMWVBeU5TYW5CUldsRE80aFZWRlAzSEpYZkRUSDRNNG1hdTRXMkVCZ1U4eVB4a1ZoVkdVblJ3TTNQTkFvaF9XTGgxTFhJNXBDN1hPZHBtMllWQVl3b1JKSTBzNEtFMlBhdUN6Tm5VYmdTMmdzSlROS2RWQmRDWjVHVzlFd09XRjFqaWFzSVFvWXlRNVVySGF5MjJIanVvYmtoVkp1dmtwMGNuWWFfa1gwaFQ5YjBHVlM4cm80OVFzTkp0NHR2dU1mUFUwZ21CTXVaamhRSmpZb0l4TXpIMzhHYzBTU3A1OEhjb3JWZTNmZXAxSFdfVUNMSzcwOV9yRUE3YXMwOFV6SjFuUmpxNGxqV1dFcDRxSE94d2Z0TlV6YXBFQlFfb1otNlk1dw?oc=5",
+      "source": "Yahoo運動",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-3e8508bb23b5",
+      "date": "2026-10-20",
+      "time": "21:37",
+      "type": "NEWS",
+      "title": "台灣大賽第3戰 味全龍6比0獲勝 (圖) - Yahoo運動",
+      "summary": "台灣大賽第3戰 味全龍6比0獲勝 (圖) Yahoo運動",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPWlljREJyeThhZkoyY3RfRVdmMGlLWE9XOTBubC1jUG5YWGRsRnJOZ3FpQUdja2NzaWRhR0dmY2N6LXF1bXRUQ1FESWlFbHVfVXdaNk4xYktyaXRxZFJ2cDl3WFRhM1FQM1NIZ2hCU2dLUGlIeHNqVFpkUXBDNm1GbUVqTkFibXdPRkQtQUdqWWZPQjFaTjJydXV1Y29FTlhhaXZLTEhudVdHX0NIYUdMVVlmX21xeGUzcXhkMXQ5czZHZzBKZi15VW5XWXIxQWt4c3VaZTVGRVNRVUl2cU5XdktveTRMVllUWHM5b0pnRWRCSVc3LUd2cjlfa3JIcEU?oc=5",
+      "source": "Yahoo運動",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-8db1f67df7bf",
+      "date": "2026-10-17",
+      "time": "17:25",
+      "type": "NEWS",
+      "title": "台灣大賽》史上首次「龍象大戰」 味全龍首戰先發打線出爐 - Yahoo運動",
+      "summary": "台灣大賽》史上首次「龍象大戰」 味全龍首戰先發打線出爐 Yahoo運動",
+      "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxONUFQWDQtWEFHWHNhTmhEak5lS3NXbjQwZW9kNHJlaHRoNmQ0ZVlWU3V2UVdzN3RsVllnMnFxNFE4dmJHU0dxamNPaENKdnAwbHZfZjhIeDJRMVplWnJiWl9TZzY4QmJfbGk0NUhadXR6dC05UzJBQURPQ3VFWHB2d2EzbFBfRUgxUUUtak1yNGFnYXAxaklTaGhJa1pHajBkUG03QnctRC04YldoNXZscUxQRE1VZEpxNkdsSjk4TjR2dmcxNnU0Y3lGb0tIRHlib0pGZWNJZl9NUUFwMXh1X2F3eDZ6eG54a3BrTkdJWnFISjRDQ0ljZ3pCQTNkcXp3TXYydFBrNnhTN3g5dWJKQVhjYmI3RmRzWGVORmpRY2tBOHJtejgzTXo0RWd1VXhDbE0ycWduZEdpMFVvYm5adi1RUi1DYUsycFRGZmZXUWFiaE1WbFFlb01MVHY5U2NRd1R3b3RENmVWU3huMWRFN3lhb2w?oc=5",
+      "source": "Yahoo運動",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-491f5103ad55",
+      "date": "2026-10-17",
+      "time": "07:45",
+      "type": "NEWS",
+      "title": "中職／台灣大賽球員名單揭曉 味全龍隊長鞏冠確定缺席 - Yahoo運動",
+      "summary": "中職／台灣大賽球員名單揭曉 味全龍隊長鞏冠確定缺席 Yahoo運動",
+      "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxQOFczR2pxRDNvdGpWX1lKRmNteHlBYlVOWEl2QWZ2VldLOEZTNURjbHdHaVBxaW9pYzd2YjFEcS1hVGJWMWNtWjYxbExMZDNWQ21EVW1Cb29mU0c2Ulo2bEpEZzlJRFE1UVlicHU5NGJDd1BNQTFwMDFqdlJTTHVNRE0zbTFyRG9pdGszcnpROVFGc2w1Vl9zZVNWTjVYZ3N3dlVrLWI1MjFacUMtTkNVQzRGc29rakxvY2NtNVp0WlZ6V050SmN6RlMySnBpTWZPZzlHRUNhRy1obmpBZ3lsU3BodkZJbkhFV0NlTVNZOGdvWERmNi1ydzNnQ190ZDlRV1c1WHU3MkxuZi1HSEdpQmROcjQ2dnpvM3QwVkpfSTN6Mld2ZFNVdlJVOFI1QlMzSFNGQmlmMTAzNnozb3BuazRkcFRrdm9SckpiVFc3ZUN2VjdyUTFWaUVMUTFjR2lKclBRYzRDbmdlZHA1R0xPdjNxOA?oc=5",
+      "source": "Yahoo運動",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-4ce951d90198",
+      "date": "2026-10-17",
+      "time": "14:38",
+      "type": "NEWS",
+      "title": "味全龍總冠軍首戰中信兄弟打線出爐 劉俊緯扛下先發DH - Yahoo運動",
+      "summary": "味全龍總冠軍首戰中信兄弟打線出爐 劉俊緯扛下先發DH Yahoo運動",
+      "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNdDM0QWFfRTZiOGRfVHVyY0FneGNZT210TmFsNFFEanVDQmJaelV0NmEzRmh4NGtTZVIyaFdsQVM0LWh5M0hxd1Y4U0tLcHlZcUZmTmg1TWszMy1USHhlcXlzZ0ZPYmJDU1ZLaDFVakUxemstVmtrRVJjVHJURmdoalFrM21SS1ZRZm1LS1lXWmVOZXJUekNYUFZlMV82Z1UxREpGUlRSTHpDel8zUW9wam4xb3ppVm5YWUNINGYzMUwzNE5HU2wwak05XzlWcnlENFlacFNidHFwM0lFc1dvZnhYaEJ5WTF3dmdwX19tZG9hOTdvVkZxcXBWeFlLYmpMOVpqS0hwRi0wZDduYTZ0NUloWk5ydHJYcWZKVVBWWnAxWEI2ZmdneE9lYjhjd3l1bFZoeDlFS2g4RW9qOUQ5aFQ3XzRhb0JlU09RU2RwV1EzY0s5RjI3dGFQdm5KYXNieGl3UGROazZidXJkYkZrSU5DZW4?oc=5",
+      "source": "Yahoo運動",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-6e7c3a550e92",
+      "date": "2026-10-18",
+      "time": "13:51",
+      "type": "NEWS",
+      "title": "快訊／拼台灣大賽二連勝！ 龍象大戰G2味全先發打線出爐 - ETtoday運動雲",
+      "summary": "快訊／拼台灣大賽二連勝！ 龍象大戰G2味全先發打線出爐 ETtoday運動雲",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9YaW5oWmN6THJoRXZjSDNvSUhaRndpcjNpUmtza01PVE1IajAtMjFBYUZ5bHdDZHdzbmszUWYtRzNQN1prSFdZVjdsRUpxbUxo0gFPQVVfeXFMUERCTVlzVGdtT3F6VE9PcmNKUzJ1S1poQkQ1cVdTTGFMSjUxLW5jVW5qMi1XU2VDckt2TkNXZVlCN2ZLYkJiY3FHU2JOLUEzRQ?oc=5",
+      "source": "ETtoday運動雲",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-9ecf43957e6d",
+      "date": "2026-10-16",
+      "time": "14:47",
+      "type": "NEWS",
+      "title": "台灣大賽》對兄弟沒輸過！ 味全龍公布G1先發投手 - 自由體育",
+      "summary": "台灣大賽》對兄弟沒輸過！ 味全龍公布G1先發投手 自由體育",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tSWc2TDhTOE0waDUwb1o5MTFmNDgyWUNOcDI4TlNjZHNsNnk1V2RaUnA4ZnAzeXp1Wk9pbF9vdkdURXRNOWlkbHJVaXdCS2lOa3h3UWNPWWdBN2ozeENDd9IBZkFVX3lxTE9FSVJ2RThUaWhSb1JRY3BOMk5JWXMxMFY3VVpaNktPQlh6LV9MOGRYaUdMWmk4ak85MXhJSDYyN0ZvSWJrdmx0MDROLS1rZXptZnhCSnRkcHUzVVBTWkFMY1M4Qkc2Zw?oc=5",
+      "source": "自由體育",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-41f3a0c49168",
+      "date": "2026-10-16",
+      "time": "13:58",
+      "type": "NEWS",
+      "title": "台灣大賽》味全龍32人參賽名單 確定沒有隊長吉力吉撈 - Yahoo運動",
+      "summary": "台灣大賽》味全龍32人參賽名單 確定沒有隊長吉力吉撈 Yahoo運動",
+      "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPTzBwaWltLUYxR1RvQWVxbEVlSXVRLTZHMF9XUjFzOWpCeVczTHpBWmI4RG9EcG0zdjRIWlVWQ0wyQkJGM01lSVJWTl8tbUFvaEpjV2p5QUJvaC1raTlEOGtqaHMzcXhMeTBSVG9VbERuZVVlcnRtV0hoNVV6Y0hpNzdkUjdqOEZrRXJoVzFJY2NxNHlwdi1zVGZPVldXZVN0cGp6cmpDMThBRldXRE1FVk8weU56b3BLUW5nVEhMMHBhYm1CWGZCVkF0X09qYlNwM3h2TGExMDVQMEthMzFqcnZocFBKX3FkTjNCbGl3X29oejVZVXNQN3hJYmFDeGVHei1ISTI4UG9tcVNjSzlLdFpZUm9ZNlhTT3R0bmJhQmxvamxVZThja1B1UVpDemlBb3pKM21vaFl4OXBlMktVNEI4WUhTT2lUZTZPT2V6SmVvbEpoOUM4cEx6M3ZPaklJWThzQzg3TXg5dw?oc=5",
+      "source": "Yahoo運動",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-9340683729c8",
+      "date": "2026-10-21",
+      "time": "10:21",
+      "type": "NEWS",
+      "title": "鋼龍 7 局完美壓制！味全龍 6：0 完封兄弟，台灣大賽 3 連勝強勢「聽牌」 - COOL-STYLE 潮流生活網",
+      "summary": "鋼龍 7 局完美壓制！味全龍 6：0 完封兄弟，台灣大賽 3 連勝強勢「聽牌」 COOL-STYLE 潮流生活網",
+      "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPMkJGSHFsMHBMczl6eVhVRmo5Nng1NWNhLWtYdVpTOVdnYm1MV2VheEVXY191UGE3ejNRanRyUHUyTTFuUl9SNm5pbWlZSHMzTDlwcFNxQ1BDY0VnWjJTSzNFS0FxZVlKMWRVbTVFLUZrX2hqMkF2cEQtdUtKQU5HTVcxMThRT1VBNXh3cGRPZ3V3ZnF0MXFLM2l6ME9oRVNra0dUWFBGUmtYTFlWSXp3OEpsZThtSmFNVVVnTERnbEJFeUhfam9oeUt1azEzVzNCdHdWbHZIUExDazF5OHpnUERZclRmczRrZ3pTSVpnNzVxTW9xSlFQUFNUX1ZLRVptOTdtWGRxanQ4bzNkcm5TUGNoOHQtbENTSEU5VFRVOVRUUzd4dFZUdzdSRWlCMkhWOF9ybDI0SEpOSkdWZUZIb1F5ODRVQ2hISkJaT0p1Ml85b2FZN28xUi1iMC1NZnhIdWxqN21TUkfSAe4CQVVfeXFMT2RRSG1DWGV5a1dKMDJFekpKeWxtSlZ0NWtnc3NwMTFrUFl6OGtIaXdWMElNX3NuMWUwWjBFSkZMZkVsS1lPVUZkNEdDUVVQMWZWTlFGNU1Qa0dQenVlOVV6VEk2NUlDMnFQZm1VN2hBM3EyTW1rNExzSnVIam1oR3QxVHY0TWdqVzU5OE5HRWU0MHpZQUR4TjNRRV95TU5MSnhtQ3RDQThfSldXbnpZcGxKZkxSNkljOW50anloc19pWmZkSUdaZlE0TXZZUXE5bGNlNlAxRXJvMDlFNXhmci0yd3A4RFJ6SWRQeEdZem84ZmprNzdCTjhpeGtrc0tGbkZVNWJKQ2wxZEhtMVVlYm9hNklFc3VQSjZvMVE3QmdTRGtwcW0xa1RFZ3V1bTM4cjFwcjROeThYMWlvUXJ4WS1ORFAzTDY3Z3Z0RXU1UkZPNjNfcnF3cEVLWmRxQmduLUx1WW5ZSFpQZl9ZQUZ3?oc=5",
+      "source": "COOL-STYLE 潮流生活網",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-ccf2ca854ca5",
+      "date": "2026-10-16",
+      "time": "17:37",
+      "type": "NEWS",
+      "title": "中職》為什麼任意引退？ 味全龍左投黃侰程發文解釋 - Yahoo運動",
+      "summary": "中職》為什麼任意引退？ 味全龍左投黃侰程發文解釋 Yahoo運動",
+      "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNbXRGV2RxU0ltMV80MWlQc24zek8weVdpR3Q3aHFvX3dMdElTeTJqM3JBMmVzb1dVQTlRbmk0S0pmUTRNU2Z4V1pvQW41UVlmb1RNelJBb1JBYXowUEFXTE1LWHRIYjE1WGpOcnRLTnZmclN4dkU0YkhIYVZ0MnFpLUlIdmJaelU0SEtGeERuZ3FyYm4tTHYwMXhFc1U1azFGRXIxZ2RkdlVDWW9WNU13SzVOT1pGOTJMVEc1anR3Y1BrT2NCWE5GVkhQNHRQLWdweThhSmIwOUpCNDgwY3hvUWJNYTc0UEt3UTZxUS1vejNVLUNhQWY3ZzhNUklNdHFLTEttVlBiMWtMWmxuc3YzczZScmN4YXJPM09qcXUxYTMtc0ZibmJzWExaZDNkak1veGM0R1hMbWVVeVBQWnFXSjFUQTlHOFpfQmI0eHVodkg2OFNtem9kRHY3Yw?oc=5",
+      "source": "Yahoo運動",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-69945c01700e",
+      "date": "2026-10-21",
+      "time": "10:31",
+      "type": "NEWS",
+      "title": "味全龍3連勝聽牌了！ 中信兄弟慘遭0:6封鎖｜#鏡新聞 - Yahoo新聞",
+      "summary": "味全龍3連勝聽牌了！ 中信兄弟慘遭0:6封鎖｜#鏡新聞 Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNdlY5UVZ6cWNRbTY0SjVMYlZlTUMyeUF0NWllTkJTRWFIaXBRYVR4YmpaVWJ0cmgxVVNhMWJKX1J4d2xSbFktal9XcGpFRlhyeG90LUFGWmljdU0wZTZEaGlkRjNNUEpiVGUyaUVBdVozNUx2YTZ1VDE5SE9VVG15WDVqMWw3Rlc5bzRnX1c0TGlFaVNlbTNPMkNaY3JlbDJaVXZQckE4aHI4MFVHc0ZvWDFkd3VITVBpWkQxZlljRy1GZmRMMHgwTDY5dHhUMF81MERXSElkX3pHMl9zckRMWTJsV3FDdVhMNFc3eGU1ZFB6b3JGQmdjXzdMWGd1YzBHT3VzcklsTHpucUR2bEI2QlNtSUVyS042cjBBUG1rU2l4bEFEWXJCNnM3c1N5UVhyeXk5WDZwcVRJYnA3OVY4?oc=5",
+      "source": "Yahoo新聞",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-bf44e6db3887",
+      "date": "2026-10-17",
+      "time": "18:04",
+      "type": "NEWS",
+      "title": "台灣大賽連3年G1滿場4萬人！味全龍刷新隊史紀錄 - ETtoday運動雲",
+      "summary": "台灣大賽連3年G1滿場4萬人！味全龍刷新隊史紀錄 ETtoday運動雲",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBiaUVRWEE5aWxYU2FDeDBhZ05xSkg5aHNxZWlJd0syNFNCQnR6WXFTRmdKOUdpMjZHTi1IWUV1UDdkVFBXZF9oSWpIMGxoaWNy0gFPQVVfeXFMUG1xZlJoVWhCVElRQV9uaExyUk5ZYjRCOVUyVUxhSWhVVUFmdHZQOVBJa09CRGxjS2JUZHNmSW9OVEdKM0p4MjVLUEZZeS1xRQ?oc=5",
+      "source": "ETtoday運動雲",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-e076bfcc38c4",
+      "date": "2026-10-20",
+      "time": "20:04",
+      "type": "NEWS",
+      "title": "中職／台灣大賽 G3 鋼龍對決羅戈！味全龍 2 勝 0 敗領先，10/20 大巨蛋 18:35 開打 - JUKSY 街星",
+      "summary": "中職／台灣大賽 G3 鋼龍對決羅戈！味全龍 2 勝 0 敗領先，10/20 大巨蛋 18:35 開打 JUKSY 街星",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1GTWFhOEtKQ0ZwOHJfWXJqaGgya0ExQ3phNW00Szh0TWpLNldBTWJad2Zkb3UwNnl0dzNxVFEtR29FNEdfMTF6T0tFZXc?oc=5",
+      "source": "JUKSY 街星",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-f70b79fd2abc",
+      "date": "2026-10-20",
+      "time": "18:51",
+      "type": "NEWS",
+      "title": "台灣大賽》味全龍李凱威敲安、江坤宇1局上美技雙殺化解！G3首局0比0 - Yahoo運動",
+      "summary": "台灣大賽》味全龍李凱威敲安、江坤宇1局上美技雙殺化解！G3首局0比0 Yahoo運動",
+      "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxQeFUwNkFBNkt2amliMXJnUndPX1dTOEpaWFVoQXNzM01MSEVQRG85MF9hQkFVNmtjc1hSZEJLbDFtdjkwV2gyNG5WcXdSeW1yRGZ3Z0F0Z3hkbFllemhYbGJsc1dLU0pLVjdwMENDRGk5emJBOWZtSGRHbDI3dkNEWHJxbXRqX0VPZEU3M1BEVzJTLTRGRnQyd2JidnVSc2dlcUxaWTZrWWZJZGtuOFJLOS1JTE91ZUJNU3daMENyd1I5NXRSaXdTcEh2Z2lybGotT2RHU01vZ2RvNjVtYkk1QkpqSENMTXczZFJrZVdYVFV1bGZxRGpBM180WTFCV19xallrejFwYVVfQURzNmFkX2FLdjNJdC0yeU9PU0pLdF9WOTA0SkQxRDNlTV9rclFOdUJQNllmZmhoYjJZQnhlYTUzZjZzWDBuSXcxOUpfeWdIZ0VSbDB2Y0Vtb1BxbjRocHo3eXFOM3UxV2tQOEViQ2E4emE2ZFZtS0lJVWxGU2J6VlZ2dVlxWUc4djlGNnBfaS1tYVk0SVFoaFJacFpz?oc=5",
+      "source": "Yahoo運動",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-e04992405d61",
+      "date": "2026-10-18",
+      "time": "19:36",
+      "type": "NEWS",
+      "title": "台灣大賽》曾聖安表情痛苦被揹下場 味全龍說明傷情 - 自由體育",
+      "summary": "台灣大賽》曾聖安表情痛苦被揹下場 味全龍說明傷情 自由體育",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0yQ1JhbGxfWkZnUTJ3U3c5Y09XcjF6cHZGX0Z4eDhOcXhUTWRSZW1jUTdfa3RDbkJjOXNIcFNlYi1nNENrYW9wVktHcGtQRDd1SVlobDAzX2FuYXBKM2t0Q9IBZkFVX3lxTFBNY1NKSHNUSHE4cnUzNFVGQTJKUm5USkFfQWdvZmdDNFVxNVhneENuTGR0LUVETmVOaU5Ra1hWTFVPcXlya1U1eWo5YmstQ0Jjcm55MS14S1EwZDI0R25UTXhOZXV1Zw?oc=5",
+      "source": "自由體育",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-ad52b9eae926",
+      "date": "2026-10-20",
+      "time": "22:01",
+      "type": "NEWS",
+      "title": "圖輯／中職 味全龍6：0完封兄弟 台灣大賽3連勝聽牌距冠軍一步之遙 - Yahoo運動",
+      "summary": "圖輯／中職 味全龍6：0完封兄弟 台灣大賽3連勝聽牌距冠軍一步之遙 Yahoo運動",
+      "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxPUGt4TjBhLTlTcE10N2JKNHVEbTlLUXBEdGgyWlZKZC01VHYwRVl6a19HWVNoZDJjaFJHVHd0Q2RzTkY0OGJBOEF4RGFBYmNrS2hRYk1zNDhoQk5wS0otdUpKMHo4bjhRaHp0RFVaR3dJUzRIcUt1V1dPRTJSUHFkSHFhWDlXWmVaWnFITHRJVWs4MDEyUjFpZmpQekgwYVJ3d2ppMWJEMF8tZDl3cVo3YUlZS2paU1lKNnJSSUtPR0pVdmdDX2RwRmFnWU05clVjLWFtSUFCRmFmUTdIR09GV0xDQVRnV0E3a1dFT2hSTWk5eHQ3OExDRDlOZ0JpWEswcXdBeUJWOHFVZHltNGxZTEY2a1JLU1RCRTB3TEdqdFFURE5qLVJza1I5RFBIdkxPTHA0RFppWVpNZGhaVDdERWRVelQ2b1RLUElraHhCQ2ZqZV9yWUtyTFZuSkd3TU16eGtIcDBObDBsOVlzT3c?oc=5",
+      "source": "Yahoo運動",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-edf75b411378",
+      "date": "2026-10-20",
+      "time": "19:43",
+      "type": "NEWS",
+      "title": "台灣大賽》期待味全龍火力被壓制 兄弟球迷祭出「屠龍手」陳憲章球衣 - Yahoo運動",
+      "summary": "台灣大賽》期待味全龍火力被壓制 兄弟球迷祭出「屠龍手」陳憲章球衣 Yahoo運動",
+      "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNSFdNekxOcUFrWEdmdW12MDNMMU0yZFJDQ1hJS0FjSFIzMTVtQ05DeFQyRWljLUV1RHA0TThibkJoQ0x2NmJZTGt5SEZhY0lQLVZCQzU4RTBNZ2xkWlQ4WFZVb2NYT0Q1NFFSbVNDa015X1hFbnBFSjN4MmIzeTlMLWloMHYzWWZ1cUNpRjg5Y3lFMjJ5VEV5RTMzRWVnY1BzcHRaRGxKNTQyV1V5TWZBcHJ3VTNHRG9SbHNSS3NxcU9pNDY3bWVyRGFENzlXSEpOaS1qcDJpaU9oNGV2ZmdieGloR2tuSVpCbXlGNFJ0SWpNZmJsZFc0ekJBRzVnaWwxTmdTSENVcEMtbHRESllhX3dDcS12NGZFOGtYY0FsYU9OYXBLemNvSDJiaUx5R05Tc0ZRblZtRzJWWVhqNF9jMENsZFEyQlhrRzJnUnY3MlNQeVdqN2VTOWNOczVQa1VLeHI1MWo5ZTN6WUFRWmZvTzRtVTI0ZmVmekVJMTlFNTdEQlpzZ25WOFJPNUJEQ1B5SlJCMGpVSTZUSkp3YVZ1THM0aVFQUGVKX1E5MDlBOFJ6QQ?oc=5",
+      "source": "Yahoo運動",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-eb0b250000a7",
+      "date": "2026-10-21",
+      "time": "07:07",
+      "type": "NEWS",
+      "title": "台灣大賽》兄弟前3戰2度慘遭完封！ 恐成味全締造紀錄苦主 - 自由體育",
+      "summary": "台灣大賽》兄弟前3戰2度慘遭完封！ 恐成味全締造紀錄苦主 自由體育",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03M2U4SmF0ZVNROVhkVWNLS211T2dhekZlanRYSGZ3WjJtRmY5QmRLTlFubDhhNVhTeHA4cWRsQXhFMFNBZklCUFY0UE01M2RCeFNSNktueURneFJmVUZYMdIBZkFVX3lxTFBlcTNOUDctd1hXM2xjMlVqWWZTbEk1RGwtOVp4ODQ4RVlGUFNfSjVkdmNFUXhtVEpNTHVnR1Y4ZEU1YnR1OHZmTG15MDB3N1RRbmxSYWk2UlVkYUVHRG1ybVdzRkszdw?oc=5",
+      "source": "自由體育",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-5a8affd4bd8a",
+      "date": "2026-10-20",
+      "time": "21:42",
+      "type": "NEWS",
+      "title": "台灣大賽》中信兄弟被逼入0勝3敗絕境！ G4推出鄭浩均出戰味全龍黃暐傑 - Yahoo運動",
+      "summary": "台灣大賽》中信兄弟被逼入0勝3敗絕境！ G4推出鄭浩均出戰味全龍黃暐傑 Yahoo運動",
+      "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxPRFRPVzh5UktmNzR0TFNrcmZtQmdlQ1NyNFNBc01MNWQ0VlVGUkRDcmc3cFpmdHFUczJ2STRzTngzcDZrU2JVaEFra0NoSHJfaHNqdVQzTTBvV0xFRWN0WlpmOHAzRWszSWEtdmh1ZXBvVzI0eGFCcmxYR2VqS2FMRThONHJ1bnZoOE9HdkROTGVxQmQ4WFB3QjdxcmNyb1d5ZWt0X1lSdlpwc18tdEdDWG1ualZOeTBwSlVkM1l3Mm04Qmg5Vmc4OXJ1eFdJTGRaalVwWkhHX3JDbGNwbTdLcy1RbkQ2ejZMY3Rob0xIakxRRkpsQ24wSmxWSkhFRzVkandNR3lfQTZuR2ZtdVQ2a1pSZVRHYUJoVDZ1VXdPQTRoNzdnSkdHNWhJZ0VnSFZRUHAySXdFbkxtY2psQzRCdy01eHBUSll5QlZfTlZBNkJBQzBOLVQwNUE0M3Yxb3VZYi0tVGxPb2dWT1ZDR1FKWEVuZ1lPXzZSRkpwR1ZCM1JKb0poUE9NXzIzNE1JZjlhSzluVGh2bXZ1NGVxZFpzZHN6Mzk4aFpYMTNVTk5jbzNjeV9H?oc=5",
+      "source": "Yahoo運動",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-39f2babd2ecd",
+      "date": "2026-10-20",
+      "time": "22:34",
+      "type": "NEWS",
+      "title": "味全牛棚表現超乎預期！葉君璋談G4黃暐傑：重點是投球品質 - ETtoday運動雲",
+      "summary": "味全牛棚表現超乎預期！葉君璋談G4黃暐傑：重點是投球品質 ETtoday運動雲",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE42N0xsb0ZYSHFZcGF2dGVQZHl6UFNGNkd0Z3prSXB4OU5CLV9aRjg5UmJBdGRLSXZVVHNzcko1X3YybFJ6VTg3RVdZS1piam530gFPQVVfeXFMT0I5cjNXYzM3bDBWVzBlNWhMeDNaRmRGSmxwaWhhRzQzRXRXdUpNU1FTcUNjNlo3N0J6LUd3X2kzOEpLQmc2OF9ld0xmaS1rTQ?oc=5",
+      "source": "ETtoday運動雲",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-8ed1f7c782ee",
+      "date": "2026-10-20",
+      "time": "18:05",
+      "type": "NEWS",
+      "title": "台灣大賽》味全龍G3不上場名單有玄機 黃暐傑、伍鐸皆入列 - Yahoo運動",
+      "summary": "台灣大賽》味全龍G3不上場名單有玄機 黃暐傑、伍鐸皆入列 Yahoo運動",
+      "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxNSXBJWmJVNlNuX0l5akFEemNUWVhOeHJxZWZUZnpLWGJ3dTlOVG9SVTJ2T1ZfcDdELXp6Znp0QW1vdW1URGNPY0p5cGxRS29xOUJlSjRkRXpfbUt4V1JqOHl2aURnTUlYY3pwNklsYm9oVk5pOFBHeU5ZUkQzc1pURHQ4cnFtLTBkMDdZX1Zhc3hFaG1IdG5XbXR4TDlXUG9IU1dBSzJ4Q2VHZkhubHpzTGZpVkN6MmxvdmlTWk9ndWtLb080REkyeGJzTHdEUnpfY29LVTRjeUs5N1pXQ0E2NV84LXlXbnNxeFExRGdGdlBaU1VsZ3FIMUlvbGVhcWpJRTd5UGl5clNEX1JDVU52OXVhdzlhXy12Z2ZoZlh2RHM4NXRwejhMak9pbjVCUFZiN2tFTTNHN19VNDcwMmoyRDkyZVhnZW9Xcm0yaWR4VXAxalRkRGpiMnl3ZXV5TWduM1R2bXVtRFhzcExCY0x1Qkk2ZDNYLVk?oc=5",
+      "source": "Yahoo運動",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-2b17271a6382",
+      "date": "2026-10-20",
+      "time": "21:29",
+      "type": "NEWS",
+      "title": "中信兄弟保送誤事 味全龍台灣大賽聽牌 - 中職 - 棒球 - 運動視界Sports Vision",
+      "summary": "中信兄弟保送誤事 味全龍台灣大賽聽牌 - 中職 - 棒球 運動視界Sports Vision",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9zRUNRVy0td1U3enQ4UkpWbmV5dzREQlhXY3BqN3lweG5CT1JNUmZqT2hqaUZhaWFWalBrOWllSzZjR29weDVrZU5DX2NYSHdJ?oc=5",
+      "source": "運動視界Sports Vision",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-ee5ec8b22ac2",
+      "date": "2026-10-14",
+      "time": "22:06",
+      "type": "NEWS",
+      "title": "中職／捐血就送台灣大賽門票 味全龍號召球迷捲袖響應 - Yahoo運動",
+      "summary": "中職／捐血就送台灣大賽門票 味全龍號召球迷捲袖響應 Yahoo運動",
+      "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxPZnc5ckxvZ3JfQ1FkYTNpTG5OcUVDX0hXZVpXb0JucTIyclkzQ3I4LW9aWG5vQUExeVVtVnZBRUhtT1NXaVF5ZXNFN2dWSXZqVkM5RXJhVXJWaHpzZUJRRVc0cjZURGQ5NlVTZnI3YXJ3YlBtQ09yUl94UWZNNXZiZGtOalYxOVRRNE9NSmIwVm5VZS1CaEJ1bTQ4NEhWN1dGMlRYZk1ReUpnall6dUhrazZVUnFmNVBKb00zaE1LaW5kNzctMjQ0NDJ4N3E5OG1ZQmc5Tmg3OXV2REhkLWpHSS0xdFVYbW50QWV5em5pYnVWaWZQQXNLT3NBckM2Z3JWV1YwR0dwdHNwV3BQcDFuSkVPRjRaOWZUOG1ESnc1YVZSNktPM0FwOU1YV0xEWlJYSDhjZUltV3Z5QW5SSEVtcUFPZXNvZENuU3BFUDIxTDQ2WVdCbnpkWHZvVkw1Zk5Ja0pLSmNTZmxNY2hRWkJIZGR0cw?oc=5",
+      "source": "Yahoo運動",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-64b9625c13ea",
+      "date": "2026-10-20",
+      "time": "21:40",
+      "type": "NEWS",
+      "title": "台灣大賽》兄弟3戰打擊率0.100史上最慘 G3投手狂保送送分不敵味全龍 | 麗台運動 - LINE TODAY",
+      "summary": "台灣大賽》兄弟3戰打擊率0.100史上最慘 G3投手狂保送送分不敵味全龍 | 麗台運動 LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93cVJ3ZExiQzZOX3N4bVhlekJJdmNsX1VVV001a3cxcS1fM1hKcUVCR2ZTYnBQZ24xX21wR3NnWG1rR3h1MlVGSVJtQkhSMlhzbmVYenV3?oc=5",
+      "source": "LINE TODAY",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-82b28b02e516",
+      "date": "2026-10-20",
+      "time": "18:52",
+      "type": "NEWS",
+      "title": "台灣大賽》味全龍隊史首見的開局奇襲！ 兄弟超美技化解 - 自由體育",
+      "summary": "台灣大賽》味全龍隊史首見的開局奇襲！ 兄弟超美技化解 自由體育",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMVzlZZEgwQ1BwMXNaSEFkeEZmcWV3RmFGTUtiVW9TLTFZRUVraV9QbW1RdVJBc05QN2pIUWwyalkySnRCekM5dzlPNUczeEJfWkJuVlJMN2JraXh0ampxNdIBZkFVX3lxTFAzeXQ2ekd4WlRDSkhZSjR3Tm9tSjhpR2VJX2otbEVpaW5Md2k4eDR3UGJjNjhMYW12UlZJd29ueEpMY3ZnUU5aS2ROOGprSGZBYUZ1cUxDbjBSTk1jMVpJS3hHbm5ZZw?oc=5",
+      "source": "自由體育",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-d84d633fdc3a",
+      "date": "2026-10-21",
+      "time": "06:01",
+      "type": "NEWS",
+      "title": "中職台灣大賽G4》中信兄弟vs味全龍 賽程時間、轉播、分析一次看 - NOWnews今日新聞",
+      "summary": "中職台灣大賽G4》中信兄弟vs味全龍 賽程時間、轉播、分析一次看 NOWnews今日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE50QkltakNuSWQtR2g4TS1DU25BRklHSnhyM3VqU0lKOTUtTFVELWRrWEhBZ3NvODFJV25qREtXTXlsdGtOYW4yWlh4dmnSAVJBVV95cUxNN2RDdlNNVl9FNzRsOGVaSW5ZSGFlVlFHMVFSdDA3NUZUTGpFSzFlc2c1ZVBCbEloYXNUdUtiYVBqMTBtaUtFM3hiZnVaLVA1MWZn?oc=5",
+      "source": "NOWnews今日新聞",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-1494ab3a7536",
+      "date": "2026-10-21",
+      "time": "07:09",
+      "type": "NEWS",
+      "title": "台灣大賽》3場「閃電戰」！ 龍象大戰叩關37年狂紀錄 - 自由體育",
+      "summary": "台灣大賽》3場「閃電戰」！ 龍象大戰叩關37年狂紀錄 自由體育",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03X2xGRzh4STJpZGFoZGZNNElLZmFUOEhMbVdDTndDdlI4RUhEOFRNWWc3MHRYR1N3N1IyMzV4R2ZJbm5DVWxQeWZmUDFNNGZMcUxYOXJjZGNmMGh1UmZJUNIBZkFVX3lxTFB1MXpDV2p0QjdPQWQ3aHRUajlyRmVxVTF5bC1ObV8zeTVfWFA2VFR4VWZ0NEN0SjNVZ1J0Z2tpeUFCa0VsemJYbGZIODRZV1J1N2hXZm5fem9ScjhBSGZ0Rm5JOTltQQ?oc=5",
+      "source": "自由體育",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-8cf5904ab20c",
+      "date": "2026-10-17",
+      "time": "06:00",
+      "type": "NEWS",
+      "title": "中職台灣大賽G1》中信兄弟vs味全龍 賽程時間、轉播、分析一次看 - NOWnews今日新聞",
+      "summary": "中職台灣大賽G1》中信兄弟vs味全龍 賽程時間、轉播、分析一次看 NOWnews今日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE56bG1lN3BOQ2tzdkdFbDhIMmlVSHEyd0dWNEhyZVQ4Y1Q3UDNWZUlNdWxrMnlsYlpEb1hKbC1qemFfdjZDN2F4NXR4NXDSAVJBVV95cUxOSURCRGRjUzYzR0FvejEwWG01VTlCcndSNjg1Q1h0MDFVelJ0THhRTVpDRGNmR1Y0UGp6SUlKSXltSnVVYXZoOTlUSzZkZnhxbWxR?oc=5",
+      "source": "NOWnews今日新聞",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-fc3b925fd2db",
+      "date": "2026-10-16",
+      "time": "16:52",
+      "type": "NEWS",
+      "title": "味全龍21歲左投黃侰程任意引退！今年才初登板 親揭離隊原因 - ETtoday運動雲",
+      "summary": "味全龍21歲左投黃侰程任意引退！今年才初登板 親揭離隊原因 ETtoday運動雲",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5fa0tpSFUzaG4xQzdVM0pVTDBUMGRSUzB4VV9LRHpMYWxYenA5LUpaMnZUMlBCX1RFZzNQVDV0dlFSaVB5azJLTFRuQmkwWG9u0gFPQVVfeXFMUF91U2diMG40MU5jdGxsMEJDVU1xV3F0YzJXOU4ybGI2ZUMtYmlaV0pHaGJ2QWNMWXNSTWhITzVLZVI1dTdFeUhhWkNPZ2t4aw?oc=5",
+      "source": "ETtoday運動雲",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-c51ef6e5286c",
+      "date": "2026-10-18",
+      "time": "20:13",
+      "type": "NEWS",
+      "title": "中職/味全龍台灣大賽主場票房創紀錄！兩戰吸近8萬人 超越2023奪冠年 - Yahoo運動",
+      "summary": "中職/味全龍台灣大賽主場票房創紀錄！兩戰吸近8萬人 超越2023奪冠年 Yahoo運動",
+      "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxQUEFQVlYtSUZaeVFzaVlXWUtBQ2JGZVhsbVFBX253dkFDUFVXUElKNEZXTFVUOWRlTmtHZUNDOExjVlJHVF9CLUtWSmhQX2pPQlRSNnlwY0dhd0lHbkNGR0VIRVdyaDRJOGs3ajRoQktvTUVlbmg1OS1XazZPaUFQcWxTem9hbDFBSlpWNk9fU1BjaWY1NEw5Q1cwOTRYM3pUVnRCV0t1RDVQckpGYXRjdXRFUXhDVXNWc0hqTzNxSzhOZFFaSnlkMDlXZDZWSTJDRFFleGdOcmFCV0NjaGt5UmNPQVAtd29nejZDWGJSMjNpRlRoMmVhODdWLUNFbTE1QTVRa2Zwd0l4Z1BmcXlidG01RjFzNEU1a2VQbUdrRzVRbTFUaW5nTzBoVjJHY3NjSGQxcFY4WDZNdGxqRjR0NDJsemxicmx1NlhxdE02MjJ5bmRpYjVLNHo4UEt5X20xd1VuTEs1S0l3c25UdXdaNmpXNUh0Q3JwN3B4c0JlaGVBejdHb2hEZWJkUE5KVU4zUlI0S0xUUmVHZjRGejlxb0liSGZlN0hIc2JZ?oc=5",
+      "source": "Yahoo運動",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-c954eb6f73af",
+      "date": "2026-10-20",
+      "time": "21:31",
+      "type": "NEWS",
+      "title": "中職/張政禹單場4打點建功！味全龍6比0完封兄弟 台灣大賽3連勝 - Yahoo運動",
+      "summary": "中職/張政禹單場4打點建功！味全龍6比0完封兄弟 台灣大賽3連勝 Yahoo運動",
+      "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxQa1NhMWt5YVFVZUw0Tm5ZaFhzTkdlSkVJOHk2YjJJZ3J6NTUtcTl1a2Q5d1p5ZDliNHlBQ0N4UVgwSGJCakVydFhVZC1qdWNsYS16bFdIZ05QZXlhcFpaNjBjQjVVak1kRmg4bm1yeVdyekxkOXZXM0g4WTRKOTBxMVVfNTE3ekkxWWdjZ0VjakJKRVM3b0NyMTJXWk5zbHZ6My1ZZDFUOGdVOFE0M2dVR3RXTFpDb3VrWlhST1FyWUZJVmdYLXhzMXJnVkhHRTFOUG4xMmxTSkNJMGJKSi1JQTBTM1BKSjd2dnBYS3E0YzQ0REZ4aVBkSnA5TFlyT1JDUlpXY1hoX3RoUEo4d1FjNjBfMGRjR3B1V0JCSjBuaUF3OWdmeWwtRlpTUnpLZmNfMWx3SzRFNzFlOGhfbC1MQmhrRnVMckxDcUQ5X1hfVG0wTVNOZExYYU1WQUFoM1lYV3lkS0RZcEFycVJ1Q2Y2TVd1Z1p5RjBVVDVPS0pCemZqc2RFNEVVUnhJLUwyVmN6N1E?oc=5",
+      "source": "Yahoo運動",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-1bd5b7235e0a",
+      "date": "2026-10-16",
+      "time": "09:00",
+      "type": "NEWS",
+      "title": "中職台灣大賽賽程一次看！味全龍、中信兄弟17日開打 史上首次「龍象大戰」G1 門票完售 - 風傳媒",
+      "summary": "中職台灣大賽賽程一次看！味全龍、中信兄弟17日開打 史上首次「龍象大戰」G1 門票完售 風傳媒",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9McFQwWGpMUElNN1dsZ3BjTVNpbjJrUndlS3R6ZERaQnNidHVvSlNPSkludXp1bGxQM0U4UjRfM0M1MjlaQVh1YkVGMjMzLVlw?oc=5",
+      "source": "風傳媒",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-47085c359e24",
+      "date": "2026-10-20",
+      "time": "15:42",
+      "type": "NEWS",
+      "title": "台灣大賽》味全龍搶3連勝打線變動 劉俊緯先發DH - Yahoo運動",
+      "summary": "台灣大賽》味全龍搶3連勝打線變動 劉俊緯先發DH Yahoo運動",
+      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPSk5hOHdHWFNWczdQcHlNVFJMa0dJaDJ3Tlh5ZzdyZENybDhYUHNwdGQwMzVFOUVlak5OZ0ZKbmRHYmpIZzJ5V0V2RFN0QklXT1dHZmc2SVBZOFBaaGNkOVJxOXZYUGxCaGczSUJLcUp6VnV4dmtZUEZMc3lzaGpuYW44dzM4MDQ0c3VWZ1NuMzNoMHBFN3NkR0xZZHpxdHJsc3VqdWVINU5PWkNkMmRUc2dlenB5MUNLZEZ6NFF6RUJqQ3JCNlYzOVZhNTJ0TEJPdjVDSFZZTHdYS19hTW1KWnBOb3Y5NzUxNEx2YmFwVGhwYWNEbmt3LTFhNUQ2NWJ0SUo5ZjBsWEM1NWh6QkZYd2o1M3ZjdlZNTGlqeXUxX2h1NW53NW1DZll5eHgzS0x6SFUyMXR2Q1M4Q1U1WHRTNGlNV1lUR1k?oc=5",
+      "source": "Yahoo運動",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-01b46a513cb4",
+      "date": "2026-10-21",
+      "time": "07:05",
+      "type": "NEWS",
+      "title": "詹皇領軍七六人開幕戰首秀 味全龍力拚橫掃中信兄弟 今日賽事預告與轉播 - 自由體育",
+      "summary": "詹皇領軍七六人開幕戰首秀 味全龍力拚橫掃中信兄弟 今日賽事預告與轉播 自由體育",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByaUpfTEpJcWI5bkJIZm5QZ196dzhsNEZYX3Z1ZVp3b3BnTmd1TmJyU1U5cmFnZkhHbGVwMVUyQk9UdnZtNjdvWGRYWEtXYTFDc2w3QnhVcXMzWE10NkgyRA?oc=5",
+      "source": "自由體育",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-bda29fcae6da",
+      "date": "2026-10-20",
+      "time": "21:36",
+      "type": "NEWS",
+      "title": "中華職棒台灣大賽》鋼龍7局無失分壓制中信兄弟打線 味全龍3連勝聽牌 - Yahoo運動",
+      "summary": "中華職棒台灣大賽》鋼龍7局無失分壓制中信兄弟打線 味全龍3連勝聽牌 Yahoo運動",
+      "url": "https://news.google.com/rss/articles/CBMiyANBVV95cUxNaFA2MEdJUzFJc1VHNTNKNEpnQUlOSk9qdnZKNEhGREItLW8ycUlBVEs3LVdqakpWckVfUnlhNUZ3Nk5MaEtZcF9DZ0JtRGdYTDdKRE1nVTJENFJGS1lEckM4bHdfOXkydXVob0lseExKX3RXRXhsRGh1aWFXQTNaSExxMmxzY3RPTTRob1RPRWJERnJOVWJPWV92c2VmRmR3cUVXRFRMc09KSS1qb0g1Q1YzbXNKalVrQ0Zac0VTcTA1eGFIaU83N0JZblV2eGVHUFUxRmpfYkJuazdrdC1hU1FBTjV3cWhka25wNkJ4dmxZTzhTSW5EWlRlYWNsa05Bd1FIY0d0S3hiRlVPLVBNNnVJdlBRcUx0S0xFNVlmV1lEdTg3MXhxdVdIeFFlWGphVk1hOEtJQUtMR0FzNjdqMU5QRVBEZXVxZGkzSWFidkFhbjdwUlBhYTNKRjZyb2lfS3djTXMzaVY1bHhuX3NtalVBYVNLakZVU2drdG1ralIwd3NqZ1Z5R0VXRnlDeDl4SWNZSGJiYXRjS3I5ZGxpWnNvZFhZTksteU5GZnNGZmpRbW1sajZzYzAtRDBNYWNuU1FxVWhaTVQ?oc=5",
+      "source": "Yahoo運動",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-608eff8def66",
+      "date": "2026-10-21",
+      "time": "07:09",
+      "type": "NEWS",
+      "title": "台灣大賽》3場「閃電戰」！ 龍象大戰叩關37年狂紀錄 - Yahoo運動",
+      "summary": "台灣大賽》3場「閃電戰」！ 龍象大戰叩關37年狂紀錄 Yahoo運動",
+      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPc3EyR001clE0TzJNcWFCVU43cG12MUFQUW9sR3kxNktNRE5oT2JQTkhGMDNhc3hEVXdmRnlwX2FTbktDaXBWemgzSDBnVGZTb0s1SUhMVnAxcnJvWG1IRWVxZjUzN3k3bXdqZjFOTmtqWG4xVU12Ny1Qb0p5RlJTWDRKWmduWThfMEkxTXY4YU9ZeGEycFV0M3lxU2FUem1lR1N5MzZQTE5xX3YyX1lQdldYMF9uMldYbm9kZm9kaWx2bUNobzRva3g5c0hWZUdGS2ZMRlBaYWhLQm1Oek5GMWZKRlNLelFEQmc4RHZLYWxyWmdKTUUySUdrdk96OG0xLWpLUS1kU1U2N1FOY1dVM1FSZVpGRmhYSDJOOHdmNDJiVmQzemFZM1E3aGdYYnJGbDFEUlM5Uk4zdkQ4?oc=5",
+      "source": "Yahoo運動",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-34cf312b3f00",
+      "date": "2026-10-21",
+      "time": "13:01",
+      "type": "NEWS",
+      "title": "【台灣大賽直播 G4】黃暐傑對決鄭浩均！味全龍 vs 中信兄弟 10/21 轉播、線上看 - 蘋果仁",
+      "summary": "【台灣大賽直播 G4】黃暐傑對決鄭浩均！味全龍 vs 中信兄弟 10/21 轉播、線上看 蘋果仁",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9iMWZEZ2N6R05KeVA4aEtBdElMSGkzYWpuaGEwbjBIZmNWT2ZSQmJOVUJ1YXNDVFBoN2x6djU3NWRXeE52bVVKSFQzQW8?oc=5",
+      "source": "蘋果仁",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-d35c74569b10",
+      "date": "2026-10-21",
+      "time": "04:10",
+      "type": "NEWS",
+      "title": "中職》味全龍聽牌 兄弟今主場求生 - 中時新聞網",
+      "summary": "中職》味全龍聽牌 兄弟今主場求生 中時新聞網",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE12U1pYeUhrQ1U5SlNYNFhUenJFd09mYjkxMlEyS1Z1QnJqYXRVd2p6RlVNV1hteFQybjZxbkEwaVItYjhzRlZ6T0tSTUh0Yjd4QUZ3WTJlT1RSa0VCeGVnSGRWbHRoeDhLT0Nj?oc=5",
+      "source": "中時新聞網",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-77abe7e8050c",
+      "date": "2026-10-20",
+      "time": "22:04",
+      "type": "NEWS",
+      "title": "台灣大賽／味全龍3連勝聽牌 葉君璋坦言：真的沒想過 - Rti 中央廣播電臺",
+      "summary": "台灣大賽／味全龍3連勝聽牌 葉君璋坦言：真的沒想過 Rti 中央廣播電臺",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5tRW9ndE1KUUV0T0VmUER5cGFIYjlmSVVscDRTZTZWLXRuTVEzZ0xHRm9wLXJhTG9VeEFUdjBQTVF4QzhZcXJlSDRCOFZUQnhSSGhrR01KRQ?oc=5",
+      "source": "Rti 中央廣播電臺",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-aabb8084a998",
+      "date": "2026-10-19",
+      "time": "12:08",
+      "type": "NEWS",
+      "title": "台新新光金整合集團資源 力挺味全龍爭總冠軍 - Yahoo新聞",
+      "summary": "台新新光金整合集團資源 力挺味全龍爭總冠軍 Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQTzUwSGZtSE9nUi1ob3BZRlhuQVVydjBtWGRYNFdhVmtwUVN0QkFocnhhQ2ROaUhEay1GMEd6UFFSNUF0UVJHVEE0RWhsTHB6dmRMTzVURTY0dHRzalMyRndNS3FNay1ZTTlRb1ZJX1BoWmFLYTQ1Ukw1WkRZRGdYZHNtR2RZUFpQeEVxbDVtdTBvbFJaeEhkcXM5Q1NQQm5ia0s1dHZyX3pmNWhyalNFMHpENTJrTXFfQnFzenFfX2tOODJJb3JMSThFN19zTmJ3eURMTGtlR3dRN2J1OUpjVmY0ZUhNQUFZWnByNmVweXRza3JVMng4YnBXNlRRM2l0cjNQbVlySEdjT3dzYmdwbS10TkhyeDlYampGbl9JQlZjQ1FleURmZVhPTkZCQXdNLTVVMEdOV1FHa25WVU1hUzNFNGc?oc=5",
+      "source": "Yahoo新聞",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-f1388dee1151",
+      "date": "2026-10-20",
+      "time": "20:52",
+      "type": "NEWS",
+      "title": "鋼龍7局好投！兄弟牛棚崩盤 味全龍3連勝聽牌 - Yahoo運動",
+      "summary": "鋼龍7局好投！兄弟牛棚崩盤 味全龍3連勝聽牌 Yahoo運動",
+      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQM3ZudGI4SVluYWhyeGRiT2NHVExIVW1ZbHdIdmNEeFJMLVo2cXVRN3p1RFZBX2VwaWxubEV2RzF5U0xGVndxUUhfRHZuZXU4X1ZmdDlLZXJQWndwbER4cEJjbnVrT0pCVTJSeDVnWnF3NUZ4TzJyc2VNOFJqNnJySGNCc1ZfOUVhUkpDODdBZC1NanZRZ0s2YThBRVVDNnRBcjQ5c2JhT1ZCMXpZVWNNeGVxMlNKaHR1ck5CWWU1VkJNOGFTQ1JzbnpBOGRrRFlweTNTaDBYNThXb1RDcEQ5bFZBRGQzb2VPLWxQbW0yTGhmRG00amtWcFdmMFQ4MjVNTzNkR1l1cFNsS1didDZCaEtRdV9zaE5BMGhLOEFrSTZ0R2JPQzRjdFhUa003aWxNXzdFNFVabXg5UQ?oc=5",
+      "source": "Yahoo運動",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-d0dbb1b99a6f",
+      "date": "2026-10-18",
+      "time": "20:24",
+      "type": "NEWS",
+      "title": "CPBL 中華職棒. . ⚾️ 𝟐𝟎𝟐𝟔 𝐂𝐏𝐁𝐋 𝐓𝐀𝐈𝐖𝐀𝐍 𝐒𝐄𝐑𝐈𝐄𝐒 味全龍🐲台灣大賽2-0領先 #2026中華電信台灣大賽 #2026CPBLTAIWANSERIES - Facebook",
+      "summary": "CPBL 中華職棒. . ⚾️ 𝟐𝟎𝟐𝟔 𝐂𝐏𝐁𝐋 𝐓𝐀𝐈𝐖𝐀𝐍 𝐒𝐄𝐑𝐈𝐄𝐒 味全龍🐲台灣大賽2-0領先 #2026中華電信台灣大賽 #2026CPBLTAIWANSERIES Facebook",
+      "url": "https://news.google.com/rss/articles/CBMiswVBVV95cUxPRm9jd3JXTTZuU3U0WGtjSGZtTnB4QUJKTFdfX1BmQ3B0dGI1ZFZPR2tWSURZMWpLbGlUTGJVd0xseE1TbkFyVVdPU1JhVG1veTVUakNfQmtpd3VCeTI4UjdHRXJNUEdvcjFIQmRQTUwwRjRFSi15c0szWTh4QUV1T0FZQXJyYkdPR3FxZnphRlN5MWY3d0RILV9VNmVEVW5WM3czVGFMNWs5ZFVYOUNhM2c5YU5RZkJuM0lSWldTcjdNSm5VdmZyME9WWVZzOEdmTVNWOVJ1RG1faEJsT1h1RWxBUi14S1NFbVc1WF9wUjlRV19MNXl3b2haYWdyQ0JxcnZnVktKN0hKUkZNS0c0ZTZ2VEVidEljRkMyb3RUMXh0ZTBheTZ5SXVLYkh5emFFamRjcnBISlBTMS1uSEl5YTV2dFVfY0xDNzVkQ2xaTUtqeDJRYXhGYmd1aDlmamFHemlhTGlKX2VaOTVRREVMRXQtYVQxeE0tZzVfYU4teGdjeGFGYVRZUldCbXR3S25STUdJSEw3T1ItTVRZV25lS1pERUpBeVZwcmVFU2c0RzV5OThkVnk4NXk3Z1NBXzk5RUMwOEhabGNiV0h4Qi0yTlRfMUJudWlZbU1MdkNpNVp3T3RRNENhOXVIUHFiZUYyaGRBT1pzdVE0WkJpRjJBZ1ZMWTh0d3hGV1FEY2JXQVZyQ2MzclQxN2lybzZ5TjgzeVhGbVQ4Z1pGckthYWZLYWdhdmV1UHhOSmJjTGd4T3AtalBDcjRaMm1Ebi16dVR2aW5CU1B2OGV1d2ZtLTZIMnh6b0dQWm5Ib0I2d3ZMVnhXT3lXanQ1U2Q3UUZSNU5LaXAzZmtXQ0JkM083bVltLTVZSlZPVDFGQnhmd2JmQjY3LVR0dnRGamlpaGRjaDNPUmJv?oc=5",
+      "source": "Facebook",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-b6354f00e2bd",
+      "date": "2026-10-20",
+      "time": "22:52",
+      "type": "NEWS",
+      "title": "中職台灣大賽味全龍聽牌｜新聞事件整理與重點摘要 - Yahoo新聞",
+      "summary": "中職台灣大賽味全龍聽牌｜新聞事件整理與重點摘要 Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5naDBzWm1CQnNnZWp1M3hTTllQSGdjaDFvWERXcTM5eGI5cXdHRmJVUmc0d05jamVoYS1XOEtWd2tBM2F3TmlOQmRfVEMzY09MNHRTdnJ4MkRZTVVEZUVjamdTOFRNcmNQQnVkcTRFb09Ed1FOUGk2UW0yNzJlUQ?oc=5",
+      "source": "Yahoo新聞",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-3c7f9fb141f3",
+      "date": "2026-10-20",
+      "time": "20:58",
+      "type": "NEWS",
+      "title": "台灣大賽G3／把中信逼到絕境！呂彥青罕見自爆 味全龍三連勝聽牌 - 台視全球資訊網",
+      "summary": "台灣大賽G3／把中信逼到絕境！呂彥青罕見自爆 味全龍三連勝聽牌 台視全球資訊網",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE96SWdWZlVyZm5YbTZiSWdxYlN2eFhCSXJicGQtMnRZNk5OSlJRY0ZaRGpmMGNsanB3Mzl2M0NsUUY3QXNxS2VZNE1Uc1VaZjJHdVlRSTEybw?oc=5",
+      "source": "台視全球資訊網",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-e1d9921bd47f",
+      "date": "2026-10-12",
+      "time": "15:00",
+      "type": "NEWS",
+      "title": "中職37年台灣大賽》史上首次冠軍賽龍象大戰！雙冠王蔣銲領銜 味全龍豪華投手陣迎戰黃衫軍 - Yahoo運動",
+      "summary": "中職37年台灣大賽》史上首次冠軍賽龍象大戰！雙冠王蔣銲領銜 味全龍豪華投手陣迎戰黃衫軍 Yahoo運動",
+      "url": "https://news.google.com/rss/articles/CBMiwARBVV95cUxORHFWbjh1WEc3dXFzaVJibklPX0VyZnh1NGh0d3JMdlNIRXNGM1ZiSzhTcGEwWE9LLTZieFV6Nmtpa25LRkFsS2tIMkw0Y2p1emhNQ1g5dk1ERU56YU9FTUZkcnhrdUNLTVFuYml0VE5ZVnNJc0FyZzFxREFGdGZGQm5PNzdwQ3Y4cXU4NW11NVpDeTNlUVZUdWFoYnFLSnEwaXp4NW4xTUx6WndpSnBZVWlub0NWQWRxNVpINm1ZeFFoUjRoTGhOa0lEb1JwWjZxakVMUllIcXYxX1lQczVKSk9vUmtLQmZmaFpLSERUMFBqTHBmbnE1UHlLaG44b0V2VjhmQmRiQy1xY2taRWlMcnZlNC1mMXFTQ1dLNGdFUWQ0eG53R24teU1ic0owU2VhUVlndDBSci1rRFN3M0FJSHUybG1FNHZhN3dleVlvbkVUa1RpRkdZbEJ4cjFHOTd5eTZCQno5bWVVWUhMbzljYW9MeS11QUcxRkZkNFBuUDFZcDhNTXJvczU5el8wdjJUZDFMTEdLOEhIVTFwcGxPTzVFREk2X19Zb0J5TXBQaXUyXzZwZUFxWWdVNnlqMzNabzdrN3ozdm5CcTVTQzAwU1dEYzZTVWtrMGJYZndrQTNKVGpNc1Fxd2UzN2stNF9lUVN1T19SWmdvNXFsaFpraVhCb0VXRzNlV0tPZDJNdXhqMGc1WjJJX0JTV0liWnZ2eGxTdjFqSE5JUXBJbUFSazZBYmpEYWxQYzYyNWw0VDM?oc=5",
+      "source": "Yahoo運動",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-08a267924820",
+      "date": "2026-10-17",
+      "time": "20:03",
+      "type": "NEWS",
+      "title": "圖輯／中職冠軍賽首戰 味全龍3：0獲勝 - UDN",
+      "summary": "圖輯／中職冠軍賽首戰 味全龍3：0獲勝 UDN",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE56YTN2YU5qeEJiZjE2eDNub2JWWmRWaXJSNlVpcGxRcElyejBoWUhoQWExQmhkeUI2UDBOYzhwVmZWaXoxTHdtZHRDS1hSSmh60gFWQVVfeXFMUERmdzJraUt0Tk1yazIxWGJNeGlGOW9vNG1kWGlHLW5QcTE4Z3dXVUJVNDk1SzFlbXRvNFNfR09teExJQkM0VkpOTFc1Wld5UVlJU0VWc0E?oc=5",
+      "source": "UDN",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-653d8cdf0073",
+      "date": "2026-10-20",
+      "time": "23:09",
+      "type": "NEWS",
+      "title": "台灣大賽》味全龍開局3連勝直接聽牌 葉君璋不認為打擊很順暢 | TSNA - LINE TODAY",
+      "summary": "台灣大賽》味全龍開局3連勝直接聽牌 葉君璋不認為打擊很順暢 | TSNA LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORENaV0pINERkV3NoUTV6ZlhaZHA1TXhRTXhXTGtTb3FtZDVQX3hjTlhmUXFnTEhCNXFUWUN1Y3ZQRzJzbDB4RlpfQ3BnSUpWNzVpR1hKeHlXVk52akt1dXR1aXJGMnpDZVE4YTZtN2lqemk1OUFLTnktR2QtNG9OeUZWTQ?oc=5",
+      "source": "LINE TODAY",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-1d747ab0e985",
+      "date": "2026-10-20",
+      "time": "21:18",
+      "type": "NEWS",
+      "title": "台灣大賽》呂彥青0局登板崩盤！張政禹內野安打味全單局灌4分 味全6比0贏球、3連勝聽牌 - Yahoo運動",
+      "summary": "台灣大賽》呂彥青0局登板崩盤！張政禹內野安打味全單局灌4分 味全6比0贏球、3連勝聽牌 Yahoo運動",
+      "url": "https://news.google.com/rss/articles/CBMigARBVV95cUxORTZCY2dpWGtXbDRCc3hvcHQ3VGx3LUxWTkZCTnFPQ2RTVDI4NmxVR2tfQkVBbGhyamxkSkNyV09iR2kwb1FxRTM2QUtWb3VjRGpyQUk0X0ZFS1VwSFFIY09ON0JCZmdIZldhSXlCNFNUX1UyY0h3Y2JtNlJMdGFyUUxsVURUNlpFZWhsT1ExakRWaFdoRHQtUmpLR2tscXdVakhhRjJaTkU5azB3dm9GTndhQTU1ZTVNSkFybW95cVppNVdaMW9wak4xbUl4NnNOUENvYnB1cG1ySEhMS2dsOUh1Q3ppaHZTMS1oaTI5dUQzZ3loQ1hBUXVKX3oxcG1SdlVfeS0wT3BhTVRGNlEzV3pwSzhkcFJGZGI0QmFDN3JIOXNiQnc1cHltOUhNZWw1c2ZGbHBoY2ZsZGJ3TGtTeDJ6MnF4UHl1TkFqTEpLdjhFUUNnZV93bFRDd19SeUtuMnZLZVRCRXl5QWtDWDQtLU82cTdUMWloVi05emgtVzRTVUZQaVQxamFFUW1OQ2hiMnNkZ3JzQkNEdDVzMFNBZ0ZHb2dxNEh5dFVRVF9qeFd6SWdEYkJZbE1CTUpRTnlxNUw2NldmMkdNdUpSeUg3cU5JQVB5MHFMZDFQT3FHWW1La1MtYXE5MTE2ajg0dW1xcTlIWGtFU3hPbnFUOUNoeQ?oc=5",
+      "source": "Yahoo運動",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-4b07fe3e02da",
+      "date": "2026-10-20",
+      "time": "15:50",
+      "type": "NEWS",
+      "title": "中華職棒台灣大賽》味全龍G3打線再微調 陳子豪扛5棒重責 - Yahoo運動",
+      "summary": "中華職棒台灣大賽》味全龍G3打線再微調 陳子豪扛5棒重責 Yahoo運動",
+      "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPbnJkY1IweXhxbmx0aTQxcWlwSjdSdWI3NExYSlQwS1M5UTVsblNjSHR5ZHl5VEE1a2V5ckZCc205ZC1aNWxCRGltQ3NTM1NiRjNFRUcta283dmlrQVFTUFlwV1JKU2xaaHFaZnpnQ2NHanE1a0h4Sm9US0tndS1EUUJPNnc0MW5IaDh6TmNTbXdWOWVneGUyclRscUZyZDllM2lPaUdENjE2RW1udVhPUl9uSUQySWxjeDd1TUlNZklJNWRFZXNtdEZxRHY3ODNPWlFmci1RRFBuZ1BzYkVyNGpmckhXaWVmREE0Q3p6OVc4MVltLWNja1UybUVxaHk5OHBPLUR5aEpEbUM1cDZRX0pEU1hua1gzVkRqR3dHb0M2M1lLdi01cmNwdVFtc1dZTEJ1NEViVHlhZ0pZQUtvVERGeTVwMUdoVDlfN3k5T0pLMXF3T3UyZVg1UEEwQzRlRFMtMFRUamVGaFNFa1RBQTMyVG14aFoxWjAtalNrZ3ZmZw?oc=5",
+      "source": "Yahoo運動",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-f3bf81bd3c14",
+      "date": "2026-10-20",
+      "time": "23:01",
+      "type": "NEWS",
+      "title": "味全台灣大賽打3場就聽牌！葉總坦言沒想過：中信兄弟整年都難纏 - NOWnews今日新聞",
+      "summary": "味全台灣大賽打3場就聽牌！葉總坦言沒想過：中信兄弟整年都難纏 NOWnews今日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5tenZsZ3oyekZfVEVvdmNVQWhmQ2JnZHNrWXRDdE5xcVVCaUNNSVZ2amtKdC1nemJudlFhY2lQVDRFcFhZUDVHdEdhalDSAVJBVV95cUxOMGxWT3pGWXVQSmFJVmpyd215aWdRa1pJTEJQeDB5UEpzaWNBM1pISkdHbGl1enJyVElFQlR1ZnAxSWV3cFpmZnZGSVVRVEk4cUtB?oc=5",
+      "source": "NOWnews今日新聞",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-2063bc6dc3fc",
+      "date": "2026-10-16",
+      "time": "14:31",
+      "type": "NEWS",
+      "title": "中職／台灣大賽明開打！味全龍32人名單出爐 割愛魔神龍、吉力吉撈 - TVBS新聞網",
+      "summary": "中職／台灣大賽明開打！味全龍32人名單出爐 割愛魔神龍、吉力吉撈 TVBS新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAzQjlXMkVIcUVzLUVzUzEzRG83dFhlQjUzUEJ5anBGbEtob2I1dEpsNzROQVROOE83eHlMazBNeHIyOGVfcjgwYjRIdUI5WU9wOEhXS3JIWVJYMDEz?oc=5",
+      "source": "TVBS新聞網",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-49d8647effec",
+      "date": "2026-10-21",
+      "time": "07:46",
+      "type": "NEWS",
+      "title": "中職／兄弟0勝3敗陷絕境！龍象G4先發出爐 平野惠一喊話 - 東森新聞",
+      "summary": "中職／兄弟0勝3敗陷絕境！龍象G4先發出爐 平野惠一喊話 東森新聞",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9sdW83U0k0NGpQYzhxSk1qei1heW1aYURadEctem1uN2N4RlYyelMwR29sSkZDY3BRbjhOY0ZneUsxR2R0aWJOVlNlbFhuaUVTTDJR?oc=5",
+      "source": "東森新聞",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-84fb928ff661",
+      "date": "2026-10-16",
+      "time": "15:03",
+      "type": "NEWS",
+      "title": "台灣大賽》對兄弟沒輸過！ 味全龍公布G1先發投手 - Yahoo運動",
+      "summary": "台灣大賽》對兄弟沒輸過！ 味全龍公布G1先發投手 Yahoo運動",
+      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxObVBDTV9ZMl9sRGVCRkNYUHBZNXNDX0VRQjIySmF6dGJSd2F6YkxfZndYVWVjdDRfa0I0ckJ3QXdMOTc3OTdlRnU0Ui1VSElxQ0FfcU9YVHhmc3RmN1RUaGhaY2ktVnBrUTVKU29XMjFvZmR4aHYxXzdsdndtSDh6TlhYYVd1bU43WThpdW9sNy12QWNxb3ptSXV6dHBWVWJydXNldVFBMUJscDBTSDc2LTUzSUw5SktKTFdmbndocV83bHpPRXpVeDJENHVqeEZsTjBtRVctTnNpOUwydnZ1V1JyR2hjSklGa0FWeW5DMHAzS2VmTS1lMmlwWHh1ZzR2dFJ4R0xxSm9SNjdYYlVvbzV4ZXpqSFRHYUlnUWhXaGRuNml1ZjZwbmF5TUZ2T2M4WVBNTVRjSGphM3IzaGZ0cHl6RVJfZw?oc=5",
+      "source": "Yahoo運動",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-9857cd8eaad1",
+      "date": "2026-10-18",
+      "time": "19:43",
+      "type": "NEWS",
+      "title": "中職／曾聖安炸裂逆轉3分砲！味全台灣大賽2連勝兄弟 - 東森新聞",
+      "summary": "中職／曾聖安炸裂逆轉3分砲！味全台灣大賽2連勝兄弟 東森新聞",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBCaUJPQzh4R2ZLUVRsbmkxeWU4OEdTZmstbVZzazQtaHppOXhyTXBaYW5xUUpvMzNQSFNRSWh5R3BqNVFGa3JGcVN2Qzk2UF85ekl3?oc=5",
+      "source": "東森新聞",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-a55e6e32c46f",
+      "date": "2026-10-21",
+      "time": "12:54",
+      "type": "NEWS",
+      "title": "味全龍張政禹秀「閃身步」 包辦4打點助聽牌 - 鏡新聞",
+      "summary": "味全龍張政禹秀「閃身步」 包辦4打點助聽牌 鏡新聞",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9EdV9aZzUzRlE5dTNoN0Q5bU9OZ1d2RDFyLTVqeFdhMEtoQmtQYVBvNUY4LXBPQUFHSm5VY3FpVmxzVEhKb2xvaEQ0QjktT1VDVldkN2ptYUrSAV5BVV95cUxOTGplZVZjX09wbkYwMWY1djJLeTJHVTVVM1o0WUdyaGZoTUxKbGtRTGxGeDRJQjE3cy1xUG1hRVJOM1JHQXdMUlNHYm5MSzdIV0dWWDV0Z3Z5OGx3ZXRB?oc=5",
+      "source": "鏡新聞",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-f1eed712472d",
+      "date": "2026-10-20",
+      "time": "22:42",
+      "type": "NEWS",
+      "title": "台灣大賽》味全龍開局3連勝直接聽牌葉君璋不認為打擊很順暢- 棒球 - TSNA體育新聞團隊",
+      "summary": "台灣大賽》味全龍開局3連勝直接聽牌葉君璋不認為打擊很順暢- 棒球 TSNA體育新聞團隊",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5vSVYtY09IZkFOLUdRclJDbjY4ZW9yM01mOTFEa1Y0LVVmVmNhUEFpVmktYVBKSTY1RW5UM2tWejlNekFKY0E?oc=5",
+      "source": "TSNA體育新聞團隊",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-7c5f58073251",
+      "date": "2026-10-18",
+      "time": "21:18",
+      "type": "NEWS",
+      "title": "台灣大賽G2味全龍再勝兄弟！ 曾聖安逆轉3分砲寫隊史紀錄 - Yahoo新聞",
+      "summary": "台灣大賽G2味全龍再勝兄弟！ 曾聖安逆轉3分砲寫隊史紀錄 Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxQa0g1YzdLZUpHRVB4di1CdmdhSU9rYjZsbzgxOWFPOHhoRjV4TnFIRzY3cnMwRk9WRnVHUDFDc3JDeFB4cWFWQThRdEhRdEY5UFFUZUhMNnY1dTYyUUZMS1N6MGloeWlTWXk2TDEtZXpsaUY2T3ZyUTlwSTJvT2d4bjhFY3AwdGg1Uk9FRkhqMXgydlRELXBXVTVLM2ctel9RMkRVTEtOeFZoUnVZNy0wT2pIeXgxS19rWThTUDJILWx6R0lGcnU2QUEybURNN1N1MnlablRORHJjMXUzendSR253QTJEcjVuaHVpeXNiZG5hVXd3SEIxN3kzZlJEZHd6QWtiZGVLZ2lFRVdoRWlxSjI1VnpwYXRIcjdEQWR2TFpmWFE2aW02X2JDcTB6N0JoSV8zd2lnWXB2N0JWamw4RUpuUWpqRllmSkRlMGxPbnh6cGdEVTZUREg4TElRRS1GdmdGRXBCNmZtVWJ5?oc=5",
+      "source": "Yahoo新聞",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-4755b7b9bc26",
+      "date": "2026-10-20",
+      "time": "22:24",
+      "type": "NEWS",
+      "title": "台灣大賽味全龍3連勝聽牌了 明天G4力拚封王 - 壹蘋新聞網",
+      "summary": "台灣大賽味全龍3連勝聽牌了 明天G4力拚封王 壹蘋新聞網",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVlVfV1VsVWtocVFQN1Jlby1rcVZDNVBrUy1COXZIV0lxMDUwUkdaZElBTE0wYlBpNlZ1RHlUS3d0T0JQSWNsX2ZaUHFHS1NWQjV4TWJWSDBrc2Itdml2dF80eUd1dDZEX1lnMjJzS0V5b3RVeXJvYXRUbURWZV9rWA?oc=5",
+      "source": "壹蘋新聞網",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-ad11d8b24d7c",
+      "date": "2026-10-21",
+      "time": "10:11",
+      "type": "NEWS",
+      "title": "台灣大賽》兄弟打線熄火寫最慘紀錄！前3戰9安、得點圈打擊率0.071 還恐破紀錄 - Yahoo運動",
+      "summary": "台灣大賽》兄弟打線熄火寫最慘紀錄！前3戰9安、得點圈打擊率0.071 還恐破紀錄 Yahoo運動",
+      "url": "https://news.google.com/rss/articles/CBMiigNBVV95cUxQdm1EblRQdXNiMXpEc3RIYlNVVFFWY3IxXzVsdGlqSFd4STZLOWI5VUdNQlEtLWZaakpGTFpObUhaYXg2VHhUWElwekJ6dmRtM2N0ODB5RExTaTN3NXRoVVpWRmlzZk1ZZ2ZpMldzTXFwNFd5NjM4S29XRTZpUGFjaWVSRnVUQTVzQjRHNW91T3FBYkxsYnNSQXFFZE9wVU5ubThpOE0wbDV4cUNBeG9YNVFsNkxxbVFMMkd3MVppU2lFa2RJYW5CdzJsR2ZDT3dfanVGZ0JwWi11d2c0VEJGVHVCX2ZEQ1pxR1E0TFc5cVU4b2QtazJ6X1BTR0NaR255akdFcGR2NFBhT0dueXB4NWswczY0WFZvdEZPR1c3WnZRWFZaRjNaazhjeG1kdURiZHQwTEhDTmMtc3Z3SGV3T2hHLVpNTDZ3LVV2ZGdEQzhiV1dvQWYwTEtxZmF5Xy16TXlGVWtnTkVDZFpJN054dEhJMVpJMTJZM3M2YW5ieEotOWxOVll4OUhn?oc=5",
+      "source": "Yahoo運動",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-434e28e4829e",
+      "date": "2026-10-18",
+      "time": "15:00",
+      "type": "NEWS",
+      "title": "【台灣大賽直播 G1】中信兄弟 vs 味全龍 10/17 中華職棒 G1 轉播、直播線上看 - 蘋果仁",
+      "summary": "【台灣大賽直播 G1】中信兄弟 vs 味全龍 10/17 中華職棒 G1 轉播、直播線上看 蘋果仁",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE56ekY5Ui1QdXRYNzdRSHFZSU9vTVJUeWxXWjRRcnM1UVlLYkVOT05DWW5hSWxrOWhveTZXTDFJQzM0THcza2VJQkotNEw?oc=5",
+      "source": "蘋果仁",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-b894bcbce180",
+      "date": "2026-10-20",
+      "time": "18:05",
+      "type": "NEWS",
+      "title": "台灣大賽》味全龍G3不上場名單有玄機 黃暐傑、伍鐸皆入列 - 自由體育",
+      "summary": "台灣大賽》味全龍G3不上場名單有玄機 黃暐傑、伍鐸皆入列 自由體育",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IQnJhQnRhWUU2cmhkSVpXQmptT0Q0QmRoME44TjF0Y2x2TjNJbjBReUN1TWgzdl95NFphcjdMcVdYNjN4RW1oc0hQVmQ3WEdpdGFvNzY4OVoxVGl5dF9QdtIBZkFVX3lxTE5HRFFiVm5hY2kya29iTFRZSkRaakhLTWV1MnMwdkVsSFlCRWFnS0poNXY0TjRhUXo2Nl9ia1o4U2lLVGNjaWhqd2gzdExHbHRsajY1UWVKNU5FMC16aEkyak5YVWE5UQ?oc=5",
+      "source": "自由體育",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-37d70fc53d48",
+      "date": "2026-10-21",
+      "time": "12:52",
+      "type": "NEWS",
+      "title": "棒球智庫／台灣大賽第四戰雙土投先發 運彩仍較看好中信兄弟 - Go Baseball 夠棒網",
+      "summary": "棒球智庫／台灣大賽第四戰雙土投先發 運彩仍較看好中信兄弟 Go Baseball 夠棒網",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5SnVTMFpDSnk3UnpwakNtemp4Z0NLbzRobWh5eFdNeldHaUo0QTZwRDM2ckRYalphWUlOb0hpcG5vYUQxeU4wUlAzMWZKeWx5YkJMcHpldUZIWGc?oc=5",
+      "source": "Go Baseball 夠棒網",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-c7e4d3315d72",
+      "date": "2026-10-18",
+      "time": "15:57",
+      "type": "NEWS",
+      "title": "台灣大賽》味全龍旗開得勝照樣變陣 葉總有關鍵考量 - 自由體育",
+      "summary": "台灣大賽》味全龍旗開得勝照樣變陣 葉總有關鍵考量 自由體育",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAxbU5vY1B4VzlEYWI3M1ZIMmw3RGJpQlpuSHBDTzNVQm9uU2hIWGRHTk1XcUI1TXpCWTRVN0pIaWl5V1BIV2hhM0sxVEY3R29rMHYwVGtPTTFQcTZHam9FY9IBZkFVX3lxTE9XV2RTZFhZN3k5Yzc1NlpNajVvWmdjM3g3ZVphNVNSRjNraFhxRDdzT1VvOVhMQzRGRXJiaERoV3dCOHJsQTluUlh1ZzY3OWNwZWxtXzVqRmZwblg4Z0NYS0hhTmF2Zw?oc=5",
+      "source": "自由體育",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-1582fd089ef8",
+      "date": "2026-10-20",
+      "time": "21:58",
+      "type": "NEWS",
+      "title": "台灣大賽》中信兄弟被逼入0勝3敗絕境！ G4推出鄭浩均出戰味全龍黃暐傑 | TSNA - LINE TODAY",
+      "summary": "台灣大賽》中信兄弟被逼入0勝3敗絕境！ G4推出鄭浩均出戰味全龍黃暐傑 | TSNA LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1uUC10M1czb2szOHVVbUp3a21GYzVBMXlPQzFKQXVWaWstQlRoU2ZkTk00QndaeVFqOUgteE5fajJMbXJiNFJtQ0pOanlmNVl4eDFNaExn?oc=5",
+      "source": "LINE TODAY",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-d4707a00169b",
+      "date": "2026-10-17",
+      "time": "19:32",
+      "type": "NEWS",
+      "title": "中職37年總冠軍賽今開打 味全龍對決中信兄弟 - 你的公共電視",
+      "summary": "中職37年總冠軍賽今開打 味全龍對決中信兄弟 你的公共電視",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBZejNrVlFfd2tDZlhXckNDYVluUDgxdndiNlVtcF93LUQ2cnhiNnlNczkwNTU5Q0hnZ1lxUHdoYVJDRWhzYXF5TEl1RGtvOXc?oc=5",
+      "source": "你的公共電視",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-ef6a349f0500",
+      "date": "2026-10-16",
+      "time": "17:06",
+      "type": "NEWS",
+      "title": "味全龍21歲左投家中發生變故 黃侰程申請引退：遺憾無法繼續為球隊貢獻 - Go Baseball 夠棒網",
+      "summary": "味全龍21歲左投家中發生變故 黃侰程申請引退：遺憾無法繼續為球隊貢獻 Go Baseball 夠棒網",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvalZRVkZnTTZYN2RmMWNFRWl5WEl6R1JJOURGR1E1QUJ1STRVblZHZEFUc01URnJLUFAtSUJrVGJyT1JsOUxUX2V0VHJyZVJWVXRCWVEybFBlbDQ?oc=5",
+      "source": "Go Baseball 夠棒網",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-37bcc58cea37",
+      "date": "2026-10-17",
+      "time": "15:59",
+      "type": "NEWS",
+      "title": "台灣大賽》味全龍不上場登錄名單曝光 其中暗藏玄機 ！ - 自由體育",
+      "summary": "台灣大賽》味全龍不上場登錄名單曝光 其中暗藏玄機 ！ 自由體育",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kbEtpc2wtZm5SWXUtaVF2OHdHZEZOZWcxRnpjZVNkRTNDVVl5UGpoMnR2VmNOVjdpbGV6TktTM2tjOEV5aTBmdjcwTWpIcU1BOWNBeTFiSUVsNFkwUUtUddIBZkFVX3lxTE0tMEJ3MUxaMGlUaER1bmw1Z1Y0Xy1kMWtodEs5b21pQTNYeTZ3M0c4QVdBOUpfVGZNWGJfNFF6QzBnN0x6YUNVMkUzM252VXRiRTBCV29iZUs0eXhtSVF0OTlUb2NNZw?oc=5",
+      "source": "自由體育",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-6e5f9e77c06f",
+      "date": "2026-10-20",
+      "time": "13:05",
+      "type": "NEWS",
+      "title": "【台灣大賽直播 G3】鋼龍對決羅戈！味全龍 vs 中信兄弟 10/20 轉播、線上看 - 蘋果仁",
+      "summary": "【台灣大賽直播 G3】鋼龍對決羅戈！味全龍 vs 中信兄弟 10/20 轉播、線上看 蘋果仁",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBFZ2tOQ2pyVWxVWERnZVJDeVBpSEh0UmFTYk96OHpZQXNsdFE1YXF1MVZaUjFMZXAtTlo5RVpjV3VJMG5tUFphcFBZRWo?oc=5",
+      "source": "蘋果仁",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-e9867528d613",
+      "date": "2026-10-17",
+      "time": "16:08",
+      "type": "NEWS",
+      "title": "中職／台灣大賽將開打！味全龍、中信兄弟先發棒次出爐 - TVBS新聞網",
+      "summary": "中職／台灣大賽將開打！味全龍、中信兄弟先發棒次出爐 TVBS新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9pdk00dkY0ZVNIdnhyM2xHQU93dkJmRl9iSHQ1WVpTa0plOEZFTVlhUU9uOFVGUHNIR2JYTEQzMlpEeG4tWGpIc1BpYWJPbTljSzQwajFBcmc4UjVO?oc=5",
+      "source": "TVBS新聞網",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-31c5d7ea39a7",
+      "date": "2026-10-14",
+      "time": "11:27",
+      "type": "NEWS",
+      "title": "台灣大賽購票懶人包！味全龍加開座位 中信兄弟票價、應援好康一次看 - Yahoo新聞",
+      "summary": "台灣大賽購票懶人包！味全龍加開座位 中信兄弟票價、應援好康一次看 Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxNcTc4Rld6Z0E0S1AyVFVGTmptX2g4cl9EWk5MLUVGcExwOTBseWwxM3JsMU5MTmhfWlgtRWpTSTBnbjd6MFVJVXZGNGhOa1ZUT2pncWpVbG9Sak9DZUYxeVdhSVBsbVJQbkV4RWJEWkZoV1JYM3BLVFBGMFZ2V0J3WURsdWVpUkhRcXh0RVlXem5CVTBqLWZ5Rmw1c2NvdG1fQzg5SC1xSmltVVJHOFZCMzRHX2dsU2NNNDA4eFFLaWxkNkVid2pUX0F5YWlTeFM4U3BqaTJhY0NpTkNlUlpwNGtVVkM0VlRMWHktc20zX0c2MkVoV0lPNnhTdEFrOHVTWE4zNldIYkN1Z0k2T0VsOWs5ZFNyVnowRHhSR3VSSEVsX0U1N2Nfek81MURpVXI3eUk4ZXJfaTlUQ2JKRmsyOGJXSUh0T0dZdnV6b3lfMHhGWUVOUlhSZHlHSmhESU1hNHd0N0VGT0dpWDh4cGRnTFdkcFBfME9jVjhWMVJpR3NRVkVSd1pqOFEzRHQtall2NVE3cnNlVi1ENjNCcTFBNDVpbHVzTzNh?oc=5",
+      "source": "Yahoo新聞",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-1a6b5ff0a8eb",
+      "date": "2026-10-20",
+      "time": "21:49",
+      "type": "NEWS",
+      "title": "台灣大賽 味全龍6：0完封兄弟 系列賽3連勝聽牌 - 蕃新聞",
+      "summary": "台灣大賽 味全龍6：0完封兄弟 系列賽3連勝聽牌 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUMG5ScEdLX0UzYXBFcjRnNnhjVHpBalo3SGlaY2ZCSTd2N292bEUydTdtamNZRW94UWZJOXdUc1doMk5xeVNuXzJyc3RiVWVMU0E?oc=5",
+      "source": "蕃新聞",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-3dc858469310",
+      "date": "2026-10-21",
+      "time": "11:55",
+      "type": "NEWS",
+      "title": "中職／味全龍拚橫掃封王拋紅彩帶！G4派土投黃暐傑掛帥 中信兄弟鄭皓均守最後防線 - 民視運動網",
+      "summary": "中職／味全龍拚橫掃封王拋紅彩帶！G4派土投黃暐傑掛帥 中信兄弟鄭皓均守最後防線 民視運動網",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5XRUtIclFfN3hYckJsM09oeGR5MG5mRWI5a2tobW8tLXkwSUo3TncxR0dBWThrNFZxdUZZeUtkTkNCamY5WmtHT1FzUnJmQzBMcENNX2lwTU9FcDFYb2NvaEpqNA?oc=5",
+      "source": "民視運動網",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-9e3de1fd8d75",
+      "date": "2026-10-20",
+      "time": "21:23",
+      "type": "NEWS",
+      "title": "台灣大賽》味全龍先馳得點3連勝聽牌中信兄弟3場只拿1分史上最低- 棒球 - TSNA體育新聞團隊",
+      "summary": "台灣大賽》味全龍先馳得點3連勝聽牌中信兄弟3場只拿1分史上最低- 棒球 TSNA體育新聞團隊",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9rUlRCNFJEakJZU2NxYVAxVlctbVpZRDREZXQwSGN6elZjVmJLVDhHWThJNDhtcFlZSVZqZVZLdGRTNEc3UXc?oc=5",
+      "source": "TSNA體育新聞團隊",
+      "tags": [
+        "RSS",
+        "新聞"
+      ]
+    },
+    {
+      "id": "e-27b8beb3e669",
+      "date": "2026-10-21",
+      "time": "13:05",
+      "type": "NEWS",
+      "title": "中職／龍隊台灣大賽連3勝聽牌！ 張政禹「閃身步」躲觸殺 - 東森新聞",
+      "summary": "中職／龍隊台灣大賽連3勝聽牌！ 張政禹「閃身步」躲觸殺 東森新聞",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1JaTg0bklMb21LekRlUkpmZGp2cC1jMXV3X25JbkdTcE81a2FsNXVITU9yUy1Wa2xrU2VvQ29PNUZ5anNjdURUTFRaazdPSkxxT1FF?oc=5",
+      "source": "東森新聞",
       "tags": [
         "RSS",
         "新聞"
@@ -18428,8 +19786,8 @@
       "status": "ok",
       "auth": "none",
       "mode": "public web / Next.js payload",
-      "last_checked": "2026-10-10T16:47:09+08:00",
-      "last_success": "2026-10-10T16:47:09+08:00",
+      "last_checked": "2026-10-21T13:54:09+08:00",
+      "last_success": "2026-10-21T13:54:09+08:00",
       "records": 82,
       "note": "CPBL Stats 公開球員名單 82 人"
     },
@@ -18439,10 +19797,10 @@
       "status": "ok",
       "auth": "none",
       "mode": "public web JSON",
-      "last_checked": "2026-10-10T16:47:14+08:00",
-      "last_success": "2026-10-10T16:47:14+08:00",
-      "records": 541,
-      "note": "CPBL 2026: 味全一、二軍 229 場；近期先發 9 場"
+      "last_checked": "2026-10-21T13:54:10+08:00",
+      "last_success": "2026-10-21T13:54:10+08:00",
+      "records": 472,
+      "note": "CPBL 2026: 味全一、二軍 229 場；近期先發 0 場"
     },
     {
       "id": "wdragons",
@@ -18450,8 +19808,8 @@
       "status": "ok",
       "auth": "none",
       "mode": "RSS",
-      "last_checked": "2026-10-10T16:47:15+08:00",
-      "last_success": "2026-10-10T16:47:15+08:00",
+      "last_checked": "2026-10-21T13:54:12+08:00",
+      "last_success": "2026-10-21T13:54:12+08:00",
       "records": 23,
       "note": "3/3 feed(s)；23 則"
     },
@@ -18461,8 +19819,8 @@
       "status": "ok",
       "auth": "none",
       "mode": "RSS",
-      "last_checked": "2026-10-10T16:47:16+08:00",
-      "last_success": "2026-10-10T16:47:16+08:00",
+      "last_checked": "2026-10-21T13:54:13+08:00",
+      "last_success": "2026-10-21T13:54:13+08:00",
       "records": 100,
       "note": "1/1 feed(s)；100 則"
     },
@@ -18472,8 +19830,8 @@
       "status": "ok",
       "auth": "none",
       "mode": "static public registry",
-      "last_checked": "2026-10-10T16:47:16+08:00",
-      "last_success": "2026-10-10T16:47:16+08:00",
+      "last_checked": "2026-10-21T13:54:13+08:00",
+      "last_success": "2026-10-21T13:54:13+08:00",
       "records": 14,
       "note": "14 個球場"
     },
@@ -18483,7 +19841,7 @@
       "status": "warn",
       "auth": "none",
       "mode": "Open-Meteo hourly forecast",
-      "last_checked": "2026-10-10T16:47:16+08:00",
+      "last_checked": "2026-10-21T13:54:13+08:00",
       "last_success": "2026-10-02T11:34:01+08:00",
       "records": 0,
       "note": "目前預報範圍內沒有可配對的戶外比賽"
